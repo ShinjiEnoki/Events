@@ -4,6 +4,12 @@
 2014年
 ------
 
+* 11月12日（水）
+   * `concrete5の日 in JUSO Coworking Vol. 2 <http://concrete5-kansai.doorkeeper.jp/events/16672>`_
+
+* 11月12日（水）
+   * `京都アジャイル勉強会 エッセンシャルスクラム読書会 #4 <http://connpass.com/event/9740/>`_
+
 * 11月9日（日）
    * `KOF2014翌日もくもく会 <http://connpass.com/event/9898/>`_
 

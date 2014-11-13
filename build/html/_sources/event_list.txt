@@ -4,12 +4,6 @@
 2014年
 ^^^^^^
 
-* 11月12日（水）
-   * `concrete5の日 in JUSO Coworking Vol. 2 <http://concrete5-kansai.doorkeeper.jp/events/16672>`_
-
-* 11月12日（水）
-   * `京都アジャイル勉強会 エッセンシャルスクラム読書会 #4 <http://connpass.com/event/9740/>`_ [参加]
-
 * 11月14日（金）
    * `市民が語る『西宮いまむかし物語』 <http://www.nishi.or.jp/contents/0003190000040004900713.html>`_
 
@@ -17,7 +11,7 @@
    * `Startup Weekend Osaka vol.6 <http://swosaka.doorkeeper.jp/events/14330>`_ [参加]
 
 * 11月19日（水）
-   * `LibreOfficeの日 vol.10 <http://juso-coworking.doorkeeper.jp/events/16698>`_ [参加]
+   * `LibreOfficeの日 vol.10 @JUSO Coworking <http://juso-coworking.doorkeeper.jp/events/16698>`_ [参加]
 
 * 11月21日（金）-22日（土）
    * `オープンソースカンファレンス2014 Fukuoka <http://www.ospn.jp/osc2014-fukuoka/>`_ [参加予定]
@@ -38,10 +32,10 @@
    * JISTA関西定例会「企業におけるグローバルネットワーク構築のとりくみ」
 
 * 11月28日(金)～29日(土)
-   * 神戸ITフェス
+   * `神戸ITフェス <http://kobe-it-fes.org/>`_
 
 * 11月29日（土）
-   * スクラムブートキャンプ
+   * `(スクラム道関西presents) Scrum Boot Camp OSAKA 2014 <http://scrumdo-kansai.doorkeeper.jp/events/16876>`_
 
 * 11月29日（土）
    * `福岡まちあるきオープンデータソン <http://connpass.com/event/9815/>`_
@@ -50,7 +44,7 @@
    * JSDG東京ミニ研
 
 * 12月6日（土）
-   * `JasperServerユーザー勉強会 <http://connpass.com/event/9920/>`_
+   * `JasperServerユーザー勉強会 <http://connpass.com/event/9920/>`_ [参加]
 
 * 12月7日（日）
    * 京都オープンデータソン2014 vol.4 [参加予定]
@@ -59,10 +53,10 @@
    * `CCPMカンファレンス「Project Flow2014 in Japan」 <http://jp.fujitsu.com/group/fwest/topics/20141211.html>`_ [参加]
 
 * 12月13日（土）
-   * 第8回関西LibreOffice勉強会
+   * `第8回関西LibreOffice勉強会 <http://connpass.com/event/10005/>`_ [参加]
 
 * 12月13日（土）
-   * OSMサミット
+   * `State of the Map Japan 2014東京 <https://stateofthemap.jp/2014/>`_
 
 * 12月13日（土）
    * `第29回まっちゃ１３９勉強会 <http://www.matcha139.jp/workshop/29thworkshop>`_
@@ -70,26 +64,41 @@
 * 12月14日（日）
    * `LibreOfficeアドベントカレンダー <http://www.adventar.org/calendars/507>`_ [書く]
 
-* 12月19日（金）
-   * ODPG [参加]
+* 12月17日（水）予定
+   * LibreOfficeの日 vol.11 @JUSO Coworking
 
 * 12月17日（水）-18日（木）
    * `全体最適のマネジメント理論　TOCサミット　12月17～18日 <http://kokucheese.com/event/index/224659/>`_
 
+* 12月19日（金）
+   * `ODPG <http://odpg.org>`_ [参加/講演]
 
 2015年
 ^^^^^^
 
 * 1月10日（土）
-   * LILO＆東海道らぐオフラインミーティング
+   * LILO＆東海道らぐオフラインミーティング [参加予定]
+
+* 1月11日（日）-12日（月）
+   * 岡山県北木島オープンデータソン [参加予定]
 
 * 2月10日（火）
-   * 浜名湖LibreOffice勉強会
+   * 浜名湖LibreOffice勉強会 [参加予定]
 
 * 2月11日（水）
-   * オープンソースカンファレンス2015 Hamanako
+   * `オープンソースカンファレンス2015 Hamanako <http://www.ospn.jp/osc2015-hamanako/>`_ [参加予定]
 
 * 2月22日（土）？
    * オープンデータディ
 
+* 2月27日（金）-28日（土）？
+   * `オープンソースカンファレンス2015 Tokyo/Spring <http://www.ospn.jp/osc2015-spring/>`_ [参加予定]
 
+* 5月23日（土）
+   * オープンソースカンファレンス2015 Nagoya
+
+* 6月12日（金）-13日（土）
+   * オープンソースカンファレンス2015 Hokkaido
+
+* 7月4日（土）
+   * オープンソースカンファレンス2015 Okinawa
