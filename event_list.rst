@@ -4,12 +4,6 @@
 2014年
 ^^^^^^
 
-* 11月14日（金）
-   * `市民が語る『西宮いまむかし物語』 <http://www.nishi.or.jp/contents/0003190000040004900713.html>`_
-
-* 11月14日（金）-16日（日）
-   * `Startup Weekend Osaka vol.6 <http://swosaka.doorkeeper.jp/events/14330>`_ [参加]
-
 * 11月19日（水）
    * `LibreOfficeの日 vol.10 @JUSO Coworking <http://juso-coworking.doorkeeper.jp/events/16698>`_ [参加]
 
@@ -93,6 +87,9 @@
 
 * 2月27日（金）-28日（土）？
    * `オープンソースカンファレンス2015 Tokyo/Spring <http://www.ospn.jp/osc2015-spring/>`_ [参加予定]
+
+* 4月17日
+   * `Startup Weekend Osaka vol.7 <http://swosaka.doorkeeper.jp/events/17572>`_
 
 * 5月23日（土）
    * オープンソースカンファレンス2015 Nagoya

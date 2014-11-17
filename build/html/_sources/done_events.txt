@@ -4,6 +4,9 @@
 2014年
 ------
 
+* 11月14日（金）-16日（日）
+   * `Startup Weekend Osaka vol.6 <http://swosaka.doorkeeper.jp/events/14330>`_
+
 * 11月12日（水）
    * `concrete5の日 in JUSO Coworking Vol. 2 <http://concrete5-kansai.doorkeeper.jp/events/16672>`_
 
