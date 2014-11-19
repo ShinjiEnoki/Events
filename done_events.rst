@@ -58,6 +58,9 @@
 * 9月24日（水）
    * オープンデータ京都実践会2014 vol.3企画ミーティング
 
+* 9月20日（土）
+   * `オープンソースカンファレンス2014 Hiroshima <http://www.ospn.jp/osc2014-hiroshima/>`_
+
 * 9月17日（水）
    * `LibreOfficeの日 vol.08 in JUSOコワーキング <http://juso-coworking.doorkeeper.jp/events/14501>`_
 

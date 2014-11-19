@@ -34,6 +34,9 @@
 * 11月29日（土）
    * `福岡まちあるきオープンデータソン <http://connpass.com/event/9815/>`_
 
+* 11月30日（日）
+   * `宇宙zsh <http://uchuzsh1.peatix.com/>`_
+
 * 12月6日（土）
    * JSDG東京ミニ研
 
