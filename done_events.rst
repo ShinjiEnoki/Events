@@ -4,6 +4,9 @@
 2014年
 ------
 
+* 11月19日（水）
+   * `LibreOfficeの日 vol.10 @JUSO Coworking <http://juso-coworking.doorkeeper.jp/events/16698>`_
+
 * 11月14日（金）-16日（日）
    * `Startup Weekend Osaka vol.6 <http://swosaka.doorkeeper.jp/events/14330>`_
 

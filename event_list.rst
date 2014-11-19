@@ -4,9 +4,6 @@
 2014年
 ^^^^^^
 
-* 11月19日（水）
-   * `LibreOfficeの日 vol.10 @JUSO Coworking <http://juso-coworking.doorkeeper.jp/events/16698>`_ [参加]
-
 * 11月21日（金）-22日（土）
    * `オープンソースカンファレンス2014 Fukuoka <http://www.ospn.jp/osc2014-fukuoka/>`_ [参加予定]
 
@@ -44,7 +41,10 @@
    * `JasperServerユーザー勉強会 <http://connpass.com/event/9920/>`_ [参加]
 
 * 12月7日（日）
-   * 京都オープンデータソン2014 vol.4 [参加予定]
+   * `京都オープンデータソン2014 vol.4 <http://opendata-kyoto.doorkeeper.jp/events/17717>`_ [参加]
+
+* 12月10日（水）
+   * LibreOfficeの日 vol.11 @JUSO Coworking [参加] 
 
 * 12月11日（木）
    * `CCPMカンファレンス「Project Flow2014 in Japan」 <http://jp.fujitsu.com/group/fwest/topics/20141211.html>`_ [参加]
