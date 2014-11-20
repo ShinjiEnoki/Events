@@ -4,11 +4,17 @@
 2014年
 ^^^^^^
 
+* 11月21日（金）
+   * `国産だからこそのメリットが！ ３つの国産ＣＭＳがまるごとわかるセミナー <http://c539e42b6a165bdddd88600e6c.doorkeeper.jp/events/16909>`_ [参加]
+
 * 11月21日（金）-22日（土）
-   * `オープンソースカンファレンス2014 Fukuoka <http://www.ospn.jp/osc2014-fukuoka/>`_ [参加予定]
+   * `オープンソースカンファレンス2014 Fukuoka <http://www.ospn.jp/osc2014-fukuoka/>`_ [参加]
 
 * 11月23日（日）
    * `第5回九州LibreOffice勉強会 <http://connpass.com/event/9723/>`_ [参加]
+
+* 11月23日（日）
+   * `奈良オープンデータソン <http://kokucheese.com/event/index/232215/>`_
 
 * 11月24日（月）
    * `オープンソースアンカンファレンス鹿児島 <http://connpass.com/event/9926/>`_
@@ -32,7 +38,13 @@
    * `福岡まちあるきオープンデータソン <http://connpass.com/event/9815/>`_
 
 * 11月30日（日）
+   * `POStudy Day 2014 Autumn in Tokyo <http://postudy.doorkeeper.jp/events/16988>`_
+
+* 11月30日（日）
    * `宇宙zsh <http://uchuzsh1.peatix.com/>`_
+
+* 12月3日（水）
+   * `京都アジャイル勉強会 エッセンシャルスクラム読書会 #5 <http://connpass.com/event/10130/>`_ [参加]
 
 * 12月6日（土）
    * JSDG東京ミニ研
@@ -85,7 +97,7 @@
 * 2月11日（水）
    * `オープンソースカンファレンス2015 Hamanako <http://www.ospn.jp/osc2015-hamanako/>`_ [参加予定]
 
-* 2月22日（土）？
+* 2月21日（土）
    * オープンデータディ
 
 * 2月27日（金）-28日（土）？
