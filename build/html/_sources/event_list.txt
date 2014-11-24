@@ -4,21 +4,6 @@
 2014年
 ^^^^^^
 
-* 11月21日（金）
-   * `国産だからこそのメリットが！ ３つの国産ＣＭＳがまるごとわかるセミナー <http://c539e42b6a165bdddd88600e6c.doorkeeper.jp/events/16909>`_ [参加]
-
-* 11月21日（金）-22日（土）
-   * `オープンソースカンファレンス2014 Fukuoka <http://www.ospn.jp/osc2014-fukuoka/>`_ [参加]
-
-* 11月23日（日）
-   * `第5回九州LibreOffice勉強会 <http://connpass.com/event/9723/>`_ [参加]
-
-* 11月23日（日）
-   * `奈良オープンデータソン <http://kokucheese.com/event/index/232215/>`_
-
-* 11月24日（月）
-   * `オープンソースアンカンファレンス鹿児島 <http://connpass.com/event/9926/>`_
-
 * 11月25日（火）
    * オープンデータ京都実践会MTG [参加]
 
@@ -72,9 +57,6 @@
 
 * 12月14日（日）
    * `LibreOfficeアドベントカレンダー <http://www.adventar.org/calendars/507>`_ [書く]
-
-* 12月17日（水）予定
-   * LibreOfficeの日 vol.11 @JUSO Coworking
 
 * 12月17日（水）-18日（木）
    * `全体最適のマネジメント理論　TOCサミット　12月17～18日 <http://kokucheese.com/event/index/224659/>`_

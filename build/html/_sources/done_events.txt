@@ -4,6 +4,12 @@
 2014年
 ------
 
+* 11月23日（日）
+   * `第5回九州LibreOffice勉強会 <http://connpass.com/event/9723/>`_
+
+* 11月21日（金）-22日（土）
+   * `オープンソースカンファレンス2014 Fukuoka <http://www.ospn.jp/osc2014-fukuoka/>`_
+
 * 11月19日（水）
    * `LibreOfficeの日 vol.10 @JUSO Coworking <http://juso-coworking.doorkeeper.jp/events/16698>`_
 
