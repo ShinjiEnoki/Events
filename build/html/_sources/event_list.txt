@@ -4,17 +4,11 @@
 2014年
 ^^^^^^
 
-* 11月25日（火）
-   * オープンデータ京都実践会MTG [参加]
-
-* 11月25日（火）
-   * `観察から始める仮説の立て方・想像の仕方 <http://devlove-kansai.doorkeeper.jp/events/16808>`_
-
-* 11月26日（水）
-   * JISTA関西定例会「企業におけるグローバルネットワーク構築のとりくみ」
-
 * 11月28日(金)～29日(土)
    * `神戸ITフェス <http://kobe-it-fes.org/>`_
+
+* 11月29日（土）
+   * `イノベートジャパンカンファレンス２０１４＠大阪 <http://ba-kansai.doorkeeper.jp/events/16313>`_
 
 * 11月29日（土）
    * `(スクラム道関西presents) Scrum Boot Camp OSAKA 2014 <http://scrumdo-kansai.doorkeeper.jp/events/16876>`_
@@ -31,6 +25,9 @@
 * 12月3日（水）
    * `京都アジャイル勉強会 エッセンシャルスクラム読書会 #5 <http://connpass.com/event/10130/>`_ [参加]
 
+* 12月5日（金）
+   * Code for Shiga / Biwako 防災サイトは災害時によく落ちるのか？
+
 * 12月6日（土）
    * JSDG東京ミニ研
 
@@ -41,7 +38,7 @@
    * `京都オープンデータソン2014 vol.4 <http://opendata-kyoto.doorkeeper.jp/events/17717>`_ [参加]
 
 * 12月10日（水）
-   * LibreOfficeの日 vol.11 @JUSO Coworking [参加] 
+   * `LibreOfficeの日 vol.11 @JUSO Coworking <http://juso-coworking.doorkeeper.jp/events/17955>`_ [参加] 
 
 * 12月11日（木）
    * `CCPMカンファレンス「Project Flow2014 in Japan」 <http://jp.fujitsu.com/group/fwest/topics/20141211.html>`_ [参加]
@@ -55,6 +52,9 @@
 * 12月13日（土）
    * `第29回まっちゃ１３９勉強会 <http://www.matcha139.jp/workshop/29thworkshop>`_
 
+* 12月13日（土）-14（日）
+   * `日本UNIXユーザ会・シェルスクリプトワークショップ <http://japanunixsociety.doorkeeper.jp/events/16895>`_
+
 * 12月14日（日）
    * `LibreOfficeアドベントカレンダー <http://www.adventar.org/calendars/507>`_ [書く]
 
@@ -63,6 +63,9 @@
 
 * 12月19日（金）
    * `ODPG <http://odpg.org>`_ [参加/講演]
+
+* 12月20日（土）
+   * `NSC Traning in OSAKA <http://0982a8574fcbf845aac160bfe9.doorkeeper.jp/events/17921>`_
 
 * 12月27日（土）
    * `魅力品質勉強会（ユーザビリティ編） <http://kokucheese.com/event/index/238597/>`_
