@@ -4,6 +4,15 @@
 2014年
 ------
 
+* 12月7日（日）
+   * `京都オープンデータソン2014 vol.4 <http://opendata-kyoto.doorkeeper.jp/events/17717>`_
+
+* 12月6日（土）
+   * `JasperServerユーザー勉強会 <http://connpass.com/event/9920/>`_
+
+* 12月3日（水）
+   * `京都アジャイル勉強会 エッセンシャルスクラム読書会 #5 <http://connpass.com/event/10130/>`_
+
 * 11月25日（火）
    * オープンデータ京都実践会MTG
 

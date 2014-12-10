@@ -4,39 +4,6 @@
 2014年
 ^^^^^^
 
-* 11月28日(金)～29日(土)
-   * `神戸ITフェス <http://kobe-it-fes.org/>`_
-
-* 11月29日（土）
-   * `イノベートジャパンカンファレンス２０１４＠大阪 <http://ba-kansai.doorkeeper.jp/events/16313>`_
-
-* 11月29日（土）
-   * `(スクラム道関西presents) Scrum Boot Camp OSAKA 2014 <http://scrumdo-kansai.doorkeeper.jp/events/16876>`_
-
-* 11月29日（土）
-   * `福岡まちあるきオープンデータソン <http://connpass.com/event/9815/>`_
-
-* 11月30日（日）
-   * `POStudy Day 2014 Autumn in Tokyo <http://postudy.doorkeeper.jp/events/16988>`_
-
-* 11月30日（日）
-   * `宇宙zsh <http://uchuzsh1.peatix.com/>`_
-
-* 12月3日（水）
-   * `京都アジャイル勉強会 エッセンシャルスクラム読書会 #5 <http://connpass.com/event/10130/>`_ [参加]
-
-* 12月5日（金）
-   * Code for Shiga / Biwako 防災サイトは災害時によく落ちるのか？
-
-* 12月6日（土）
-   * JSDG東京ミニ研
-
-* 12月6日（土）
-   * `JasperServerユーザー勉強会 <http://connpass.com/event/9920/>`_ [参加]
-
-* 12月7日（日）
-   * `京都オープンデータソン2014 vol.4 <http://opendata-kyoto.doorkeeper.jp/events/17717>`_ [参加]
-
 * 12月10日（水）
    * `LibreOfficeの日 vol.11 @JUSO Coworking <http://juso-coworking.doorkeeper.jp/events/17955>`_ [参加] 
 
@@ -56,16 +23,28 @@
    * `日本UNIXユーザ会・シェルスクリプトワークショップ <http://japanunixsociety.doorkeeper.jp/events/16895>`_
 
 * 12月14日（日）
+   * KOF振り返りMTG
+
+* 12月14日（日）
    * `LibreOfficeアドベントカレンダー <http://www.adventar.org/calendars/507>`_ [書く]
+
+* 12月16日（火）
+   * 京都オープンデータ実践会MTG
 
 * 12月17日（水）-18日（木）
    * `全体最適のマネジメント理論　TOCサミット　12月17～18日 <http://kokucheese.com/event/index/224659/>`_
+
+* 12月18日（木）
+   * `できる？できない？クリエイティブ・コモンズ・ライセンスを活用してこんなふうに研究・成果を拡散したい！ <http://www.kura.kyoto-u.ac.jp/event/30>`_ [参加検討中]
 
 * 12月19日（金）
    * `ODPG <http://odpg.org>`_ [参加/講演]
 
 * 12月20日（土）
    * `NSC Traning in OSAKA <http://0982a8574fcbf845aac160bfe9.doorkeeper.jp/events/17921>`_
+
+* 12月20日（土）
+   * JSDG中部ミニ研修会
 
 * 12月27日（土）
    * `魅力品質勉強会（ユーザビリティ編） <http://kokucheese.com/event/index/238597/>`_
@@ -79,6 +58,9 @@
 * 1月11日（日）-12日（月）
    * 岡山県北木島オープンデータソン [参加予定]
 
+* 1月24日（土）
+   * TOCfE BootCamp 2015 @KOBE -CLOUD-
+
 * 2月10日（火）
    * 浜名湖LibreOffice勉強会 [参加予定]
 
@@ -86,12 +68,15 @@
    * `オープンソースカンファレンス2015 Hamanako <http://www.ospn.jp/osc2015-hamanako/>`_ [参加予定]
 
 * 2月21日（土）
-   * オープンデータディ
+   * オープンデータディ [参加予定]
 
-* 2月27日（金）-28日（土）？
+* 2月27日（金）-28日（土）
    * `オープンソースカンファレンス2015 Tokyo/Spring <http://www.ospn.jp/osc2015-spring/>`_ [参加予定]
 
-* 4月17日
+* 4月16日（木）
+   * `Agile Japan 2015 <http://www.agilejapan.org/>`_
+
+* 4月17日（金）-19日（日）
    * `Startup Weekend Osaka vol.7 <http://swosaka.doorkeeper.jp/events/17572>`_
 
 * 5月23日（土）
