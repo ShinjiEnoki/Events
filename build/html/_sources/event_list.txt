@@ -4,8 +4,6 @@
 2014年
 ^^^^^^
 
-* 12月27日（土）
-   * `魅力品質勉強会（ユーザビリティ編） <http://kokucheese.com/event/index/238597/>`_
 
 2015年
 ^^^^^^
@@ -16,8 +14,14 @@
 * 1月11日（日）-12日（月）
    * 岡山県北木島オープンデータソン [参加]
 
+* 1月21日（水）
+   * LibreOfficeの日@JusoCoworking
+
 * 1月24日（土）
    * TOCfE BootCamp 2015 @KOBE -CLOUD-
+
+* 1月31日（土）
+   * `魅力品質勉強会（ユーザビリティ編） <http://kokucheese.com/event/index/238597/>`_
 
 * 2月10日（火）
    * 浜名湖LibreOffice勉強会 [参加予定]
