@@ -4,14 +4,20 @@
 2014年
 ------
 
+* 12月30日（火）
+   * `関西でのオープンデータ活動情報収集ミーティング <https://www.facebook.com/events/1024720600887945>`_
+
+* 12月28日（日）
+   * `第92回関西Debian勉強会 <https://wiki.debian.org/KansaiDebianMeeting/20141228>`_
+
 * 12月22日（月）
    * `International Open Data Day 2015 in 関西 プレプレイベント <http://peatix.com/event/64186>`_
 
 * 12月21日（日）
-   * `関西LibreOffice翻訳もくもく会2014/12/21 <>`_
+   * `関西LibreOffice翻訳もくもく会2014/12/21 <http://connpass.com/event/10677/>`_
 
 * 12月20日（土）
-   * `関西LibreOfficeバグハンティングセッション 2014/12/20 <>`_
+   * `関西LibreOfficeバグハンティングセッション 2014/12/20 <http://connpass.com/event/10676/>`_
 
 * 12月19日（金）
    * `ODPG2014年12月定例会 <http://odpg.org>`_
@@ -25,14 +31,14 @@
 * 12月14日（日）
    * KOF振り返りMTG
 
-* 12月10日（水）
-   * `LibreOfficeの日 vol.11 @JUSO Coworking <http://juso-coworking.doorkeeper.jp/events/17955>`_
-
 * 12月13日（土）
    * `第8回関西LibreOffice勉強会 <http://connpass.com/event/10005/>`_
 
 * 12月11日（木）
    * `CCPMカンファレンス「Project Flow2014 in Japan」 <http://jp.fujitsu.com/group/fwest/topics/20141211.html>`_
+
+* 12月10日（水）
+   * `LibreOfficeの日 vol.11 @JUSO Coworking <http://juso-coworking.doorkeeper.jp/events/17955>`_
 
 * 12月7日（日）
    * `京都オープンデータソン2014 vol.4 <http://opendata-kyoto.doorkeeper.jp/events/17717>`_
