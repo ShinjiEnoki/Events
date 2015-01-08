@@ -4,17 +4,20 @@
 2015年
 ^^^^^^
 
-* 1月7日（水）
-   * `京都アジャイル勉強会 エッセンシャルスクラム読書会 #7 <http://connpass.com/event/10871/>`_ [参加]
-
 * 1月10日（土）
    * `LILO＆東海道らぐオフラインミーティング <http://lilo.doorkeeper.jp/events/18987>`_ [参加]
 
 * 1月11日（日）-12日（月）
    * `第1回北木島オープンデータソン <https://www.facebook.com/events/858866807469000/>`_ [参加]
 
+* 1月20日（火）
+   * エッセンシャルスクラム読書会
+
+* 1月20日（火）
+   * `第4回浜名湖LibreOffice勉強会 <https://www.facebook.com/events/784787014904103>`_
+
 * 1月21日（水）
-   * LibreOfficeの日@JusoCoworking
+   * `LibreOfficeの日 vol.12 @JUSO Coworking <http://juso-coworking.doorkeeper.jp/events/19426>`_ [参加]
 
 * 1月24日（土）
    * TOCfE BootCamp 2015 @KOBE -CLOUD-
@@ -27,6 +30,9 @@
 
 * 2月7日（土）
    * `オープンソースカンファレンス 2015 Oita <http://www.ospn.jp/osc2015-oita/>`_
+
+* 2月7日（土）
+   * `「駅すぱあと」を支える開発 〜９２６２の可能性を繋げ！〜(DevLOVE関西Ver) <http://devlove-kansai.doorkeeper.jp/events/19221>`_
 
 * 2月10日（火）
    * 浜名湖LibreOffice勉強会 [参加予定]
@@ -62,7 +68,10 @@
    * オープンソースカンファレンス2015 Okinawa
 
 * 8月
-   * オープンソースカンファレンス2015 Kansai@Kyoto
+   * オープンソースカンファレンス2015 Kansai@Kyoto [参加予定]
+
+* 9月19日（土）-20日（日）
+   * JSDG全国大会 in 仙台
 
 * 9月22日（火）
    * LibreOfficeコミュニティミーティング（カンファレンス前日恒例）
