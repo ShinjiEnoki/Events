@@ -4,11 +4,9 @@
 2015年
 ^^^^^^
 
-* 1月10日（土）
-   * `LILO＆東海道らぐオフラインミーティング <http://lilo.doorkeeper.jp/events/18987>`_ [参加]
 
-* 1月11日（日）-12日（月）
-   * `第1回北木島オープンデータソン <https://www.facebook.com/events/858866807469000/>`_ [参加]
+* 1月17日（土）
+   * `第93回関西Debian勉強会 Debian Bug Squashing Party <https://wiki.debian.org/KansaiDebianMeeting/20150117>`_ [参加]
 
 * 1月20日（火）
    * エッセンシャルスクラム読書会
@@ -18,6 +16,9 @@
 
 * 1月21日（水）
    * `LibreOfficeの日 vol.12 @JUSO Coworking <http://juso-coworking.doorkeeper.jp/events/19426>`_ [参加]
+
+* 1月23日（金）
+   * オープンデータディ・京都会場下見
 
 * 1月24日（土）
    * TOCfE BootCamp 2015 @KOBE -CLOUD-
