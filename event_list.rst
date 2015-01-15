@@ -53,6 +53,9 @@
 * 2月27日（金）-28日（土）
    * `オープンソースカンファレンス2015 Tokyo/Spring <http://www.ospn.jp/osc2015-spring/>`_ [参加予定]
 
+* 3月1日（日）
+   * `関東LibreOffice HackFest(#3) <http://kantolibo.connpass.com/event/11218/>`_ [参加]
+
 * 4月16日（木）
    * `Agile Japan 2015 <http://www.agilejapan.org/>`_
 
