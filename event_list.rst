@@ -4,12 +4,8 @@
 2015年
 ^^^^^^
 
-
-* 1月17日（土）
-   * `第93回関西Debian勉強会 Debian Bug Squashing Party <https://wiki.debian.org/KansaiDebianMeeting/20150117>`_ [参加]
-
 * 1月20日（火）
-   * エッセンシャルスクラム読書会
+   * `京都アジャイル勉強会・エッセンシャルスクラム読書会 #8 <http://connpass.com/event/11142/>`_
 
 * 1月20日（火）
    * `第4回浜名湖LibreOffice勉強会 <https://www.facebook.com/events/784787014904103>`_
