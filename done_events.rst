@@ -4,6 +4,9 @@
 2015年
 ^^^^^^
 
+* 1月21日（水）
+   * `LibreOfficeの日 vol.12 @JUSO Coworking <http://juso-coworking.doorkeeper.jp/events/19426>`_
+
 * 1月11日（日）-12日（月）
    * `第1回北木島オープンデータソン <https://www.facebook.com/events/858866807469000/>`_
 

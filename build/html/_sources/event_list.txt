@@ -4,15 +4,6 @@
 2015年
 ^^^^^^
 
-* 1月20日（火）
-   * `京都アジャイル勉強会・エッセンシャルスクラム読書会 #8 <http://connpass.com/event/11142/>`_
-
-* 1月20日（火）
-   * `第4回浜名湖LibreOffice勉強会 <https://www.facebook.com/events/784787014904103>`_
-
-* 1月21日（水）
-   * `LibreOfficeの日 vol.12 @JUSO Coworking <http://juso-coworking.doorkeeper.jp/events/19426>`_ [参加]
-
 * 1月23日（金）
    * オープンデータディ・京都会場下見
 
@@ -24,6 +15,9 @@
 
 * 1月31日（土）
    * `魅力品質勉強会（ユーザビリティ編） <http://kokucheese.com/event/index/238597/>`_
+
+* 2月1日（土）
+   * `WARAI(関西ソフトウェアテスト勉強会)レビュー150201 <http://kokucheese.com/event/index/255836/>`_
 
 * 2月7日（土）
    * `オープンソースカンファレンス 2015 Oita <http://www.ospn.jp/osc2015-oita/>`_
