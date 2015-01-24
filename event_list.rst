@@ -41,7 +41,7 @@
    * `オープンソースカンファレンス2015 Tokyo/Spring <http://www.ospn.jp/osc2015-spring/>`_ [参加予定]
 
 * 2月28日（土）
-   * オープンデータ和歌山・橋本市
+   * 和歌山県橋本市オープンデータソン
 
 * 3月1日（日）
    * `関東LibreOffice HackFest(#3) <http://kantolibo.connpass.com/event/11218/>`_ [参加]
