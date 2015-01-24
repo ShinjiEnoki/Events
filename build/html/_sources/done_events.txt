@@ -4,6 +4,9 @@
 2015年
 ^^^^^^
 
+* 1月23日（金）
+   * オープンデータディ・京都会場下見
+
 * 1月21日（水）
    * `LibreOfficeの日 vol.12 @JUSO Coworking <http://juso-coworking.doorkeeper.jp/events/19426>`_
 

@@ -4,11 +4,8 @@
 2015年
 ^^^^^^
 
-* 1月23日（金）
-   * オープンデータディ・京都会場下見
-
-* 1月24日（土）
-   * TOCfE BootCamp 2015 @KOBE -CLOUD-
+* 1月25日（日）
+   * `第94回関西Debian勉強会 <http://debianjp.doorkeeper.jp/events/19907>`_ [参加]
 
 * 1月29日（木）
    * `京都オープンデータ実践会MTG <https://www.facebook.com/events/1585755284973362/>`_ [参加]
@@ -43,8 +40,14 @@
 * 2月27日（金）-28日（土）
    * `オープンソースカンファレンス2015 Tokyo/Spring <http://www.ospn.jp/osc2015-spring/>`_ [参加予定]
 
+* 2月28日（土）
+   * オープンデータ和歌山・橋本市
+
 * 3月1日（日）
    * `関東LibreOffice HackFest(#3) <http://kantolibo.connpass.com/event/11218/>`_ [参加]
+
+* 3月8日（日）
+   * 精華町オープンデータソン
 
 * 4月16日（木）
    * `Agile Japan 2015 <http://www.agilejapan.org/>`_
