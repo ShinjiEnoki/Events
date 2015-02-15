@@ -4,41 +4,11 @@
 2015年
 ^^^^^^
 
-* 1月25日（日）
-   * `第94回関西Debian勉強会 <http://debianjp.doorkeeper.jp/events/19907>`_ [参加]
-
-* 1月29日（木）
-   * `京都オープンデータ実践会MTG <https://www.facebook.com/events/1585755284973362/>`_ [参加]
-
-* 1月31日（土）
-   * `魅力品質勉強会（ユーザビリティ編） <http://kokucheese.com/event/index/238597/>`_
-
-* 2月1日（土）
-   * `WARAI(関西ソフトウェアテスト勉強会)レビュー150201 <http://kokucheese.com/event/index/255836/>`_
-
-* 2月7日（土）
-   * `オープンソースカンファレンス 2015 Oita <http://www.ospn.jp/osc2015-oita/>`_
-
-* 2月7日（土）
-   * `「駅すぱあと」を支える開発 〜９２６２の可能性を繋げ！〜(DevLOVE関西Ver) <http://devlove-kansai.doorkeeper.jp/events/19221>`_
-
-* 2月10日（火）
-   * 浜名湖LibreOffice勉強会 [参加予定]
-
-* 2月11日（水）
-   * `オープンソースカンファレンス2015 Hamanako <http://www.ospn.jp/osc2015-hamanako/>`_ [参加予定]
-
-* 2月11日（水）
-   * `関西オープンデータEXPO'15 <https://www.facebook.com/events/768995263177146/>`_ (インターナショナル・オープンデータディのプレイベント) 
-
-* 2月12日（木）
-   * `慶應SDM公開講座「イノベーションの真価を問う」 <http://www.sdm.keio.ac.jp/2015/02/12-101058.html>`_
-
 * 2月21日（土）
-   * インターナショナル・オープンデータディ [京都参加予定]
+   * `インターナショナルオープンデータデイ 2015 in 京都 <http://opendata-kyoto.doorkeeper.jp/events/20597>`_ [参加]
 
 * 2月27日（金）-28日（土）
-   * `オープンソースカンファレンス2015 Tokyo/Spring <http://www.ospn.jp/osc2015-spring/>`_ [参加予定]
+   * `オープンソースカンファレンス2015 Tokyo/Spring <http://www.ospn.jp/osc2015-spring/>`_ [参加]
 
 * 2月28日（土）
    * 和歌山県橋本市オープンデータソン
@@ -47,7 +17,7 @@
    * `関東LibreOffice HackFest(#3) <http://kantolibo.connpass.com/event/11218/>`_ [参加]
 
 * 3月8日（日）
-   * 精華町オープンデータソン
+   * 精華町オープンデータソン [参加予定]
 
 * 4月16日（木）
    * `Agile Japan 2015 <http://www.agilejapan.org/>`_
