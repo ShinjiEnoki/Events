@@ -4,6 +4,9 @@
 2015年
 ^^^^^^
 
+* 2月18日（水）
+   * `LibreOfficeの日 vol.13@JUSO Coworking <http://juso-coworking.doorkeeper.jp/events/20263>`_ [参加]
+
 * 2月21日（土）
    * `インターナショナルオープンデータデイ 2015 in 京都 <http://opendata-kyoto.doorkeeper.jp/events/20597>`_ [参加]
 
@@ -19,11 +22,20 @@
 * 3月8日（日）
    * 精華町オープンデータソン [参加予定]
 
+* 3月21日（土）
+   * 京都オープンデータ実践会MTG
+
+* 4月4日（土）(仮)
+   * 関西LibreOffice勉強会
+
 * 4月16日（木）
    * `Agile Japan 2015 <http://www.agilejapan.org/>`_
 
 * 4月17日（金）-19日（日）
    * `Startup Weekend Osaka vol.7 <http://swosaka.doorkeeper.jp/events/17572>`_
+
+* 5月GWごろ
+   * LILO & 東海道らぐオフラインミーティング
 
 * 5月23日（土）
    * オープンソースカンファレンス2015 Nagoya [参加予定]
