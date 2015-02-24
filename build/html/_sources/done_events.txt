@@ -4,6 +4,12 @@
 2015年
 ^^^^^^
 
+* 2月21日（土）
+   * `インターナショナルオープンデータデイ 2015 in 京都 <http://opendata-kyoto.doorkeeper.jp/events/20597>`_
+
+* 2月18日（水）
+   * `LibreOfficeの日 vol.13@JUSO Coworking <http://juso-coworking.doorkeeper.jp/events/20263>`_
+
 * 2月12日（木）
    * 京都オープンデータ実践会MTG
 

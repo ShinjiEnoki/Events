@@ -4,11 +4,11 @@
 2015年
 ^^^^^^
 
-* 2月18日（水）
-   * `LibreOfficeの日 vol.13@JUSO Coworking <http://juso-coworking.doorkeeper.jp/events/20263>`_ [参加]
+* 2月25日（水）
+   * `京都アジャイル勉強会 エッセンシャルスクラム読書会 #10 <http://connpass.com/event/12145/>`_
 
-* 2月21日（土）
-   * `インターナショナルオープンデータデイ 2015 in 京都 <http://opendata-kyoto.doorkeeper.jp/events/20597>`_ [参加]
+* 2月25日（水）
+   `【公開ワークショップ第13回】Openstreetmapで自分だけの地図を作るワークショップ【OSMをさらに活用しよう！】 <https://de74ea35968c6b10d6551553a7.doorkeeper.jp/events/21021>`_
 
 * 2月27日（金）-28日（土）
    * `オープンソースカンファレンス2015 Tokyo/Spring <http://www.ospn.jp/osc2015-spring/>`_ [参加]
@@ -18,6 +18,9 @@
 
 * 3月1日（日）
    * `関東LibreOffice HackFest(#3) <http://kantolibo.connpass.com/event/11218/>`_ [参加]
+
+* 3月6日（金）
+   * `『田中と石井の無風トーク Vol.2』 in 関西カウンセリング・センター <https://www.facebook.com/events/354410138076376/>`_ [参加]
 
 * 3月8日（日）
    * 精華町オープンデータソン [参加予定]
