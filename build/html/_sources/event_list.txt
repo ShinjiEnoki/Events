@@ -8,13 +8,13 @@
    * `京都アジャイル勉強会 エッセンシャルスクラム読書会 #10 <http://connpass.com/event/12145/>`_
 
 * 2月25日（水）
-   `【公開ワークショップ第13回】Openstreetmapで自分だけの地図を作るワークショップ【OSMをさらに活用しよう！】 <https://de74ea35968c6b10d6551553a7.doorkeeper.jp/events/21021>`_
+   * `【公開ワークショップ第13回】Openstreetmapで自分だけの地図を作るワークショップ【OSMをさらに活用しよう！】 <https://de74ea35968c6b10d6551553a7.doorkeeper.jp/events/21021>`_
 
 * 2月27日（金）-28日（土）
    * `オープンソースカンファレンス2015 Tokyo/Spring <http://www.ospn.jp/osc2015-spring/>`_ [参加]
 
 * 2月28日（土）
-   * 和歌山県橋本市オープンデータソン
+   * `橋本市街歩きオープンデータソン <https://www.facebook.com/events/913172885393477/>`_
 
 * 3月1日（日）
    * `関東LibreOffice HackFest(#3) <http://kantolibo.connpass.com/event/11218/>`_ [参加]
@@ -25,10 +25,16 @@
 * 3月8日（日）
    * 精華町オープンデータソン [参加予定]
 
-* 3月21日（土）
-   * 京都オープンデータ実践会MTG
+* 3月18日（水）
+   * LibreOfficeの日 vol.14@JUSO Coworking [参加]
 
-* 4月4日（土）(仮)
+* 3月21日（土）
+   * オープンデータ京都実践会MTG [参加]
+
+* 3月29日（日）
+   * `OpenGLAM Japanシンポジウム「ウィキペディアタウン・ファシリテーター養成講座」 <https://www.facebook.com/events/719997324783746/>`_ [参加]
+
+* 4月4日（土）
    * 関西LibreOffice勉強会
 
 * 4月16日（木）
