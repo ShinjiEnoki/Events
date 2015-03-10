@@ -4,6 +4,21 @@
 2015年
 ^^^^^^
 
+* 3月8日（日）
+   * `まちあるきオープンデータソンin男木島 <https://www.e-topia-kagawa.jp/event/opendata.asp>`_
+
+* 3月6日（金）
+   * `『田中と石井の無風トーク Vol.2』 in 関西カウンセリング・センター <https://www.facebook.com/events/354410138076376/>`_ 
+
+* 3月1日（日）
+   * `関東LibreOffice HackFest(#3) <http://kantolibo.connpass.com/event/11218/>`_
+
+* 2月27日（金）-28日（土）
+   * `オープンソースカンファレンス2015 Tokyo/Spring <http://www.ospn.jp/osc2015-spring/>`_
+
+* 2月26日（木）
+   * `第61回 Code for Japan 井戸端会議 <https://www.facebook.com/events/1378302705819900>`_
+
 * 2月21日（土）
    * `インターナショナルオープンデータデイ 2015 in 京都 <http://opendata-kyoto.doorkeeper.jp/events/20597>`_
 
