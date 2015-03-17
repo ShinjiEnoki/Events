@@ -4,17 +4,8 @@
 2015年
 ^^^^^^
 
-* 3月11日（水）
-   * `KIISオープンデータ/ビッグデータ利用推進フォーラム・第3回セミナー <http://www.kiis.or.jp/OBDF/seminar/seminar03.html>`_ [参加]
-
-* 3月11日（水）
-   * `ＴＯＣ改革実践セミナー <http://www.goal-consulting.com/seminar/free-seminar/dbr-150311.html>`_
-
-* 3月11日（水）
-   * `京都アジャイル勉強会 エッセンシャルスクラム読書会 #11 <http://connpass.com/event/12521>`_
-
 * 3月18日（水）
-   * LibreOfficeの日 vol.14@JUSO Coworking [参加]
+   * `LibreOfficeの日 vol.14@JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/22057>`_
 
 * 3月21日（土）
    * オープンデータ京都実践会MTG [参加]
@@ -30,6 +21,9 @@
 
 * 4月4日（土）
    * 関西LibreOffice勉強会
+
+* 4月11日（土）
+   * `XP祭りin関西 2015 <https://xpjug.doorkeeper.jp/events/21524>`_
 
 * 4月16日（木）
    * `Agile Japan 2015 <http://www.agilejapan.org/>`_
@@ -48,6 +42,9 @@
 
 * 6月12日（金）-13日（土）
    * オープンソースカンファレンス2015 Hokkaido
+
+* 6月27日（土）
+   * `ハッカーズチャンプルー2015 <http://hackers-champloo.org/>`_
 
 * 7月4日（土）
    * オープンソースカンファレンス2015 Okinawa

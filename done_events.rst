@@ -4,6 +4,9 @@
 2015年
 ^^^^^^
 
+* 3月11日（水）
+   * `KIISオープンデータ/ビッグデータ利用推進フォーラム・第3回セミナー <http://www.kiis.or.jp/OBDF/seminar/seminar03.html>`_
+
 * 3月8日（日）
    * `まちあるきオープンデータソンin男木島 <https://www.e-topia-kagawa.jp/event/opendata.asp>`_
 
