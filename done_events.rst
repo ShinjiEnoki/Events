@@ -4,6 +4,9 @@
 2015年
 ^^^^^^
 
+* 3月18日（水）
+   * `LibreOfficeの日 vol.14@JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/22057>`_
+
 * 3月11日（水）
    * `KIISオープンデータ/ビッグデータ利用推進フォーラム・第3回セミナー <http://www.kiis.or.jp/OBDF/seminar/seminar03.html>`_
 

@@ -4,8 +4,6 @@
 2015年
 ^^^^^^
 
-* 3月18日（水）
-   * `LibreOfficeの日 vol.14@JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/22057>`_
 
 * 3月21日（土）
    * オープンデータ京都実践会MTG [参加]
@@ -13,14 +11,17 @@
 * 3月28日（土）
    * `激辛オープンストリートマップ　ステップアップ勉強会 <https://openstreetmap.doorkeeper.jp/events/20782>`_
 
+3月28日（土）
+   * `CIVIC TECH FORUM プレミートアップ <https://codeforjapan.doorkeeper.jp/events/21982>`_
+
 * 3月29日（日）
    * `OpenGLAM Japanシンポジウム「ウィキペディアタウン・ファシリテーター養成講座」 <https://www.facebook.com/events/719997324783746/>`_ [参加]
 
 * 3月29日（日）
-   * CivicTechForum
+   * `CivicTechForum 2015 <http://wired.jp/special/ctf2015/>`_
 
 * 4月4日（土）
-   * 関西LibreOffice勉強会
+   * `第9回関西LibreOffice勉強会 <http://connpass.com/event/13154/>`_
 
 * 4月11日（土）
    * `XP祭りin関西 2015 <https://xpjug.doorkeeper.jp/events/21524>`_
