@@ -4,6 +4,9 @@
 2015年
 ^^^^^^
 
+* 3月21日（土）
+   * オープンデータ京都実践会2015年度企画ミーティング
+
 * 3月18日（水）
    * `LibreOfficeの日 vol.14@JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/22057>`_
 
