@@ -4,11 +4,8 @@
 2015年
 ^^^^^^
 
-* 4月4日（土）
-   * `第9回関西LibreOffice勉強会 <http://connpass.com/event/13154/>`_
-
-* 4月11日（土）
-   * `XP祭りin関西 2015 <https://xpjug.doorkeeper.jp/events/21524>`_
+* 4月15日（水）
+   * `LibreOfficeの日 vol.15@JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/22711>`_ [参加]
 
 * 4月16日（木）
    * `Agile Japan 2015 <http://www.agilejapan.org/>`_
@@ -16,14 +13,20 @@
 * 4月17日（金）-19日（日）
    * `Startup Weekend Osaka vol.7 <http://swosaka.doorkeeper.jp/events/17572>`_
 
+* 4月18日（土）
+   * `京都世界遺産マッピングパーティ：第１回清水寺 <https://openstreetmap.doorkeeper.jp/events/22594>`_
+
 * 4月19日（日）
    * `Wkipedea Arts 京都・PARASOPHIA <https://artlogue.doorkeeper.jp/events/23052>`_
 
 * 4月25日（土）
-   * BMG TOCfE
+   * `【大阪開催】TOCcafE@OSAKA Vol.00 ”au late (BMG)” PROJECT DESIGN WORKSHOP <https://tocfe-kansai.doorkeeper.jp/events/21905>`_ [参加]
   
 * 4月25日（土）
    * `J2関西 <http://www.j2kansai.jp/>`_
+
+* 4月26日（日）
+   * `【大阪開催】TOCcafE @ OSAKA 0426 おりがみで学ぶチームワークを最強にするプロジェクトマネジメントを身につけるワークショップ <https://tocfe-kansai.doorkeeper.jp/events/21906>`_
 
 * 5月GWごろ
    * LILO & 東海道らぐオフラインミーティング

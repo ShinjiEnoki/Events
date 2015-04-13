@@ -4,6 +4,12 @@
 2015年
 ^^^^^^
 
+* 4月11日（土）
+   * `XP祭りin関西 2015 <https://xpjug.doorkeeper.jp/events/21524>`_
+
+* 4月4日（土）
+   * `第9回関西LibreOffice勉強会 <http://connpass.com/event/13154/>`_
+
 * 3月28日（土）
    * `激辛オープンストリートマップ　ステップアップ勉強会 <https://openstreetmap.doorkeeper.jp/events/20782>`_
 
