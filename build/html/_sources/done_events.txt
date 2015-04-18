@@ -4,6 +4,10 @@
 2015年
 ^^^^^^
 
+
+* 4月15日（水）
+   * `LibreOfficeの日 vol.15@JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/22711>`_ 
+
 * 4月11日（土）
    * `XP祭りin関西 2015 <https://xpjug.doorkeeper.jp/events/21524>`_
 
