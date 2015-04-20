@@ -26,16 +26,22 @@
    * `オープンソースカンファレンス2015 Nagoya <http://www.ospn.jp/osc2015-nagoya/>`_ [参加]
 
 * 6月12日（金）-13日（土）
-   * オープンソースカンファレンス2015 Hokkaido
+   * `オープンソースカンファレンス2015 Hokkaido <http://www.ospn.jp/osc2015-do/>`_
 
 * 6月27日（土）
    * `ハッカーズチャンプルー2015 <http://hackers-champloo.org/>`_
 
 * 7月4日（土）
-   * オープンソースカンファレンス2015 Okinawa
+   * `オープンソースカンファレンス2015 Okinawa <http://www.ospn.jp/osc2015-okinawa/>`_
 
 * 8月7日（金）-8日（土）
-   * オープンソースカンファレンス2015 Kansai@Kyoto [参加予定]
+   * `オープンソースカンファレンス2015 Kansai@Kyoto <http://www.ospn.jp/osc2015-kyoto/>`_ [参加予定]
+
+* 8月15日（土）
+   * オープンテックショーケース姫路 [参加予定]
+
+* 8月22日（土）
+   * オープンソースカンファレンス2015 Shimane
 
 * 9月19日（土）-20日（日）
    * JSDG全国大会 in 仙台
