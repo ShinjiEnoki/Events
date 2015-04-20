@@ -5,6 +5,9 @@
 ^^^^^^
 
 
+* 4月19日（日）
+   * `Wkipedea Arts 京都・PARASOPHIA <https://artlogue.doorkeeper.jp/events/23052>`_
+
 * 4月15日（水）
    * `LibreOfficeの日 vol.15@JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/22711>`_ 
 

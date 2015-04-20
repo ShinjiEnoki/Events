@@ -4,10 +4,6 @@
 2015年
 ^^^^^^
 
-
-* 4月19日（日）
-   * `Wkipedea Arts 京都・PARASOPHIA <https://artlogue.doorkeeper.jp/events/23052>`_ [参加]
-
 * 4月25日（土）
    * `【大阪開催】TOCcafE@OSAKA Vol.00 ”au late (BMG)” PROJECT DESIGN WORKSHOP <https://tocfe-kansai.doorkeeper.jp/events/21905>`_ [参加]
   
@@ -38,7 +34,7 @@
 * 7月4日（土）
    * オープンソースカンファレンス2015 Okinawa
 
-* 8月
+* 8月7日（金）-8日（土）
    * オープンソースカンファレンス2015 Kansai@Kyoto [参加予定]
 
 * 9月19日（土）-20日（日）
