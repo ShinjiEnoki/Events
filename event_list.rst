@@ -13,6 +13,9 @@
 * 4月26日（日）
    * `【大阪開催】TOCcafE @ OSAKA 0426 おりがみで学ぶチームワークを最強にするプロジェクトマネジメントを身につけるワークショップ <https://tocfe-kansai.doorkeeper.jp/events/21906>`_
 
+* 4月26日（日）
+   * `第 97 回 関西 Debian 勉強会 <https://wiki.debian.org/KansaiDebianMeeting/20150426>`_ [検討中]
+
 * 4月28日（火）
    * `【TOCバル！】CCPMの原理 <https://www.facebook.com/events/1575758679361489/>`_ [参加]
 
@@ -21,6 +24,9 @@
 
 * 5月3日（日）
    * `LILO ＆ 東海道らぐ・オフラインミーティング（2015/05/03） <https://lilo.doorkeeper.jp/events/23873>`_ [参加]
+
+* 5月20日（水）
+   * LibreOfficeの日 vol.16@JUSO Coworking  [参加]
 
 * 5月23日（土）
    * `オープンソースカンファレンス2015 Nagoya <http://www.ospn.jp/osc2015-nagoya/>`_ [参加]
