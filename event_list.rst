@@ -4,22 +4,13 @@
 2015年
 ^^^^^^
 
-* 4月25日（土）
-   * `【大阪開催】TOCcafE@OSAKA Vol.00 ”au late (BMG)” PROJECT DESIGN WORKSHOP <https://tocfe-kansai.doorkeeper.jp/events/21905>`_ [参加]
-  
-* 4月25日（土）
-   * `J2関西 <http://www.j2kansai.jp/>`_
-
-* 4月26日（日）
-   * `【大阪開催】TOCcafE @ OSAKA 0426 おりがみで学ぶチームワークを最強にするプロジェクトマネジメントを身につけるワークショップ <https://tocfe-kansai.doorkeeper.jp/events/21906>`_
-
-* 4月26日（日）
-   * `第 97 回 関西 Debian 勉強会 <https://wiki.debian.org/KansaiDebianMeeting/20150426>`_ [検討中]
-
 * 4月28日（火）
    * `【TOCバル！】CCPMの原理 <https://www.facebook.com/events/1575758679361489/>`_ [参加]
 
 * 4月29日（水）
+   * WikipediaARTS振り返り会
+
+* 4月28日（火）
    * KOFキックオフミーティング in グランフロントナレッジサロン [参加]
 
 * 5月3日（日）
