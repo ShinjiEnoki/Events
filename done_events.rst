@@ -4,6 +4,15 @@
 2015年
 ^^^^^^
 
+* 4月29日（水）
+   * KOFキックオフミーティング in グランフロントナレッジサロン
+
+* 4月28日（火）
+   * WikipediaARTS振り返り会(skyep)
+
+* 4月28日（火）
+   * `【TOCバル！】CCPMの原理 <https://www.facebook.com/events/1575758679361489/>`_
+
 * 4月25日（土）
    * `【大阪開催】TOCcafE@OSAKA Vol.00 ”au late (BMG)” PROJECT DESIGN WORKSHOP <https://tocfe-kansai.doorkeeper.jp/events/21905>`_ 
 

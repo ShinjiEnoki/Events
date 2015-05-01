@@ -4,15 +4,6 @@
 2015年
 ^^^^^^
 
-* 4月28日（火）
-   * `【TOCバル！】CCPMの原理 <https://www.facebook.com/events/1575758679361489/>`_ [参加]
-
-* 4月29日（水）
-   * WikipediaARTS振り返り会
-
-* 4月28日（火）
-   * KOFキックオフミーティング in グランフロントナレッジサロン [参加]
-
 * 5月3日（日）
    * `LILO ＆ 東海道らぐ・オフラインミーティング（2015/05/03） <https://lilo.doorkeeper.jp/events/23873>`_ [参加]
 
@@ -22,8 +13,16 @@
 * 5月23日（土）
    * `オープンソースカンファレンス2015 Nagoya <http://www.ospn.jp/osc2015-nagoya/>`_ [参加]
 
+
+* 6月7日（日）
+   * `MALUI Talk in Kyoto & 近畿地区MALUI名刺交換会（2015年度） <https://6f223aa61b1f65c0de1e6fa064.doorkeeper.jp/events/23987>`_ [参加予定]
+
 * 6月12日（金）-13日（土）
    * `オープンソースカンファレンス2015 Hokkaido <http://www.ospn.jp/osc2015-do/>`_
+
+
+* 6月14日（日）-17（水）
+   * `ソフトウェア・シンポジウム 2015 in 和歌山 (SS2015) <http://sea.jp/ss2015/index.html>`_
 
 * 6月27日（土）
    * `ハッカーズチャンプルー2015 <http://hackers-champloo.org/>`_
@@ -49,7 +48,7 @@
 * 9月23日（水）-25日（金）
    * `LibreOffice Conference 2015 in Aarhus, Denmark <https://conference.libreoffice.org/>`_ [参加予定]
 
-* 11月
+* 11月6日（金）-7日（土）
    * `関西オープンフォーラム 2015 <https://k-of.jp/>`_
 
 
