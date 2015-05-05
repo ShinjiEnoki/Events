@@ -4,15 +4,20 @@
 2015年
 ^^^^^^
 
-* 5月3日（日）
-   * `LILO ＆ 東海道らぐ・オフラインミーティング（2015/05/03） <https://lilo.doorkeeper.jp/events/23873>`_ [参加]
-
 * 5月20日（水）
-   * LibreOfficeの日 vol.16@JUSO Coworking  [参加]
+   * `LibreOfficeの日 vol.16@JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/24403>`_ [参加]
 
 * 5月23日（土）
    * `オープンソースカンファレンス2015 Nagoya <http://www.ospn.jp/osc2015-nagoya/>`_ [参加]
 
+* 5月24日（日）
+   * `LibreOffice 名古屋 HackFest 2015-05-24 <http://libojapan.connpass.com/event/14855/>`_ [参加]
+
+* 5月24日（日）
+   * `関東LibreOffice HackFest(#4)  <http://kantolibo.connpass.com/event/14851/>`_
+
+* 5月30日（土）
+   * TOCfE
 
 * 6月7日（日）
    * `MALUI Talk in Kyoto & 近畿地区MALUI名刺交換会（2015年度） <https://6f223aa61b1f65c0de1e6fa064.doorkeeper.jp/events/23987>`_ [参加予定]
@@ -26,6 +31,9 @@
 
 * 6月27日（土）
    * `ハッカーズチャンプルー2015 <http://hackers-champloo.org/>`_
+
+* 6月27日（土）
+   * TOCfE BMG
 
 * 7月4日（土）
    * `オープンソースカンファレンス2015 Okinawa <http://www.ospn.jp/osc2015-okinawa/>`_
