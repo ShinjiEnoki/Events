@@ -38,6 +38,9 @@
 * 7月4日（土）
    * `オープンソースカンファレンス2015 Okinawa <http://www.ospn.jp/osc2015-okinawa/>`_
 
+* 7月11日（土）
+   * 関西Ruby会議06
+
 * 8月7日（金）-8日（土）
    * `オープンソースカンファレンス2015 Kansai@Kyoto <http://www.ospn.jp/osc2015-kyoto/>`_ [参加予定]
 
