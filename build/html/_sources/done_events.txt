@@ -4,6 +4,9 @@
 2015年
 ^^^^^^
 
+* 5月16日（土）
+   * `京都世界遺産マッピングパーティ：第２回金閣寺 <https://openstreetmap.doorkeeper.jp/events/23367>`_
+
 * 5月3日（日）
    * `LILO ＆ 東海道らぐ・オフラインミーティング（2015/05/03） <https://lilo.doorkeeper.jp/events/23873>`_
 
