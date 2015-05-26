@@ -4,6 +4,16 @@
 2015年
 ^^^^^^
 
+
+* 5月24日（日）
+   * `LibreOffice 名古屋 HackFest 2015-05-24 <http://libojapan.connpass.com/event/14855/>`_
+
+* 5月23日（土）
+   * `オープンソースカンファレンス2015 Nagoya <http://www.ospn.jp/osc2015-nagoya/>`_
+
+* 5月20日（水）
+   * `LibreOfficeの日 vol.16@JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/24403>`_
+
 * 5月16日（土）
    * `京都世界遺産マッピングパーティ：第２回金閣寺 <https://openstreetmap.doorkeeper.jp/events/23367>`_
 
