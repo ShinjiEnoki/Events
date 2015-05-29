@@ -5,13 +5,13 @@
 ^^^^^^
 
 * 5月30日（土）
-   * TOCfE
+   * `TOCcafE au lait@OSAKA "PROJECT DESIGN WORKSHOP" <https://tocfe-kansai.doorkeeper.jp/events/24644>`_ [参加]
 
 * 5月31日（日）
    * `関西LibreOffice HackFest 2015-05-31 <http://connpass.com/event/15681/>`_ [参加]
 
 * 6月7日（日）
-   * `MALUI Talk in Kyoto & 近畿地区MALUI名刺交換会（2015年度） <https://6f223aa61b1f65c0de1e6fa064.doorkeeper.jp/events/23987>`_ [参加予定]
+   * `MALUI Talk in Kyoto & 近畿地区MALUI名刺交換会（2015年度） <https://6f223aa61b1f65c0de1e6fa064.doorkeeper.jp/events/23987>`_ [参加]
 
 * 6月12日（金）-13日（土）
    * `オープンソースカンファレンス2015 Hokkaido <http://www.ospn.jp/osc2015-do/>`_
@@ -35,13 +35,16 @@
    * `第30回まっちゃ１３９勉強会 <http://www.matcha139.jp/workshop/30thworkshop>`_
 
 * 7月25日（土）
-   * 日本UNIXユーザ会総会&勉強会 [参加予定]
+   * `日本UNIXユーザ会2015年度・総会併設勉強会 <https://japanunixsociety.doorkeeper.jp/events/25734>`_ [参加]
 
 * 8月7日（金）-8日（土）
    * `オープンソースカンファレンス2015 Kansai@Kyoto <http://www.ospn.jp/osc2015-kyoto/>`_ [参加予定]
 
 * 8月15日（土）
    * オープンテックショーケース姫路 [参加予定]
+
+* 8月22日（土）-23日（日）あたりで日程調整中
+   * 関西LibreOffice hackfest（開発向け）
 
 * 8月22日（土）
    * オープンソースカンファレンス2015 Shimane
@@ -55,7 +58,31 @@
 * 9月23日（水）-25日（金）
    * `LibreOffice Conference 2015 in Aarhus, Denmark <https://conference.libreoffice.org/>`_ [参加予定]
 
+* 10月3日（土）
+   * オープンソースカンファレンス2015 Fukuoka
+
+* 10月24日（土）-25日（日）
+   * オープンソースカンファレンス2015 Tokyo/Fall [参加予定]
+
 * 11月6日（金）-7日（土）
-   * `関西オープンフォーラム 2015 <https://k-of.jp/>`_
+   * `関西オープンフォーラム 2015 <https://k-of.jp/>`_ [参加予定]
+
+* 11月14日（土）
+   * オープンソースカンファレンス2015 Tokushima
+
+2016年
+^^^^^^
+
+* 1月23日（土）
+   * オープンソースカンファレンス2016 Hamanako [参加予定]
+
+* 5月28日（土）
+   * オープンソースカンファレンス2016 Nagoya
+
+* 6月17日（金）-18日（土）
+   * オープンソースカンファレンス2016 Hokkaido
+
+* 7月2日（土）
+   * オープンソースカンファレンス2016 Okinawa
 
 
