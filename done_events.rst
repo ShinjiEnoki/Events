@@ -4,6 +4,11 @@
 2015年
 ^^^^^^
 
+* 5月31日（日）
+   * `関西LibreOffice HackFest 2015-05-31 <http://connpass.com/event/15681/>`_
+
+* 5月30日（土）
+   * `TOCcafE au lait@OSAKA "PROJECT DESIGN WORKSHOP" <https://tocfe-kansai.doorkeeper.jp/events/24644>`_
 
 * 5月24日（日）
    * `LibreOffice 名古屋 HackFest 2015-05-24 <http://libojapan.connpass.com/event/14855/>`_

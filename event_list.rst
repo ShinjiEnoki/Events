@@ -4,12 +4,6 @@
 2015年
 ^^^^^^
 
-* 5月30日（土）
-   * `TOCcafE au lait@OSAKA "PROJECT DESIGN WORKSHOP" <https://tocfe-kansai.doorkeeper.jp/events/24644>`_ [参加]
-
-* 5月31日（日）
-   * `関西LibreOffice HackFest 2015-05-31 <http://connpass.com/event/15681/>`_ [参加]
-
 * 6月7日（日）
    * `MALUI Talk in Kyoto & 近畿地区MALUI名刺交換会（2015年度） <https://6f223aa61b1f65c0de1e6fa064.doorkeeper.jp/events/23987>`_ [参加]
 
@@ -19,11 +13,23 @@
 * 6月14日（日）-17（水）
    * `ソフトウェア・シンポジウム 2015 in 和歌山 (SS2015) <http://sea.jp/ss2015/index.html>`_
 
+* 6月17日（水）
+   * `LibreOfficeの日 vol.17@JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/26128>`_ [参加]
+
+* 6月20日（土）
+   * `第7回 コンテナ型仮想化の情報交換会＠大阪 <http://ct-study.connpass.com/event/15121/>`_
+
+* 6月22日（月）
+   * `第3回自治体オープンデータ推進協議会 <http://peatix.com/event/93254>`_
+
+* 6月26日（金）
+   * `JaSST '15 Kansai <http://jasst.jp/symposium/jasst15kansai.html>`_ [検討中]
+
 * 6月27日（土）
    * `ハッカーズチャンプルー2015 <http://hackers-champloo.org/>`_
 
 * 6月27日（土）
-   * TOCfE BMG
+   * `Asiyan Automation Alliance 2015　～JI・DO・U・KAッ！(2015/06/27) <http://kokucheese.com/event/index/285177/>`_ [参加]
 
 * 7月4日（土）
    * `オープンソースカンファレンス2015 Okinawa <http://www.ospn.jp/osc2015-okinawa/>`_
