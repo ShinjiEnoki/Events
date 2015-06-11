@@ -7,7 +7,7 @@
 * 6月7日（日）
    * `MALUI Talk in Kyoto & 近畿地区MALUI名刺交換会（2015年度） <https://6f223aa61b1f65c0de1e6fa064.doorkeeper.jp/events/23987>`_
 
- * 5月31日（日）
+* 5月31日（日）
    * `関西LibreOffice HackFest 2015-05-31 <http://connpass.com/event/15681/>`_
 
 * 5月30日（土）
