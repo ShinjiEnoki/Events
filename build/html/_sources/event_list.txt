@@ -4,21 +4,6 @@
 2015年
 ^^^^^^
 
-* 6月12日（金）-13日（土）
-   * `オープンソースカンファレンス2015 Hokkaido <http://www.ospn.jp/osc2015-do/>`_
-
-* 6月14日（日）-17（水）
-   * `ソフトウェア・シンポジウム 2015 in 和歌山 (SS2015) <http://sea.jp/ss2015/index.html>`_
-
-* 6月17日（水）
-   * `LibreOfficeの日 vol.17@JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/26128>`_ [参加]
-
-* 6月20日（土）
-   * `第7回 コンテナ型仮想化の情報交換会＠大阪 <http://ct-study.connpass.com/event/15121/>`_
-
-* 6月19日（金）-21（日）
-   * LibreOfficeバグハンティングセッション
-
 * 6月22日（月）
    * `第3回自治体オープンデータ推進協議会 <http://peatix.com/event/93254>`_
 
@@ -35,10 +20,13 @@
    * Wikipediaタウン in NDL
 
 * 7月4日（土）
-   * オーププンデータ北木島
+   * `オープンデータソン Kitagi in Kyoto 2015/7/4 <https://opendata-kyoto.doorkeeper.jp/events/27103>`_
 
 * 7月4日（土）
    * `オープンソースカンファレンス2015 Okinawa <http://www.ospn.jp/osc2015-okinawa/>`_
+
+* 7月11日（土）
+   * 第10回関西LibreOffice勉強会 [参加]
 
 * 7月11日（土）
    * `関西Ruby会議06 <http://regional.rubykaigi.org/kansai06/>`_
@@ -46,8 +34,8 @@
 * 7月11日（土）
    * `第30回まっちゃ１３９勉強会 <http://www.matcha139.jp/workshop/30thworkshop>`_
 
-* 7月19日（日）予定
-   * Wikipedia Arts
+* 7月18日（土）
+   * `議論を楽しく見える化しよう！グラフィック・レコーディングワークショップ <https://devlove-kansai.doorkeeper.jp/events/27172>`_
 
 * 7月25日（土）
    * `日本UNIXユーザ会2015年度・総会併設勉強会 <https://japanunixsociety.doorkeeper.jp/events/25734>`_ [参加]

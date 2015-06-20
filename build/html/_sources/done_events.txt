@@ -4,6 +4,12 @@
 2015年
 ^^^^^^
 
+* 6月20日（土）
+   * `関西LibreOffice HackFest 2015-06-20 <http://connpass.com/event/16541/>`_
+
+* 6月17日（水）
+   * `LibreOfficeの日 vol.17@JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/26128>`_
+
 * 6月7日（日）
    * `MALUI Talk in Kyoto & 近畿地区MALUI名刺交換会（2015年度） <https://6f223aa61b1f65c0de1e6fa064.doorkeeper.jp/events/23987>`_
 
