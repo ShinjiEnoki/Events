@@ -5,10 +5,10 @@
 ^^^^^^
 
 * 6月22日（月）
-   * `第3回自治体オープンデータ推進協議会 <http://peatix.com/event/93254>`_
+   * `第3回自治体オープンデータ推進協議会 <http://peatix.com/event/93254>`_ [参加]
 
 * 6月26日（金）
-   * `JaSST '15 Kansai <http://jasst.jp/symposium/jasst15kansai.html>`_ [検討中]
+   * `JaSST '15 Kansai <http://jasst.jp/symposium/jasst15kansai.html>`_ [参加]
 
 * 6月27日（土）
    * `ハッカーズチャンプルー2015 <http://hackers-champloo.org/>`_
