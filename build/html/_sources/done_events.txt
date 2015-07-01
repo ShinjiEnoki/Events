@@ -4,6 +4,21 @@
 2015年
 ^^^^^^
 
+* 6月29日（月）
+   * JISTA関西6月定例会
+
+* 6月28日（日）
+   * KOF2回目ミーティング
+
+* 6月27日（土）
+   * `Asiyan Automation Alliance 2015　～JI・DO・U・KAッ！(2015/06/27) <http://kokucheese.com/event/index/285177/>`_
+
+* 6月26日（金）
+   * `JaSST '15 Kansai <http://jasst.jp/symposium/jasst15kansai.html>`_
+
+* 6月22日（月）
+   * `第3回自治体オープンデータ推進協議会 <http://peatix.com/event/93254>`_
+
 * 6月20日（土）
    * `関西LibreOffice HackFest 2015-06-20 <http://connpass.com/event/16541/>`_
 

@@ -4,29 +4,23 @@
 2015年
 ^^^^^^
 
-* 6月22日（月）
-   * `第3回自治体オープンデータ推進協議会 <http://peatix.com/event/93254>`_ [参加]
-
-* 6月26日（金）
-   * `JaSST '15 Kansai <http://jasst.jp/symposium/jasst15kansai.html>`_ [参加]
-
-* 6月27日（土）
-   * `ハッカーズチャンプルー2015 <http://hackers-champloo.org/>`_
-
-* 6月27日（土）
-   * `Asiyan Automation Alliance 2015　～JI・DO・U・KAッ！(2015/06/27) <http://kokucheese.com/event/index/285177/>`_ [参加]
+* 7月2日（木）
+   * `【スクラムナイト#7】ユーザーストーリーマッピングやで。シランけど。 <https://scrumdo-kansai.doorkeeper.jp/events/27350>`_ [参加]
 
 * 7月3日（金）
-   * Wikipediaタウン in NDL
+   * `ウィキペディア・タウン in 関西館 <https://b8cabba65bcf97631ab2ef81fd.doorkeeper.jp/events/26560>`_ [参加]
 
 * 7月4日（土）
-   * `オープンデータソン Kitagi in Kyoto 2015/7/4 <https://opendata-kyoto.doorkeeper.jp/events/27103>`_
+   * `オープンデータソン Kitagi in Kyoto 2015/7/4 <https://opendata-kyoto.doorkeeper.jp/events/27103>`_ [参加]
 
 * 7月4日（土）
    * `オープンソースカンファレンス2015 Okinawa <http://www.ospn.jp/osc2015-okinawa/>`_
 
+* 7月10日（金）
+   * `関西Ruby会議06 前夜祭 <https://rubykansai.doorkeeper.jp/events/26906>`_
+
 * 7月11日（土）
-   * 第10回関西LibreOffice勉強会 [参加]
+   * `第10回関西LibreOffice勉強会 <http://connpass.com/event/16777/>`_ [参加]
 
 * 7月11日（土）
    * `関西Ruby会議06 <http://regional.rubykaigi.org/kansai06/>`_
@@ -54,6 +48,9 @@
 
 * 8月22日（土）
    * オープンソースカンファレンス2015 Shimane
+
+* 8月29日（土）
+   * KOF3回目ミーティング
 
 * 9月19日（土）-20日（日）
    * JSDG全国大会 in 仙台
