@@ -4,18 +4,6 @@
 2015年
 ^^^^^^
 
-* 7月2日（木）
-   * `【スクラムナイト#7】ユーザーストーリーマッピングやで。シランけど。 <https://scrumdo-kansai.doorkeeper.jp/events/27350>`_ [参加]
-
-* 7月3日（金）
-   * `ウィキペディア・タウン in 関西館 <https://b8cabba65bcf97631ab2ef81fd.doorkeeper.jp/events/26560>`_ [参加]
-
-* 7月4日（土）
-   * `オープンデータソン Kitagi in Kyoto 2015/7/4 <https://opendata-kyoto.doorkeeper.jp/events/27103>`_ [参加]
-
-* 7月4日（土）
-   * `オープンソースカンファレンス2015 Okinawa <http://www.ospn.jp/osc2015-okinawa/>`_
-
 * 7月10日（金）
    * `関西Ruby会議06 前夜祭 <https://rubykansai.doorkeeper.jp/events/26906>`_
 
@@ -27,6 +15,12 @@
 
 * 7月11日（土）
    * `第30回まっちゃ１３９勉強会 <http://www.matcha139.jp/workshop/30thworkshop>`_
+
+* 7月15日（水）
+   * `LibreOfficeの日 vol.18 @JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/28189>`_ [参加]
+
+* 7月17日（金）
+   * `ODPG「OSSオフィスソフト・フェスタ2015」 <https://mp.ashisuto.jp/public/seminar/view/4188>`_
 
 * 7月18日（土）
    * `議論を楽しく見える化しよう！グラフィック・レコーディングワークショップ <https://devlove-kansai.doorkeeper.jp/events/27172>`_
@@ -43,7 +37,7 @@
 * 8月15日（土）
    * オープンテックショーケース姫路 [参加予定]
 
-* 8月22日（土）-23日（日）あたりで日程調整中
+* 8月22日（土）企画中
    * 関西LibreOffice hackfest（開発向け）
 
 * 8月22日（土）
@@ -51,6 +45,9 @@
 
 * 8月29日（土）
    * KOF3回目ミーティング
+
+* 8月30日（日）企画中
+   * Wikipedia Arts Osaka
 
 * 9月19日（土）-20日（日）
    * JSDG全国大会 in 仙台

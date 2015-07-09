@@ -4,6 +4,15 @@
 2015年
 ^^^^^^
 
+* 7月4日（土）
+   * `オープンデータソン Kitagi in Kyoto 2015/7/4 <https://opendata-kyoto.doorkeeper.jp/events/27103>`_
+
+* 7月3日（金）
+   * `ウィキペディア・タウン in 関西館 <https://b8cabba65bcf97631ab2ef81fd.doorkeeper.jp/events/26560>`_
+
+* 7月2日（木）
+   * `【スクラムナイト#7】ユーザーストーリーマッピングやで。シランけど。 <https://scrumdo-kansai.doorkeeper.jp/events/27350>`_
+
 * 6月29日（月）
    * JISTA関西6月定例会
 
