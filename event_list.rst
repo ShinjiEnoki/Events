@@ -28,11 +28,17 @@
 * 7月25日（土）
    * `日本UNIXユーザ会2015年度・総会併設勉強会 <https://japanunixsociety.doorkeeper.jp/events/25734>`_ [参加]
 
+* 7月27日（月）
+   * JISTA関西支部7月定例会 [参加]
+
 * 8月7日（金）
    * `TechLION vol.22＠京都 <https://techlion.doorkeeper.jp/events/26581>`_
 
 * 8月7日（金）-8日（土）
    * `オープンソースカンファレンス2015 Kansai@Kyoto <http://www.ospn.jp/osc2015-kyoto/>`_ [参加予定]
+
+* 8月7日-9日（日）
+   * `二夜限りのギークハウス in 京都 2015 <https://atnd.org/events/67051>`_ [参加]
 
 * 8月15日（土）
    * オープンテックショーケース姫路 [参加予定]
