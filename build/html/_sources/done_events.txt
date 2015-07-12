@@ -4,6 +4,9 @@
 2015年
 ^^^^^^
 
+* 7月11日（土）
+   * `第10回関西LibreOffice勉強会 <http://connpass.com/event/16777/>`_
+
 * 7月4日（土）
    * `オープンデータソン Kitagi in Kyoto 2015/7/4 <https://opendata-kyoto.doorkeeper.jp/events/27103>`_
 

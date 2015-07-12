@@ -4,18 +4,6 @@
 2015年
 ^^^^^^
 
-* 7月10日（金）
-   * `関西Ruby会議06 前夜祭 <https://rubykansai.doorkeeper.jp/events/26906>`_
-
-* 7月11日（土）
-   * `第10回関西LibreOffice勉強会 <http://connpass.com/event/16777/>`_ [参加]
-
-* 7月11日（土）
-   * `関西Ruby会議06 <http://regional.rubykaigi.org/kansai06/>`_
-
-* 7月11日（土）
-   * `第30回まっちゃ１３９勉強会 <http://www.matcha139.jp/workshop/30thworkshop>`_
-
 * 7月15日（水）
    * `LibreOfficeの日 vol.18 @JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/28189>`_ [参加]
 
