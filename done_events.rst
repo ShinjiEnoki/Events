@@ -4,6 +4,9 @@
 2015年
 ^^^^^^
 
+* 7月15日（水）
+   * `LibreOfficeの日 vol.18 @JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/28189>`_
+
 * 7月11日（土）
    * `第10回関西LibreOffice勉強会 <http://connpass.com/event/16777/>`_
 

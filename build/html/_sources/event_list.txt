@@ -4,12 +4,6 @@
 2015年
 ^^^^^^
 
-* 7月15日（水）
-   * `LibreOfficeの日 vol.18 @JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/28189>`_ [参加]
-
-* 7月15日（水）
-   * `京都アジャイル勉強会 エクストリームプログラミング２nd　読書会#1 <http://connpass.com/event/17163/>`_
-
 * 7月17日（金）
    * `ODPG「OSSオフィスソフト・フェスタ2015」 <https://mp.ashisuto.jp/public/seminar/view/4188>`_
 
@@ -43,8 +37,8 @@
 * 8月29日（土）
    * KOF3回目ミーティング
 
-* 8月30日（日）企画中
-   * Wikipedia Arts Osaka
+* 8月30日（日）
+   * `Wikipedia ARTS 大阪新美術館コレクション <https://artlogue.doorkeeper.jp/events/27728>`_ [参加]
 
 * 9月19日（土）-20日（日）
    * JSDG全国大会 in 仙台
