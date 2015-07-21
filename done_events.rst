@@ -4,6 +4,12 @@
 2015年
 ^^^^^^
 
+* 7月18日（土）
+   * JUS拡大幹事会
+
+* 7月17日（金）
+   * `ODPG「OSSオフィスソフト・フェスタ2015」 <https://mp.ashisuto.jp/public/seminar/view/4188>`_
+
 * 7月15日（水）
    * `LibreOfficeの日 vol.18 @JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/28189>`_
 
