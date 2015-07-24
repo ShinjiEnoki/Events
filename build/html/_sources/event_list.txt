@@ -13,6 +13,9 @@
 * 7月27日（月）
    * JISTA関西支部7月定例会 [参加]
 
+* 8月5日（水）
+   * `京都アジャイル勉強会 エクストリームプログラミング２nd　読書会#2 <http://connpass.com/event/17981/>`_
+
 * 8月7日（金）
    * `TechLION vol.22＠京都 <https://techlion.doorkeeper.jp/events/26581>`_
 
