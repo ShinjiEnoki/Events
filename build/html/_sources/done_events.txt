@@ -4,6 +4,14 @@
 2015年
 ^^^^^^
 
+* 7月27日（月）
+   * JISTA関西支部7月定例会
+
+* 7月26日（日）
+   * `LibreOffice Hackfest （翻訳査読スプリント） 2015-07-26 in 東京 <http://libojapan.connpass.com/event/17763/>`_
+
+* 7月25日（土）
+   * `日本UNIXユーザ会2015年度・総会併設勉強会 <https://japanunixsociety.doorkeeper.jp/events/25734>`_
 * 7月18日（土）
    * JUS拡大幹事会
 

@@ -4,15 +4,6 @@
 2015年
 ^^^^^^
 
-* 7月25日（土）
-   * `日本UNIXユーザ会2015年度・総会併設勉強会 <https://japanunixsociety.doorkeeper.jp/events/25734>`_ [参加]
-
-* 7月26日（日）
-   * `LibreOffice Hackfest （翻訳査読スプリント） 2015-07-26 in 東京 <http://libojapan.connpass.com/event/17763/>`_ [参加]
-
-* 7月27日（月）
-   * JISTA関西支部7月定例会 [参加]
-
 * 8月5日（水）
    * `京都アジャイル勉強会 エクストリームプログラミング２nd　読書会#2 <http://connpass.com/event/17981/>`_
 
@@ -33,6 +24,9 @@
 
 * 8月22日（土）
    * オープンソースカンファレンス2015 Shimane
+
+* 8月22日（土）
+   * `SEA関西プロセス分科会「価値ある製品を生み出すためのアジャイル実践ポイント」 <http://kokucheese.com/event/index/321469/>`_
 
 * 8月29日（土）
    * KOF3回目ミーティング
