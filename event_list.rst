@@ -11,7 +11,7 @@
    * `TechLION vol.22＠京都 <https://techlion.doorkeeper.jp/events/26581>`_
 
 * 8月7日（金）-8日（土）
-   * `オープンソースカンファレンス2015 Kansai@Kyoto <http://www.ospn.jp/osc2015-kyoto/>`_ [参加予定]
+   * `オープンソースカンファレンス2015 Kansai@Kyoto <http://www.ospn.jp/osc2015-kyoto/>`_ [参加]
 
 * 8月7日-9日（日）
    * `二夜限りのギークハウス in 京都 2015 <https://atnd.org/events/67051>`_ [参加]
@@ -44,10 +44,10 @@
    * `LibreOffice Conference 2015 in Aarhus, Denmark <https://conference.libreoffice.org/>`_ [参加予定]
 
 * 10月3日（土）
-   * オープンソースカンファレンス2015 Fukuoka
+   * `オープンソースカンファレンス2015 Fukuoka <http://www.ospn.jp/osc2015-fukuoka/>`_ [参加予定]
 
 * 10月24日（土）-25日（日）
-   * オープンソースカンファレンス2015 Tokyo/Fall [参加予定]
+   * `オープンソースカンファレンス2015 Tokyo/Fall <http://www.ospn.jp/osc2015-fall/>`_ [参加予定]
 
 * 11月6日（金）-7日（土）
    * `関西オープンフォーラム 2015 <https://k-of.jp/>`_ [参加予定]
