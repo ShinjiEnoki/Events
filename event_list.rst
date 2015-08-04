@@ -17,7 +17,7 @@
    * `二夜限りのギークハウス in 京都 2015 <https://atnd.org/events/67051>`_ [参加]
 
 * 8月15日（土）
-   * オープンテックショーケース姫路 [参加予定]
+   * `オープンテック・ショーケース・ヒメジ 2015 <https://histudy.doorkeeper.jp/events/23355>`_ [参加]
 
 * 8月22日（土）企画中
    * 関西LibreOffice hackfest（開発向け）
