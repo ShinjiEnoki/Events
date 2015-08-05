@@ -19,8 +19,11 @@
 * 8月15日（土）
    * `オープンテック・ショーケース・ヒメジ 2015 <https://histudy.doorkeeper.jp/events/23355>`_ [参加]
 
-* 8月22日（土）企画中
-   * 関西LibreOffice hackfest（開発向け）
+* 8月16日（日）
+   * ` LILO&東海道らぐオフラインミーティング (2015/08/16) <https://lilo.doorkeeper.jp/events/29247>`_ [参加]
+
+* 8月22日（土）
+   * `関西LibreOffice HackFest 2015-08-22 <http://libojapan.connpass.com/event/18559/>`_ [参加]
 
 * 8月22日（土）
    * オープンソースカンファレンス2015 Shimane
