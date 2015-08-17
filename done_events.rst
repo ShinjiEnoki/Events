@@ -4,6 +4,18 @@
 2015年
 ^^^^^^
 
+* 8月9日（日）
+   * `DocFest 2015 Aug. Osaka <https://doc-ja.doorkeeper.jp/events/29479>`_
+
+* 8月7日-9日（日）
+   * `二夜限りのギークハウス in 京都 2015 <https://atnd.org/events/67051>`_
+
+* 8月7日（金）-8日（土）
+   * `オープンソースカンファレンス2015 Kansai@Kyoto <http://www.ospn.jp/osc2015-kyoto/>`_
+
+* 8月5日（水）
+   * `京都アジャイル勉強会 エクストリームプログラミング２nd　読書会#2 <http://connpass.com/event/17981/>`_
+
 * 7月27日（月）
    * JISTA関西支部7月定例会
 

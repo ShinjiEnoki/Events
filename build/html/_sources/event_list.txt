@@ -4,29 +4,20 @@
 2015年
 ^^^^^^
 
-* 8月5日（水）
-   * `京都アジャイル勉強会 エクストリームプログラミング２nd　読書会#2 <http://connpass.com/event/17981/>`_
-
-* 8月7日（金）
-   * `TechLION vol.22＠京都 <https://techlion.doorkeeper.jp/events/26581>`_
-
-* 8月7日（金）-8日（土）
-   * `オープンソースカンファレンス2015 Kansai@Kyoto <http://www.ospn.jp/osc2015-kyoto/>`_ [参加]
-
-* 8月7日-9日（日）
-   * `二夜限りのギークハウス in 京都 2015 <https://atnd.org/events/67051>`_ [参加]
-
 * 8月15日（土）
    * `オープンテック・ショーケース・ヒメジ 2015 <https://histudy.doorkeeper.jp/events/23355>`_ [参加]
 
 * 8月16日（日）
-   * ` LILO&東海道らぐオフラインミーティング (2015/08/16) <https://lilo.doorkeeper.jp/events/29247>`_ [参加]
+   * `LILO&東海道らぐオフラインミーティング (2015/08/16) <https://lilo.doorkeeper.jp/events/29247>`_ [参加]
+
+* 8月19日（水）
+   * `LibreOfficeの日 vol.19 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/29201>`_ [参加]
 
 * 8月22日（土）
    * `関西LibreOffice HackFest 2015-08-22 <http://libojapan.connpass.com/event/18559/>`_ [参加]
 
 * 8月22日（土）
-   * オープンソースカンファレンス2015 Shimane
+   * `オープンソースカンファレンス2015 Shimane <http://www.ospn.jp/osc2015-shimane/>`_
 
 * 8月22日（土）
    * `SEA関西プロセス分科会「価値ある製品を生み出すためのアジャイル実践ポイント」 <http://kokucheese.com/event/index/321469/>`_
@@ -37,8 +28,16 @@
 * 8月30日（日）
    * `Wikipedia ARTS 大阪新美術館コレクション <https://artlogue.doorkeeper.jp/events/27728>`_ [参加]
 
+* 9月5日（土）
+   * `クリエイティブビジネスフォーラム【CMS大阪夏祭り2015】 <https://www.facebook.com/events/101598420193316/>`_
+
+* 9月12日（土）
+   * `JISTAオープンフォーラム2015 in 関西 <https://www.jista.org/modules/news/article.php?storyid=70>`_ [参加予定]
+
+* 9月13日（日）
+   * 京都オープンデータソン 2015 vol.1 [参加予定]
 * 9月19日（土）-20日（日）
-   * JSDG全国大会 in 仙台
+   * `JSDG第16回全国大会 in 仙台 <http://www.jsdg.org/public/contents/conference/16zenkoku/top.html>`_
 
 * 9月22日（火）
    * LibreOfficeコミュニティミーティング（カンファレンス前日恒例）
@@ -48,6 +47,9 @@
 
 * 10月3日（土）
    * `オープンソースカンファレンス2015 Fukuoka <http://www.ospn.jp/osc2015-fukuoka/>`_ [参加予定]
+
+* 10月17日（土）
+   * 島根IT勉強会 [参加予定]
 
 * 10月24日（土）-25日（日）
    * `オープンソースカンファレンス2015 Tokyo/Fall <http://www.ospn.jp/osc2015-fall/>`_ [参加予定]
