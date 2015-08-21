@@ -4,15 +4,6 @@
 2015年
 ^^^^^^
 
-* 8月15日（土）
-   * `オープンテック・ショーケース・ヒメジ 2015 <https://histudy.doorkeeper.jp/events/23355>`_ [参加]
-
-* 8月16日（日）
-   * `LILO&東海道らぐオフラインミーティング (2015/08/16) <https://lilo.doorkeeper.jp/events/29247>`_ [参加]
-
-* 8月19日（水）
-   * `LibreOfficeの日 vol.19 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/29201>`_ [参加]
-
 * 8月22日（土）
    * `関西LibreOffice HackFest 2015-08-22 <http://libojapan.connpass.com/event/18559/>`_ [参加]
 
@@ -21,6 +12,9 @@
 
 * 8月22日（土）
    * `SEA関西プロセス分科会「価値ある製品を生み出すためのアジャイル実践ポイント」 <http://kokucheese.com/event/index/321469/>`_
+
+* 8月29日（土）
+   * テスト設計コンテンスト関西チームMTG
 
 * 8月29日（土）
    * KOF3回目ミーティング

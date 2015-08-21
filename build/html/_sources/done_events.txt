@@ -4,6 +4,15 @@
 2015年
 ^^^^^^
 
+* 8月19日（水）
+   * `LibreOfficeの日 vol.19 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/29201>`_
+
+* 8月16日（日）
+   * `LILO&東海道らぐオフラインミーティング (2015/08/16) <https://lilo.doorkeeper.jp/events/29247>`_
+
+* 8月15日（土）
+   * `オープンテック・ショーケース・ヒメジ 2015 <https://histudy.doorkeeper.jp/events/23355>`_
+
 * 8月9日（日）
    * `DocFest 2015 Aug. Osaka <https://doc-ja.doorkeeper.jp/events/29479>`_
 
