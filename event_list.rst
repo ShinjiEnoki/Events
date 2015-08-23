@@ -4,14 +4,8 @@
 2015年
 ^^^^^^
 
-* 8月22日（土）
-   * `関西LibreOffice HackFest 2015-08-22 <http://libojapan.connpass.com/event/18559/>`_ [参加]
-
-* 8月22日（土）
-   * `オープンソースカンファレンス2015 Shimane <http://www.ospn.jp/osc2015-shimane/>`_
-
-* 8月22日（土）
-   * `SEA関西プロセス分科会「価値ある製品を生み出すためのアジャイル実践ポイント」 <http://kokucheese.com/event/index/321469/>`_
+* 8月25日（火）
+   * オープンデータ京都実践会MTG in 鍵屋荘
 
 * 8月29日（土）
    * テスト設計コンテンスト関西チームMTG

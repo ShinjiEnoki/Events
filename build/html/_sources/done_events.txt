@@ -4,6 +4,9 @@
 2015年
 ^^^^^^
 
+* 8月22日（土）
+   * `関西LibreOffice HackFest 2015-08-22 <http://libojapan.connpass.com/event/18559/>`_
+
 * 8月19日（水）
    * `LibreOfficeの日 vol.19 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/29201>`_
 
