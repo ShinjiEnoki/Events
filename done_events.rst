@@ -4,6 +4,18 @@
 2015年
 ^^^^^^
 
+* 9月5日（土）
+   * `ユーザーエクスペリエンス デザイン ワークショップ <https://kyoto-design-lab.doorkeeper.jp/events/30111>`_
+
+* 9月3日（木）
+   * `Code for Kobe「CodeforJapan関さん来訪」 <https://www.facebook.com/events/493483544154482/>`_
+
+* 8月30日（日）
+   * `Wikipedia ARTS 大阪新美術館コレクション <https://artlogue.doorkeeper.jp/events/27728>`_
+
+* 8月25日（火）
+   * オープンデータ京都実践会MTG in 鍵屋荘
+
 * 8月22日（土）
    * `関西LibreOffice HackFest 2015-08-22 <http://libojapan.connpass.com/event/18559/>`_
 
