@@ -19,6 +19,9 @@
 * 9月13日（日）
    * `第1回関西ITインフラ系勉強会 <http://kansai-itinfra.connpass.com/event/18858/>`_
 
+* 9月16日（水）
+   * `LibreOfficeの日 vol.20 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/31190>`_ [参加]
+
 * 9月19日（土）-20日（日）
    * `JSDG第16回全国大会 in 仙台 <http://www.jsdg.org/public/contents/conference/16zenkoku/top.html>`_
 
@@ -29,7 +32,7 @@
    * `LibreOffice Conference 2015 in Aarhus, Denmark <https://conference.libreoffice.org/>`_ [参加]
 
 * 10月3日（土）
-   * `オープンソースカンファレンス2015 Fukuoka <http://www.ospn.jp/osc2015-fukuoka/>`_ [参加予定]
+   * `オープンソースカンファレンス2015 Fukuoka <http://www.ospn.jp/osc2015-fukuoka/>`_ [参加]
 
 * 10月4日（日）企画中
    * `第6回九州LibreOffice勉強会 <http://connpass.com/event/19881/>`_ [参加予定]
@@ -46,6 +49,9 @@
 * 11月14日（土）
    * `オープンソースカンファレンス2015 Tokushima <http://www.ospn.jp/osc2015-tokushima/>`_ [参加予定]
 
+* 11月23日
+   * `関西オープンデータディ <https://www.facebook.com/events/519662078184283/>`_
+
 2016年
 ^^^^^^
 
@@ -54,6 +60,9 @@
 
 * 1月24日（日）
    * 浜名湖LibreOffice勉強会
+
+* 1月29日（金）
+   * オープソースカンファレンス2016 .Enterprise＠Osaka
 
 * 5月28日（土）
    * オープンソースカンファレンス2016 Nagoya
