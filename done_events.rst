@@ -4,6 +4,18 @@
 2015年
 ^^^^^^
 
+* 9月16日（水）
+   * `LibreOfficeの日 vol.20 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/31190>`_
+
+* 9月13日（日）
+   * `「鴨川運河と伏見街道を、歩いて調べて発信しよう~伏見オープンデータソン（その1）鴨川運河・藤森付近～ <https://opendata-kyoto.doorkeeper.jp/events/30435>`_
+
+* 9月12日（土）
+   * `JISTAオープンフォーラム2015 in 関西 <https://www.jista.org/modules/news/article.php?storyid=70>`_
+
+* 9月11日（金）
+   * `おりがみで出来る！チームワークを強化するCCPMを体感できるワークショップ <https://tocfe-kansai.doorkeeper.jp/events/30511>`_
+
 * 9月5日（土）
    * `ユーザーエクスペリエンス デザイン ワークショップ <https://kyoto-design-lab.doorkeeper.jp/events/30111>`_
 
