@@ -23,7 +23,7 @@
    * `第28回山陰ITPro勉強会 <http://sitw.techtalk.jp/sitwinfo/info28>`_ [参加]
 
 * 10月21日（水）
-   * LibreOfficeの日 #21
+   * `LibreOfficeの日 #21 @JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/32381>`_ [参加]
 
 * 10月24日（土）-25日（日）
    * `オープンソースカンファレンス2015 Tokyo/Fall <http://www.ospn.jp/osc2015-fall/>`_ [参加予定]
