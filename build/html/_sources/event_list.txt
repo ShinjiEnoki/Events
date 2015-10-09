@@ -28,11 +28,17 @@
 * 10月24日（土）-25日（日）
    * `オープンソースカンファレンス2015 Tokyo/Fall <http://www.ospn.jp/osc2015-fall/>`_ [参加予定]
 
+* 10月31日（土）
+   * 日本UNIXユーザ会・Sphinxワークショップ
+
 * 11月6日（金）-7日（土）
    * `関西オープンフォーラム 2015 <https://k-of.jp/>`_ [参加]
 
 * 11月14日（土）
    * `オープンソースカンファレンス2015 Tokushima <http://www.ospn.jp/osc2015-tokushima/>`_ [参加予定]
+
+* 11月19日（木）
+   * Internet Week 2015 BoF
 
 * 11月23日
    * `関西オープンデータディ <https://www.facebook.com/events/519662078184283/>`_
