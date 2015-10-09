@@ -4,6 +4,21 @@
 2015年
 ^^^^^^
 
+* 10月8日（木）
+   * `KIISサイバーセキュリティ研究会 <https://secure.kiis.or.jp/cybersecurity/event.html>`_
+
+* 10月4日（日）
+   * `第6回九州LibreOffice勉強会 <http://connpass.com/event/19881/>`_
+
+* 10月3日（土）
+   * `オープンソースカンファレンス2015 Fukuoka <http://www.ospn.jp/osc2015-fukuoka/>`_
+
+* 9月23日（水）-25日（金）
+   * `LibreOffice Conference 2015 in Aarhus, Denmark <https://conference.libreoffice.org/>`_
+
+* 9月22日（火）
+   * LibreOfficeコミュニティミーティング（カンファレンス前日恒例）
+
 * 9月16日（水）
    * `LibreOfficeの日 vol.20 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/31190>`_
 
