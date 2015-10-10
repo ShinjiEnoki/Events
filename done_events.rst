@@ -4,6 +4,9 @@
 2015年
 ^^^^^^
 
+* 10月10日（土）
+   * `京アジャ ユーザーストーリーマッピング実践勉強会 <http://connpass.com/event/20335/>`_
+
 * 10月8日（木）
    * `KIISサイバーセキュリティ研究会 <https://secure.kiis.or.jp/cybersecurity/event.html>`_
 
