@@ -4,18 +4,6 @@
 2015年
 ^^^^^^
 
-* 10月11日（日）
-   * `OpenGLAM JAPANシンポジウム「オープンガバメント・オープンデータの将来」 <https://www.facebook.com/events/1707436689485141/>`_ [参加]
-
-* 10月12日（月）
-   * `Wikimedia Tokyo meetup with Lila <http://peatix.com/event/118891>`_ [参加]
-
-* 10月16日（金）-18日（日）
-   * `Startup Weekend Osaka エンターテイメント vol.2 <https://swosaka.doorkeeper.jp/events/30899>`_
-
-* 10月17日（土）
-   * `第28回山陰ITPro勉強会 <http://sitw.techtalk.jp/sitwinfo/info28>`_ [参加]
-
 * 10月21日（水）
    * `LibreOfficeの日 #21 @JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/32381>`_ [参加]
 
@@ -23,7 +11,7 @@
    * `オープンソースカンファレンス2015 Tokyo/Fall <http://www.ospn.jp/osc2015-fall/>`_ [参加予定]
 
 * 10月31日（土）
-   * 日本UNIXユーザ会・Sphinxワークショップ
+   * `Sphinx ワークショップ@関西（2015/10） <https://japanunixsociety.doorkeeper.jp/events/32899>`_
 
 * 11月6日（金）-7日（土）
    * `関西オープンフォーラム 2015 <https://k-of.jp/>`_ [参加]

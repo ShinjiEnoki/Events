@@ -4,6 +4,15 @@
 2015年
 ^^^^^^
 
+* 10月17日（土）
+   * `第28回山陰ITPro勉強会 <http://sitw.techtalk.jp/sitwinfo/info28>`_
+
+* 10月12日（月）
+   * `Wikimedia Tokyo meetup with Lila <http://peatix.com/event/118891>`_
+
+* 10月11日（日）
+   * `OpenGLAM JAPANシンポジウム「オープンガバメント・オープンデータの将来」 <https://www.facebook.com/events/1707436689485141/>`_
+
 * 10月10日（土）
    * `京アジャ ユーザーストーリーマッピング実践勉強会 <http://connpass.com/event/20335/>`_
 
