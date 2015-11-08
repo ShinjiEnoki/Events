@@ -4,32 +4,36 @@
 2015年
 ^^^^^^
 
-* 10月21日（水）
-   * `LibreOfficeの日 #21 @JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/32381>`_ [参加]
-
-* 10月24日（土）-25日（日）
-   * `オープンソースカンファレンス2015 Tokyo/Fall <http://www.ospn.jp/osc2015-fall/>`_ [参加予定]
-
-* 10月31日（土）
-   * `Sphinx ワークショップ@関西（2015/10） <https://japanunixsociety.doorkeeper.jp/events/32899>`_
-
-* 11月6日（金）-7日（土）
-   * `関西オープンフォーラム 2015 <https://k-of.jp/>`_ [参加]
-
 * 11月14日（土）
-   * `オープンソースカンファレンス2015 Tokushima <http://www.ospn.jp/osc2015-tokushima/>`_ [参加予定]
+   * `オープンソースカンファレンス2015 Tokushima <http://www.ospn.jp/osc2015-tokushima/>`_ [参加]
 
 * 11月19日（木）
-   * Internet Week 2015 BoF
+   * `Internet Week 2015 BoF ITコミュニティの運営を考える <https://internetweek.jp/program/b6/>`_ [参加]
 
 * 11月23日
    * `関西オープンデータディ <https://www.facebook.com/events/519662078184283/>`_
 
+* 12月12日（土）
+   * 京都世界遺産マッピングパーティ：西芳寺
+
+* 12月13日（日）
+   * 京都オープンデータソン in 伏見
+
+* 12月18日（金）
+   * `ODPG定例会 <http://odpg.org/>`_
+
+
 2016年
 ^^^^^^
 
-* 1月9日（土）予定
+* 1月9日（土）
    * LibreOffice mini Conference 2016 in Japan
+
+* 1月10日（日）
+   * Kansai LibreOffice Hackfest
+
+* 1月16日（土）
+   * LILO＆東海道らぐ・オフラインミーティング
 
 * 1月18日
    * スクラムギャザリング東京：アイデアは事前に投稿大会
@@ -57,4 +61,7 @@
 
 * 7月16日（土）-17日（日）
    * JSDG全国大会
+
+* 11月11日（金）-12日（土）
+   * 関西オープンフォーラム2016
 

@@ -4,6 +4,27 @@
 2015年
 ^^^^^^
 
+* 11月7日（日）
+   * `DocFest 2015 Nov. Osaka <https://doc-ja.doorkeeper.jp/events/34343>`_
+
+* 11月6日（金）-7日（土）
+   * `関西オープンフォーラム 2015 <https://k-of.jp/>`_
+
+* 11月5日（木）
+   * `シーグラフアジア2015 <http://sa2015.siggraph.org/jp/>`_ ブース＆セッション
+
+* 11月1日（日）
+   * `関西LibreOffice HackFest 2015-11-01 <http://connpass.com/event/21884/>`_
+
+* 10月31日（土）
+   * `Sphinx ワークショップ@関西（2015/10） <https://japanunixsociety.doorkeeper.jp/events/32899>`_
+
+* 10月24日（土）-25日（日）
+   * `オープンソースカンファレンス2015 Tokyo/Fall <http://www.ospn.jp/osc2015-fall/>`_
+
+* 10月21日（水）
+   * `LibreOfficeの日 #21 @JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/32381>`_
+
 * 10月17日（土）
    * `第28回山陰ITPro勉強会 <http://sitw.techtalk.jp/sitwinfo/info28>`_
 
