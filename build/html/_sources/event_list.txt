@@ -10,17 +10,26 @@
 * 11月19日（木）
    * `Internet Week 2015 BoF ITコミュニティの運営を考える <https://internetweek.jp/program/b6/>`_ [参加]
 
+* 11月21日（土）
+   * `京都世界遺産マッピングパーティ：第８回龍安寺 <https://openstreetmap.doorkeeper.jp/events/32957>`_
+
 * 11月23日
    * `関西オープンデータディ <https://www.facebook.com/events/519662078184283/>`_
 
+* 11月23日（月）
+   * `第2回関西ITインフラ系勉強会 <http://kansai-itinfra.connpass.com/event/21416/>`_
+
+* 11月26日（木）
+   * `スクラム道関西★大忘年会2015 <https://scrumdo-kansai.doorkeeper.jp/events/34107>`_
+
 * 12月12日（土）
-   * 京都世界遺産マッピングパーティ：西芳寺
+   * `京都世界遺産マッピングパーティ：第９回［特別編］西芳寺 <https://openstreetmap.doorkeeper.jp/events/33731>`_
 
 * 12月13日（日）
-   * 京都オープンデータソン in 伏見
+   * 京都オープンデータソン in 伏見 [参加予定]
 
 * 12月18日（金）
-   * `ODPG定例会 <http://odpg.org/>`_
+   * `ODPG定例会 <http://odpg.org/>`_ [参加]
 
 2016年
 ^^^^^^
