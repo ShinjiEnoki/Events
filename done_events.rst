@@ -4,6 +4,9 @@
 2015年
 ^^^^^^
 
+* 11月14日（土）
+   * `オープンソースカンファレンス2015 Tokushima <http://www.ospn.jp/osc2015-tokushima/>`_
+
 * 11月7日（日）
    * `DocFest 2015 Nov. Osaka <https://doc-ja.doorkeeper.jp/events/34343>`_
 
@@ -27,6 +30,9 @@
 
 * 10月17日（土）
    * `第28回山陰ITPro勉強会 <http://sitw.techtalk.jp/sitwinfo/info28>`_
+
+* 10月15日（木）
+   * Code for Kobe
 
 * 10月12日（月）
    * `Wikimedia Tokyo meetup with Lila <http://peatix.com/event/118891>`_
