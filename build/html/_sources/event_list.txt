@@ -4,7 +4,6 @@
 2015年
 ^^^^^^
 
-
 * 11月19日（木）
    * `Internet Week 2015 BoF ITコミュニティの運営を考える <https://internetweek.jp/program/b6/>`_ [参加]
 
@@ -14,14 +13,29 @@
 * 11月21日（土）
    * `京都世界遺産マッピングパーティ：第８回龍安寺 <https://openstreetmap.doorkeeper.jp/events/32957>`_
 
+* 11月22日（日）
+   * `第104回関西Debian勉強会 <https://wiki.debian.org/KansaiDebianMeeting/20151122>`_
+
 * 11月23日
    * `関西オープンデータディ <https://www.facebook.com/events/519662078184283/>`_
 
 * 11月23日（月）
    * `第2回関西ITインフラ系勉強会 <http://kansai-itinfra.connpass.com/event/21416/>`_
 
+* 11月25日（水）
+   * `LibreOfficeの日 vol.22 @JUSO Coworking <http://juso-coworking.com/event/day-libreoffice22>`_
+
+* 11月25日（水）
+   * `京都アジャイル勉強会 エクストリームプログラミング２nd　読書会#3 <http://connpass.com/event/23060/>`_
+
 * 11月26日（木）
    * `スクラム道関西★大忘年会2015 <https://scrumdo-kansai.doorkeeper.jp/events/34107>`_
+
+* 12月4（金）−6日（日）
+   * LibreOffice bughunting
+
+* 12月10日（木）
+   * `第4回 自治体オープンデータ推進協議会（関西会議） <http://peatix.com/event/130234>`_
 
 * 12月12日（土）
    * `わかやまITカーニバル <https://wakayama-it-carnival.org/>`_
