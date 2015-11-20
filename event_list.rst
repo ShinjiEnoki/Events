@@ -25,6 +25,9 @@
 * 11月26日（木）
    * `スクラム道関西★大忘年会2015 <https://scrumdo-kansai.doorkeeper.jp/events/34107>`_
 
+* 11月28日（土）
+   * おさべん忘年会2015
+
 * 12月4日（金）−6日（日）
    * LibreOffice bughunting
 
