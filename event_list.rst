@@ -4,17 +4,11 @@
 2015年
 ^^^^^^
 
-* 11月19日（木）
-   * `Internet Week 2015 BoF ITコミュニティの運営を考える <https://internetweek.jp/program/b6/>`_ [参加]
-
-* 11月20日（金）
-   * `想いを届け、記憶に残るプレゼンテーション技法！ <http://www.copli.jp/modules/ccenter/?form=87>`_
-
 * 11月21日（土）
    * `京都世界遺産マッピングパーティ：第８回龍安寺 <https://openstreetmap.doorkeeper.jp/events/32957>`_
 
 * 11月22日（日）
-   * `第104回関西Debian勉強会 <https://wiki.debian.org/KansaiDebianMeeting/20151122>`_
+   * `第104回関西Debian勉強会 <https://wiki.debian.org/KansaiDebianMeeting/20151122>`_ [参加]
 
 * 11月23日
    * `関西オープンデータディ <https://www.facebook.com/events/519662078184283/>`_
@@ -31,14 +25,17 @@
 * 11月26日（木）
    * `スクラム道関西★大忘年会2015 <https://scrumdo-kansai.doorkeeper.jp/events/34107>`_
 
-* 12月4（金）−6日（日）
+* 12月4日（金）−6日（日）
    * LibreOffice bughunting
+
+* 12月5日（土）
+   * テスト設計コンテスト関西予選
 
 * 12月10日（木）
    * `第4回 自治体オープンデータ推進協議会（関西会議） <http://peatix.com/event/130234>`_
 
 * 12月12日（土）
-   * `わかやまITカーニバル <https://wakayama-it-carnival.org/>`_
+   * `わかやまITカーニバル <https://wakayama-it-carnival.org/>`_ [参加予定]
 
 * 12月12日（土）
    * `京都世界遺産マッピングパーティ：第９回［特別編］西芳寺 <https://openstreetmap.doorkeeper.jp/events/33731>`_

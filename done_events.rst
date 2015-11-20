@@ -4,6 +4,9 @@
 2015年
 ^^^^^^
 
+* 11月19日（木）
+   * `Internet Week 2015 BoF ITコミュニティの運営を考える <https://internetweek.jp/program/b6/>`_
+
 * 11月14日（土）
    * `オープンソースカンファレンス2015 Tokushima <http://www.ospn.jp/osc2015-tokushima/>`_
 
