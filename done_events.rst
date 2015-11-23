@@ -4,6 +4,12 @@
 2015年
 ^^^^^^
 
+* 11月23日（月）
+   * オープンデータ京都実践会MTG
+
+* 11月22日（日）
+   * `第104回関西Debian勉強会 <https://wiki.debian.org/KansaiDebianMeeting/20151122>`_
+
 * 11月19日（木）
    * `Internet Week 2015 BoF ITコミュニティの運営を考える <https://internetweek.jp/program/b6/>`_
 
