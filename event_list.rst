@@ -34,6 +34,9 @@
 * 12月13日（日）
    * 京都オープンデータソン in 伏見 [参加予定]
 
+* 12月14日（月）
+   * `Patchwork KOBE <http://patchwork-kobe.peatix.com/>`_ [参加]
+
 * 12月18日（金）
    * `ODPG定例会 <http://odpg.org/>`_ [参加]
 
