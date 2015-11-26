@@ -4,6 +4,9 @@
 2015年
 ^^^^^^
 
+* 11月25日（水）
+   * `LibreOfficeの日 vol.22 @JUSO Coworking <http://juso-coworking.com/event/day-libreoffice22>`_ [参加]
+
 * 11月23日（月）
    * オープンデータ京都実践会MTG
 

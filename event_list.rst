@@ -4,11 +4,6 @@
 2015年
 ^^^^^^
 
-* 11月25日（水）
-   * `LibreOfficeの日 vol.22 @JUSO Coworking <http://juso-coworking.com/event/day-libreoffice22>`_ [参加]
-
-* 11月25日（水）
-   * `京都アジャイル勉強会 エクストリームプログラミング２nd　読書会#3 <http://connpass.com/event/23060/>`_
 
 * 11月26日（木）
    * `スクラム道関西★大忘年会2015 <https://scrumdo-kansai.doorkeeper.jp/events/34107>`_
@@ -20,7 +15,7 @@
    * LibreOffice bughunting
 
 * 12月5日（土）
-   * テスト設計コンテスト関西予選
+   * `テスト設計コンテスト関西予選 <http://aster.or.jp/business/contest/elimination.html#schedule4>`_ [参加]
 
 * 12月10日（木）
    * `第4回 自治体オープンデータ推進協議会（関西会議） <http://peatix.com/event/130234>`_
