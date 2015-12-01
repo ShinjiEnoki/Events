@@ -4,18 +4,14 @@
 2015年
 ^^^^^^
 
-
-* 11月26日（木）
-   * `スクラム道関西★大忘年会2015 <https://scrumdo-kansai.doorkeeper.jp/events/34107>`_
-
-* 11月28日（土）
-   * おさべん忘年会2015
-
 * 12月4日（金）−6日（日）
    * LibreOffice bughunting
 
 * 12月5日（土）
    * `テスト設計コンテスト関西予選 <http://aster.or.jp/business/contest/elimination.html#schedule4>`_ [参加]
+
+* 12月6日（日）
+   * 奈良オープデータソン?
 
 * 12月10日（木）
    * `第4回 自治体オープンデータ推進協議会（関西会議） <http://peatix.com/event/130234>`_
@@ -27,16 +23,22 @@
    * `京都世界遺産マッピングパーティ：第９回［特別編］西芳寺 <https://openstreetmap.doorkeeper.jp/events/33731>`_
 
 * 12月13日（日）
-   * 京都オープンデータソン in 伏見 [参加予定]
+   * `淀地域を、歩いて調べて発信しよう～伏見オープンデータソン（その2）淀城址・與杼神社付近 <https://opendata-kyoto.doorkeeper.jp/events/35151>`_ [参加]
 
 * 12月14日（月）
    * `Patchwork KOBE <http://patchwork-kobe.peatix.com/>`_ [参加]
 
+* 12月15日（火）
+   * `サイバーセキュリティ研究会#2 <https://secure.kiis.or.jp/cybersecurity/event.html>`_ [参加予定]
+
 * 12月18日（金）
    * `ODPG定例会 <http://odpg.org/>`_ [参加]
 
-* 12月19日（土）？26日？
-   * 関西LibreOffice勉強会
+* 12月19日（土）
+   * `2015年度　第7回　データ分析勉強会 <http://kokucheese.com/event/index/355526/>`_
+
+* 12月20日（日）
+   * KOF振り返りミーティング
 
 * 12月27日（日）
    * 第105回関西Debian勉強会 LibOネタで発表
@@ -56,17 +58,26 @@
 * 1月18日（月）
    * スクラムギャザリング東京：アイデアは事前に投稿大会
 
+* 1月20日（水）-22（金）
+   * `JANOG37 Meeting <http://www.janog.gr.jp/meeting/janog37/>`_
+
+* 1月23日（土）-24日（日）
+   * JISTA関西合宿
+
 * 1月23日（土）
-   * オープンソースカンファレンス2016 Hamanako [参加予定]
+   * `オープンソースカンファレンス2016 Hamanako <http://www.ospn.jp/osc2016-hamanako/>`_ [参加予定]
 
 * 1月24日（日）？
    * 浜名湖LibreOffice勉強会
 
 * 1月29日（金）
-   * オープソースカンファレンス2016 .Enterprise＠Osaka [参加予定]
+   * `オープソースカンファレンス2016 .Enterprise＠Osaka <http://www.ospn.jp/osc2016.enterprise-osaka/>`_ [参加予定]
 
 * 1月30日（土）企画検討
    * 徳島LibreOffice勉強会
+
+* 2月6日（土）
+   * `オープンセミナー2016@広島 <https://osh-web.doorkeeper.jp/events/35060>`_
 
 * 2月26日（金）-27日（土）
    * オープンソースカンファレンス2016 Tokyo/Spring [参加予定]
