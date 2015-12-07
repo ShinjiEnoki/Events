@@ -4,8 +4,14 @@
 2015年
 ^^^^^^
 
+* 12月6日（日）
+   * `関西LibreOffice HackFest 2015-12-06 <http://connpass.com/event/23866/>`_
+
+* 12月5日（土）
+   * `テスト設計コンテスト関西予選 <http://aster.or.jp/business/contest/elimination.html#schedule4>`_
+
 * 11月25日（水）
-   * `LibreOfficeの日 vol.22 @JUSO Coworking <http://juso-coworking.com/event/day-libreoffice22>`_ [参加]
+   * `LibreOfficeの日 vol.22 @JUSO Coworking <http://juso-coworking.com/event/day-libreoffice22>`_
 
 * 11月23日（月）
    * オープンデータ京都実践会MTG

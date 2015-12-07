@@ -4,14 +4,7 @@
 2015年
 ^^^^^^
 
-* 12月4日（金）−6日（日）
-   * LibreOffice bughunting
 
-* 12月5日（土）
-   * `テスト設計コンテスト関西予選 <http://aster.or.jp/business/contest/elimination.html#schedule4>`_ [参加]
-
-* 12月6日（日）
-   * 奈良オープデータソン?
 
 * 12月10日（木）
    * `第4回 自治体オープンデータ推進協議会（関西会議） <http://peatix.com/event/130234>`_
