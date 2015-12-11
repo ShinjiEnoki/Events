@@ -4,11 +4,6 @@
 2015年
 ^^^^^^
 
-
-
-* 12月10日（木）
-   * `第4回 自治体オープンデータ推進協議会（関西会議） <http://peatix.com/event/130234>`_
-
 * 12月12日（土）
    * `わかやまITカーニバル <https://wakayama-it-carnival.org/>`_ [参加]
 
@@ -22,7 +17,10 @@
    * `Patchwork KOBE <http://patchwork-kobe.peatix.com/>`_ [参加]
 
 * 12月15日（火）
-   * `サイバーセキュリティ研究会#2 <https://secure.kiis.or.jp/cybersecurity/event.html>`_ [参加予定]
+   * `サイバーセキュリティ研究会#2 <https://secure.kiis.or.jp/cybersecurity/event.html>`_ [参加]
+
+* 12月17日（水）
+   * `第11回Code for Kobe の定例ミーティング&忘年会 <https://www.facebook.com/events/1655097044750476/>`_ [参加]
 
 * 12月18日（金）
    * `ODPG定例会 <http://odpg.org/>`_ [参加]
@@ -31,10 +29,14 @@
    * `2015年度　第7回　データ分析勉強会 <http://kokucheese.com/event/index/355526/>`_
 
 * 12月20日（日）
-   * KOF振り返りミーティング
+   * KOF振り返りミーティング [参加]
 
 * 12月27日（日）
    * 第105回関西Debian勉強会 LibOネタで発表
+
+* 12月28日（月）
+   * `オープンソースフォーラム2015 〜オープンソースソフトウエアの過去・現在・未来〜 <https://ddcb0b4180917e37aa95cfbbe9.doorkeeper.jp/events/35275>`_
+
 
 2016年
 ^^^^^^
@@ -74,6 +76,9 @@
 
 * 2月26日（金）-27日（土）
    * オープンソースカンファレンス2016 Tokyo/Spring [参加予定]
+
+* 3月3日（木）-4日（金）
+   * `サイバーセキュリティシンポジウム道後2016 <http://sec-dogo.jp/>`_
 
 * 3月8日（火）-9日（水）
    * `JaSST'16 Tokyo <http://jasst.jp/symposium/jasst16tokyo.html>`_
