@@ -17,6 +17,9 @@
    * `ODPG定例会 <http://odpg.org/>`_ [参加]
 
 * 12月19日（土）
+   `AgileTourOsaka2015 <http://www.kokuchpro.com/event/c8b4d97e3a0e99f52f7935e4faccfb50/>`_ [参加]
+
+* 12月19日（土）
    * `2015年度　第7回　データ分析勉強会 <http://kokucheese.com/event/index/355526/>`_
 
 * 12月20日（日）
@@ -31,6 +34,9 @@
 
 2016年
 ^^^^^^
+
+* 1月7日（木）
+   * `行動デザイン ワークショップ <https://kyoto-design-lab.doorkeeper.jp/events/36139>`_
 
 * 1月9日（土）
    * LibreOffice mini Conference 2016 in Japan
