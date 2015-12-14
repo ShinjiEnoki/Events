@@ -4,9 +4,6 @@
 2015年
 ^^^^^^
 
-* 12月14日（月）
-   * `Patchwork KOBE <http://patchwork-kobe.peatix.com/>`_ [参加]
-
 * 12月15日（火）
    * `サイバーセキュリティ研究会#2 <https://secure.kiis.or.jp/cybersecurity/event.html>`_ [参加]
 

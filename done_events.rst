@@ -4,6 +4,9 @@
 2015年
 ^^^^^^
 
+* 12月14日（月）
+   * `Patchwork KOBE <http://patchwork-kobe.peatix.com/>`_
+
 * 12月13日（日）
    * `淀地域を、歩いて調べて発信しよう～伏見オープンデータソン（その2）淀城址・與杼神社付近 <https://opendata-kyoto.doorkeeper.jp/events/35151>`_
 
