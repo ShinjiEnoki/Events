@@ -4,6 +4,21 @@
 2015年
 ^^^^^^
 
+* 12月20日（日）
+   * KOF振り返りミーティング
+
+* 12月19日（土）
+   * `AgileTourOsaka2015 <http://www.kokuchpro.com/event/c8b4d97e3a0e99f52f7935e4faccfb50/>`_
+
+* 12月18日（金）
+   * `ODPG定例会 <http://odpg.org/>`_
+
+* 12月17日（木）
+   * `第11回Code for Kobe の定例ミーティング&忘年会 <https://www.facebook.com/events/1655097044750476/>`_
+
+* 12月15日（火）
+   * `サイバーセキュリティ研究会#2 <https://secure.kiis.or.jp/cybersecurity/event.html>`_
+
 * 12月14日（月）
    * `Patchwork KOBE <http://patchwork-kobe.peatix.com/>`_
 

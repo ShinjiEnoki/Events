@@ -4,30 +4,14 @@
 2015年
 ^^^^^^
 
-* 12月15日（火）
-   * `サイバーセキュリティ研究会#2 <https://secure.kiis.or.jp/cybersecurity/event.html>`_ [参加]
-
-* 12月17日（水）
-   * `第11回Code for Kobe の定例ミーティング&忘年会 <https://www.facebook.com/events/1655097044750476/>`_ [参加]
-
-* 12月18日（金）
-   * `ODPG定例会 <http://odpg.org/>`_ [参加]
-
-* 12月19日（土）
-   `AgileTourOsaka2015 <http://www.kokuchpro.com/event/c8b4d97e3a0e99f52f7935e4faccfb50/>`_ [参加]
-
-* 12月19日（土）
-   * `2015年度　第7回　データ分析勉強会 <http://kokucheese.com/event/index/355526/>`_
-
-* 12月20日（日）
-   * KOF振り返りミーティング [参加]
+* 12月22日（火）
+   * `LibreOfficeの日 vol.23 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/35986>`_ [参加]
 
 * 12月27日（日）
-   * 第105回関西Debian勉強会 LibOネタで発表
+   * `第105回関西Debian勉強会 <https://wiki.debian.org/KansaiDebianMeeting/20151227>`_ LibOネタで発表
 
 * 12月28日（月）
    * `オープンソースフォーラム2015 〜オープンソースソフトウエアの過去・現在・未来〜 <https://ddcb0b4180917e37aa95cfbbe9.doorkeeper.jp/events/35275>`_
-
 
 2016年
 ^^^^^^
@@ -36,10 +20,10 @@
    * `行動デザイン ワークショップ <https://kyoto-design-lab.doorkeeper.jp/events/36139>`_
 
 * 1月9日（土）
-   * LibreOffice mini Conference 2016 in Japan
+   * `LibreOffice mini Conference 2016 Osaka/Japan <http://libojapan.connpass.com/event/23688/>`_ [参加]
 
 * 1月10日（日）
-   * Kansai LibreOffice Hackfest
+   * `関西LibreOffice HackFest 2016-01-10 <http://libojapan.connpass.com/event/24081/>`_ [参加]
 
 * 1月16日（土）
    * LILO＆東海道らぐ・オフラインミーティング
