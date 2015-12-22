@@ -4,9 +4,6 @@
 2015年
 ^^^^^^
 
-* 12月22日（火）
-   * `LibreOfficeの日 vol.23 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/35986>`_ [参加]
-
 * 12月27日（日）
    * `第105回関西Debian勉強会 <https://wiki.debian.org/KansaiDebianMeeting/20151227>`_ LibOネタで発表
 
@@ -63,6 +60,9 @@
 
 * 3月8日（火）-9日（水）
    * `JaSST'16 Tokyo <http://jasst.jp/symposium/jasst16tokyo.html>`_
+
+* 5月19日（木）-21日（土）
+   * `第20回サイバー犯罪に関する白浜シンポジウム <http://www.riis.or.jp/symposium20/outline/>`_
 
 * 5月28日（土）
    * オープンソースカンファレンス2016 Nagoya

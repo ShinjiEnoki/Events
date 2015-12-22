@@ -4,6 +4,9 @@
 2015年
 ^^^^^^
 
+* 12月22日（火）
+   * `LibreOfficeの日 vol.23 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/35986>`_
+
 * 12月20日（日）
    * KOF振り返りミーティング
 
