@@ -25,6 +25,9 @@
 * 1月10日（日）
    * `関西LibreOffice HackFest 2016-01-10 <http://libojapan.connpass.com/event/24081/>`_ [参加]
 
+* 1月11日（月）
+   * `CCPM Festa in AJITO 160111:CCPM×折り紙ワーク&タコパで学ぶCCPM <https://tocfe-kansai.doorkeeper.jp/events/36505>`_
+
 * 1月16日（土）
    * LILO＆東海道らぐ・オフラインミーティング
 
