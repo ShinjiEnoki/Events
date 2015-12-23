@@ -17,6 +17,9 @@
    * `行動デザイン ワークショップ <https://kyoto-design-lab.doorkeeper.jp/events/36139>`_
 
 * 1月9日（土）
+   * `WARAI(関西ソフトウェアテスト勉強会)(2016/1/9) <http://www.kokuchpro.com/event/afaae14fabfcbe530de194c8ab83c132/>`_
+
+* 1月9日（土）
    * `LibreOffice mini Conference 2016 Osaka/Japan <http://libojapan.connpass.com/event/23688/>`_ [参加]
 
 * 1月10日（日）
@@ -69,6 +72,9 @@
 
 * 6月17日（金）-18日（土）
    * オープンソースカンファレンス2016 Hokkaido
+
+* 6月21日-28日
+   * `Wikimania Esino Lario <https://wikimania2016.wikimedia.org/wiki/Main_Page>`_
 
 * 7月2日（土）
    * オープンソースカンファレンス2016 Okinawa
