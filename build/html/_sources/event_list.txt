@@ -59,13 +59,13 @@
    * `オープンセミナー2016@広島 <https://osh-web.doorkeeper.jp/events/35060>`_
 
 * 2月26日（金）-27日（土）
-   * オープンソースカンファレンス2016 Tokyo/Spring [参加予定]
+   * `オープンソースカンファレンス2016 Tokyo/Spring <http://www.ospn.jp/osc2016-spring/>`_ [参加予定]
 
 * 3月3日（木）-4日（金）
    * `サイバーセキュリティシンポジウム道後2016 <http://sec-dogo.jp/>`_
 
 * 3月8日（火）-9日（水）
-   * `JaSST'16 Tokyo <http://jasst.jp/symposium/jasst16tokyo.html>`_
+   * `JaSST'16 Tokyo <http://jasst.jp/symposium/jasst16tokyo.html>`_ [参加]
 
 * 5月19日（木）-21日（土）
    * `第20回サイバー犯罪に関する白浜シンポジウム <http://www.riis.or.jp/symposium20/outline/>`_
