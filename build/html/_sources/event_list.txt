@@ -14,7 +14,7 @@
 ^^^^^^
 
 * 1月7日（木）
-   * `行動デザイン ワークショップ <https://kyoto-design-lab.doorkeeper.jp/events/36139>`_
+   * `行動デザイン ワークショップ <https://kyoto-design-lab.doorkeeper.jp/events/36139>`_ [参加]
 
 * 1月9日（土）
    * `WARAI(関西ソフトウェアテスト勉強会)(2016/1/9) <http://www.kokuchpro.com/event/afaae14fabfcbe530de194c8ab83c132/>`_
@@ -51,6 +51,9 @@
 
 * 1月30日（土）企画検討
    * 徳島LibreOffice勉強会
+
+* 2月6日（土）
+   * Wikipedia ARTS
 
 * 2月6日（土）
    * `オープンセミナー2016@広島 <https://osh-web.doorkeeper.jp/events/35060>`_
