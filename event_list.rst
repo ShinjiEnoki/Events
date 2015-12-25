@@ -58,6 +58,9 @@
 * 2月6日（土）
    * `オープンセミナー2016@広島 <https://osh-web.doorkeeper.jp/events/35060>`_
 
+* 2月13日（土）
+   * 関西LibreOffice勉強会
+
 * 2月26日（金）-27日（土）
    * `オープンソースカンファレンス2016 Tokyo/Spring <http://www.ospn.jp/osc2016-spring/>`_ [参加予定]
 
