@@ -1,8 +1,20 @@
 これま参加した勉強会/セミナー/イベント
 =========================================
 
+2016年
+^^^^^^
+
+* 1月10日（日）
+   * `関西LibreOffice HackFest 2016-01-10 <http://libojapan.connpass.com/event/24081/>`_
+
+* 1月9日（土）
+   * `LibreOffice mini Conference 2016 Osaka/Japan <http://libojapan.connpass.com/event/23688/>`_
+
 2015年
 ^^^^^^
+
+* 12月27日（日）
+   * `第105回関西Debian勉強会 <https://wiki.debian.org/KansaiDebianMeeting/20151227>`_ LibOネタ
 
 * 12月22日（火）
    * `LibreOfficeの日 vol.23 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/35986>`_

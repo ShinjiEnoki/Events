@@ -4,6 +4,9 @@
 2015年
 ^^^^^^
 
+* 12月27日（日）
+   * `第105回関西Debian勉強会 <https://wiki.debian.org/KansaiDebianMeeting/20151227>`_ LibOネタ
+
 * 12月22日（火）
    * `LibreOfficeの日 vol.23 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/35986>`_
 
