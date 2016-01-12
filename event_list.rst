@@ -4,6 +4,9 @@
 2016年
 ^^^^^^
 
+* 1月14日（木）
+   * `「TechLION vol.24 ～EC・決済最新動向～」パブリックビューイング＠大阪 #TechLION #さくらクラブ #ロックオフ <http://www.zusaar.com/event/11287003>`_
+
 * 1月16日（土）
    * `LILO＆東海道らぐ・オフラインミーティング 2016/01/16 <https://lilo.doorkeeper.jp/events/36903>`_
 
