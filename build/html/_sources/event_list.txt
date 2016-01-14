@@ -4,11 +4,8 @@
 2016年
 ^^^^^^
 
-* 1月14日（木）
-   * `「TechLION vol.24 ～EC・決済最新動向～」パブリックビューイング＠大阪 #TechLION #さくらクラブ #ロックオフ <http://www.zusaar.com/event/11287003>`_
-
 * 1月16日（土）
-   * `LILO＆東海道らぐ・オフラインミーティング 2016/01/16 <https://lilo.doorkeeper.jp/events/36903>`_
+   * `LILO＆東海道らぐ・オフラインミーティング 2016/01/16 <https://lilo.doorkeeper.jp/events/36903>`_ [参加]
 
 * 1月18日（月）
    * スクラムギャザリング東京
@@ -26,6 +23,9 @@
    * `オープンソースカンファレンス2016 Hamanako <http://www.ospn.jp/osc2016-hamanako/>`_ [参加]
 
 * 1月24日（日）
+   * `東海道らぐ 2016.01 浜名湖オフ会 <https://tokaidolug.doorkeeper.jp/events/36735>`_
+
+* 1月24日（日）
    * 浜名湖LibreOffice勉強会 [参加予定]
 
 * 1月29日（金）
@@ -37,17 +37,26 @@
 * 2月4日（木）
    * `ＫＩＩＳサイバーセキュリティ研究会　第３回研究会 <https://secure.kiis.or.jp/cybersecurity/event.html>`_ [参加]
 
+* 2月4日（木）
+   * `京都アジャイル勉強会 エクストリームプログラミング２nd　読書会#4 <http://connpass.com/event/25149/>`_
+
 * 2月6日（土）
    * `Wikipedia ARTS 弘道館と京都の文人サロン <https://artlogue.doorkeeper.jp/events/36855>`_ [参加]
 
 * 2月6日（土）
    * `オープンセミナー2016@広島 <https://osh-web.doorkeeper.jp/events/35060>`_
 
+* 2月12日（金）
+   * `第30回 さくらの夕べ in 大阪 ～さくらで作る大規模分散処理環境～ <https://sakura.doorkeeper.jp/events/37468>`_ [参加]
+
 * 2月13日（土）
    * 関西LibreOffice勉強会 [参加予定]
 
 * 2月26日（金）-27日（土）
    * `オープンソースカンファレンス2016 Tokyo/Spring <http://www.ospn.jp/osc2016-spring/>`_ [参加予定]
+
+* 2月27日（土）
+   * `XP祭り in 関西 2016 〜アジャイル15周年ふりかえり〜 <https://xpjug.doorkeeper.jp/events/35127>`_
 
 * 3月3日（木）-4日（金）
    * `サイバーセキュリティシンポジウム道後2016 <http://sec-dogo.jp/>`_

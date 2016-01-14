@@ -4,6 +4,9 @@
 2016年
 ^^^^^^
 
+* 1月14日（木）
+   * `「TechLION vol.24 ～EC・決済最新動向～」パブリックビューイング＠大阪 #TechLION #さくらクラブ #ロックオフ <http://www.zusaar.com/event/11287003>`_
+
 * 1月10日（日）
    * `関西LibreOffice HackFest 2016-01-10 <http://libojapan.connpass.com/event/24081/>`_
 
