@@ -7,6 +7,9 @@
 * 1月16日（土）
    * `LILO＆東海道らぐ・オフラインミーティング 2016/01/16 <https://lilo.doorkeeper.jp/events/36903>`_ [参加]
 
+* 1月17日（日）
+   * `関西LibreOffice HackFest 2016-01-17 <http://connpass.com/event/25385/>`_ [参加]
+
 * 1月18日（月）
    * スクラムギャザリング東京
 
