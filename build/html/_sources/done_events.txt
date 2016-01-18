@@ -4,6 +4,12 @@
 2016年
 ^^^^^^
 
+* 1月17日（日）
+   * `関西LibreOffice HackFest 2016-01-17 <http://connpass.com/event/25385/>`_
+
+* 1月16日（土）
+   * `LILO＆東海道らぐ・オフラインミーティング 2016/01/16 <https://lilo.doorkeeper.jp/events/36903>`_
+
 * 1月14日（木）
    * `「TechLION vol.24 ～EC・決済最新動向～」パブリックビューイング＠大阪 #TechLION #さくらクラブ #ロックオフ <http://www.zusaar.com/event/11287003>`_
 
