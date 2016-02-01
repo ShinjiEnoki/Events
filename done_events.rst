@@ -4,6 +4,24 @@
 2016年
 ^^^^^^
 
+* 1月29日（金）
+   * `オープソースカンファレンス2016 .Enterprise＠Osaka <http://www.ospn.jp/osc2016.enterprise-osaka/>`_
+
+* 1月24日（日）
+   * `第5回浜名湖LibreOffice 勉強会 <http://hamanako-libreoffice.connpass.com/event/25782/>`_
+
+* 1月24日（日）
+   * `東海道らぐ 2016.01 浜名湖オフ会 <https://tokaidolug.doorkeeper.jp/events/36735>`_
+
+* 1月23日（土）
+   * `オープンソースカンファレンス2016 Hamanako <http://www.ospn.jp/osc2016-hamanako/>`_
+
+* 1月22日（金）
+   * `OSC2016浜名湖 前夜祭！ <http://osc-hamanako.connpass.com/event/25313/>`_
+
+* 1月20日（水）
+   * `LibreOfficeの日 vol.24 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/36791>`_
+
 * 1月17日（日）
    * `関西LibreOffice HackFest 2016-01-17 <http://connpass.com/event/25385/>`_
 
