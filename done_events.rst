@@ -4,6 +4,18 @@
 2016年
 ^^^^^^
 
+* 2月9日（火）
+   * `SaPID勉強会！　自律型プロセス改善/自律運営チーム構築手法 <http://kokucheese.com/event/index/370779/>`_ 懇親会のみ
+
+* 2月6日（土）
+   * `Wikipedia ARTS 弘道館と京都の文人サロン <https://artlogue.doorkeeper.jp/events/36855>`_
+
+* 2月4日（木）
+   * `京都アジャイル勉強会 エクストリームプログラミング２nd　読書会#4 <http://connpass.com/event/25149/>`_
+
+* 2月4日（木）
+   * `ＫＩＩＳサイバーセキュリティ研究会　第３回研究会 <https://secure.kiis.or.jp/cybersecurity/event.html>`_
+
 * 1月29日（金）
    * `オープソースカンファレンス2016 .Enterprise＠Osaka <http://www.ospn.jp/osc2016.enterprise-osaka/>`_
 

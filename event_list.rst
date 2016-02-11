@@ -4,20 +4,11 @@
 2016年
 ^^^^^^
 
-* 2月4日（木）
-   * `ＫＩＩＳサイバーセキュリティ研究会　第３回研究会 <https://secure.kiis.or.jp/cybersecurity/event.html>`_ [参加]
+* 2月11日（木）
+   * `LibreOffice 5.1リリースノート翻訳・査読スプリント <http://libojapan.connpass.com/event/26973/>`_ [参加]
 
-* 2月4日（木）
-   * `京都アジャイル勉強会 エクストリームプログラミング２nd　読書会#4 <http://connpass.com/event/25149/>`_ [参加]
-
-* 2月6日（土）
-   * `Wikipedia ARTS 弘道館と京都の文人サロン <https://artlogue.doorkeeper.jp/events/36855>`_ [参加]
-
-* 2月6日（土）
-   * `オープンセミナー2016@広島 <https://osh-web.doorkeeper.jp/events/35060>`_
-
-* 2月9日（火）
-   * `SaPID勉強会！　自律型プロセス改善/自律運営チーム構築手法 <http://kokucheese.com/event/index/370779/>`_
+* 2月12日（金）
+   * Wikipwdia 関西での15周年イベント・ミーティング
 
 * 2月12日（金）
    * `第30回 さくらの夕べ in 大阪 ～さくらで作る大規模分散処理環境～ <https://sakura.doorkeeper.jp/events/37468>`_ [参加]
@@ -34,7 +25,7 @@
 * 2月26日（金）-27日（土）
    * `オープンソースカンファレンス2016 Tokyo/Spring <http://www.ospn.jp/osc2016-spring/>`_ [参加]
 
-* 2月28日（日）？
+* 2月28日（日）予定
    * 関東LibreOfficeオフラインミーティング
 
 * 2月27日（土）
@@ -43,8 +34,17 @@
 * 3月3日（木）-4日（金）
    * `サイバーセキュリティシンポジウム道後2016 <http://sec-dogo.jp/>`_
 
+* 3月5日（土）
+   * `伏見のまちのウチソトを、歩いて調べて発信しよう～伏見オープンデータソン（その3）城下町伏見の周辺 <https://opendata-kyoto.doorkeeper.jp/events/38604>`_ [参加]
+
 * 3月8日（火）-9日（水）
    * `JaSST'16 Tokyo <http://jasst.jp/symposium/jasst16tokyo.html>`_ [参加予定]
+
+* 3月13日（日）
+   * KOBE IDEA HACK
+
+* 3月26日（土）-27日（日）？
+   * POStudy
 
 * 5月19日（木）-21日（土）
    * `第20回サイバー犯罪に関する白浜シンポジウム <http://www.riis.or.jp/symposium20/outline/>`_
