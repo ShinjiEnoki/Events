@@ -4,9 +4,6 @@
 2016年
 ^^^^^^
 
-* 2月11日（木）
-   * `LibreOffice 5.1リリースノート翻訳・査読スプリント <http://libojapan.connpass.com/event/26973/>`_ [参加]
-
 * 2月12日（金）
    * Wikipwdia 関西での15周年イベント・ミーティング
 

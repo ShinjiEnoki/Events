@@ -4,6 +4,12 @@
 2016年
 ^^^^^^
 
+* 2月11日（木）
+   * `LibreOffice 5.1リリースノート翻訳・査読スプリント <http://libojapan.connpass.com/event/26973/>`_
+
+* 2月11日（木）
+   * オープンデータ京都実践会ミーティング in 鍵屋荘
+
 * 2月9日（火）
    * `SaPID勉強会！　自律型プロセス改善/自律運営チーム構築手法 <http://kokucheese.com/event/index/370779/>`_ 懇親会のみ
 
