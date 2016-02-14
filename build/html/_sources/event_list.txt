@@ -34,6 +34,9 @@
 * 3月26日（土）-27日（日）？
    * POStudy
 
+* 3月27日（日）
+   * `【大阪開催】TOC/TOCfEボツネタシンポジウム2016 <https://tocfe-kansai.doorkeeper.jp/events/37273>`_
+
 * 5月19日（木）-21日（土）
    * `第20回サイバー犯罪に関する白浜シンポジウム <http://www.riis.or.jp/symposium20/outline/>`_
 
