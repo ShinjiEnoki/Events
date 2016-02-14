@@ -4,6 +4,15 @@
 2016年
 ^^^^^^
 
+* 2月13日（土）
+   * `第11回関西LibreOffice勉強会 <http://connpass.com/event/26419/>`_
+
+* 2月12日（金）
+   * `第30回 さくらの夕べ in 大阪 ～さくらで作る大規模分散処理環境～ <https://sakura.doorkeeper.jp/events/37468>`_
+
+* 2月12日（金）
+   * Wikipwdia 関西での15周年イベント・ミーティング
+
 * 2月11日（木）
    * `LibreOffice 5.1リリースノート翻訳・査読スプリント <http://libojapan.connpass.com/event/26973/>`_
 
