@@ -13,11 +13,15 @@
 * 2月26日（金）-27日（土）
    * `オープンソースカンファレンス2016 Tokyo/Spring <http://www.ospn.jp/osc2016-spring/>`_ [参加]
 
-* 2月28日（日）予定
-   * 関東LibreOfficeオフラインミーティング
+* 2月28日（日）
+   * `関東LibreOffice HackFest(#6) <http://kantolibo.connpass.com/event/27119/>`_ [参加]
 
 * 2月27日（土）
    * `XP祭り in 関西 2016 〜アジャイル15周年ふりかえり〜 <https://xpjug.doorkeeper.jp/events/35127>`_
+
+* 2月27日（土）
+   * `KOF勉強会(今回のテーマ：サーバー)  <https://atnd.org/events/74121>`_
+
 
 * 3月3日（木）-4日（金）
    * `サイバーセキュリティシンポジウム道後2016 <http://sec-dogo.jp/>`_

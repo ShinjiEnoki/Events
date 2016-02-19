@@ -4,6 +4,12 @@
 2016年
 ^^^^^^
 
+* 2月17日（水）
+   * `LibreOfficeの日 vol.25 <https://juso-coworking.doorkeeper.jp/events/38805>`_
+
+* 2月17日（水）
+   * `Linux初心者もくもく勉強会の日 in JUSO Coworking <https://saku-love.doorkeeper.jp/events/39125>`_
+
 * 2月13日（土）
    * `第11回関西LibreOffice勉強会 <http://connpass.com/event/26419/>`_
 
