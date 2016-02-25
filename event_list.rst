@@ -4,12 +4,6 @@
 2016年
 ^^^^^^
 
-* 2月20日（土）
-   * `京都世界遺産マッピングパーティ：第11回 醍醐寺 <https://openstreetmap.doorkeeper.jp/events/37721>`_
-
-* 2月23日（火）
-   * `『わかる！セキュリティの脅威と対策』情報セキュリティ対策セミナー <https://www.ksisnet.com/info/seminar20160223/>`_
-
 * 2月26日（金）-27日（土）
    * `オープンソースカンファレンス2016 Tokyo/Spring <http://www.ospn.jp/osc2016-spring/>`_ [参加]
 
@@ -30,10 +24,16 @@
    * `伏見のまちのウチソトを、歩いて調べて発信しよう～伏見オープンデータソン（その3）城下町伏見の周辺 <https://opendata-kyoto.doorkeeper.jp/events/38604>`_ [参加]
 
 * 3月8日（火）-9日（水）
-   * `JaSST'16 Tokyo <http://jasst.jp/symposium/jasst16tokyo.html>`_ [参加予定]
+   * `JaSST'16 Tokyo <http://jasst.jp/symposium/jasst16tokyo.html>`_ [参加]
 
 * 3月13日（日）
    * KOBE IDEA HACK
+
+* 3月19日（土）
+   * ウィキペディア15周年記念・ウィキペディアを書いてみよう！ in 関西
+
+* 3月24日（木）
+   * `オープンデータフォーラム in 橋本 <http://wida.jp/2016/02/18/openhashimoto/>`_
 
 * 3月26日（土）-27日（日）？
    * POStudy
@@ -43,6 +43,9 @@
 
 * 5月19日（木）-21日（土）
    * `第20回サイバー犯罪に関する白浜シンポジウム <http://www.riis.or.jp/symposium20/outline/>`_
+
+* 5月21日（土）？
+   * アイクラフトヴィッセルイベント
 
 * 5月28日（土）
    * オープンソースカンファレンス2016 Nagoya
