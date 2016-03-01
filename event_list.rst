@@ -4,19 +4,6 @@
 2016年
 ^^^^^^
 
-* 2月26日（金）-27日（土）
-   * `オープンソースカンファレンス2016 Tokyo/Spring <http://www.ospn.jp/osc2016-spring/>`_ [参加]
-
-* 2月28日（日）
-   * `関東LibreOffice HackFest(#6) <http://kantolibo.connpass.com/event/27119/>`_ [参加]
-
-* 2月27日（土）
-   * `XP祭り in 関西 2016 〜アジャイル15周年ふりかえり〜 <https://xpjug.doorkeeper.jp/events/35127>`_
-
-* 2月27日（土）
-   * `KOF勉強会(今回のテーマ：サーバー)  <https://atnd.org/events/74121>`_
-
-
 * 3月3日（木）-4日（金）
    * `サイバーセキュリティシンポジウム道後2016 <http://sec-dogo.jp/>`_
 
@@ -31,6 +18,9 @@
 
 * 3月19日（土）
    * ウィキペディア15周年記念・ウィキペディアを書いてみよう！ in 関西
+
+* 3月21日（月）
+   * KOF勉強会
 
 * 3月24日（木）
    * `オープンデータフォーラム in 橋本 <http://wida.jp/2016/02/18/openhashimoto/>`_

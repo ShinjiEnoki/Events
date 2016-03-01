@@ -4,6 +4,12 @@
 2016年
 ^^^^^^
 
+* 2月28日（日）
+   * `関東LibreOffice HackFest(#6) <http://kantolibo.connpass.com/event/27119/>`_
+
+* 2月26日（金）-27日（土）
+   * `オープンソースカンファレンス2016 Tokyo/Spring <http://www.ospn.jp/osc2016-spring/>`_
+
 * 2月17日（水）
    * `LibreOfficeの日 vol.25 <https://juso-coworking.doorkeeper.jp/events/38805>`_
 
