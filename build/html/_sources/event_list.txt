@@ -4,23 +4,11 @@
 2016年
 ^^^^^^
 
-* 3月3日（木）-4日（金）
-   * `サイバーセキュリティシンポジウム道後2016 <http://sec-dogo.jp/>`_
-
-* 3月5日（土）
-   * `伏見のまちのウチソトを、歩いて調べて発信しよう～伏見オープンデータソン（その3）城下町伏見の周辺 <https://opendata-kyoto.doorkeeper.jp/events/38604>`_ [参加]
-
-* 3月8日（火）-9日（水）
-   * `JaSST'16 Tokyo <http://jasst.jp/symposium/jasst16tokyo.html>`_ [参加]
-
-* 3月13日（日）
-   * KOBE IDEA HACK
-
 * 3月19日（土）
-   * ウィキペディア15周年記念・ウィキペディアを書いてみよう！ in 関西
+   * `ウィキペディア15周年記念・ウィキペディアを書いてみよう！ in 関西 <https://wikansai.doorkeeper.jp/events/40620>`_ [参加]
 
 * 3月21日（月）
-   * KOF勉強会
+   * `KOF勉強会 <https://atnd.org/events/75925>`_
 
 * 3月24日（木）
    * `オープンデータフォーラム in 橋本 <http://wida.jp/2016/02/18/openhashimoto/>`_
@@ -30,6 +18,9 @@
 
 * 3月27日（日）
    * `【大阪開催】TOC/TOCfEボツネタシンポジウム2016 <https://tocfe-kansai.doorkeeper.jp/events/37273>`_
+
+* 3月27日（日）
+   * `第108回 関西 Debian 勉強会 <https://wiki.debian.org/KansaiDebianMeeting/20160327>`_
 
 * 5月19日（木）-21日（土）
    * `第20回サイバー犯罪に関する白浜シンポジウム <http://www.riis.or.jp/symposium20/outline/>`_

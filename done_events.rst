@@ -4,6 +4,18 @@
 2016年
 ^^^^^^
 
+* 3月16日（水）
+   * `LibreOfficeの日 vol.26 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/40388>`_
+
+* 3月8日（火）-9日（水）
+   * `JaSST'16 Tokyo <http://jasst.jp/symposium/jasst16tokyo.html>`_
+
+* 3月6日（日）
+   * `International Open Data Day を共有しよう－関西IODD報告会－ <https://www.facebook.com/events/1611030639117576/>`_
+
+* 3月5日（土）
+   * `伏見のまちのウチソトを、歩いて調べて発信しよう～伏見オープンデータソン（その3）城下町伏見の周辺 <https://opendata-kyoto.doorkeeper.jp/events/38604>`_
+
 * 2月28日（日）
    * `関東LibreOffice HackFest(#6) <http://kantolibo.connpass.com/event/27119/>`_
 
