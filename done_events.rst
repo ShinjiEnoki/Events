@@ -4,6 +4,9 @@
 2016年
 ^^^^^^
 
+* 3月19日（土）
+   * `ウィキペディア15周年記念・ウィキペディアを書いてみよう！ in 関西 <https://wikansai.doorkeeper.jp/events/40620>`_
+
 * 3月16日（水）
    * `LibreOfficeの日 vol.26 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/40388>`_
 

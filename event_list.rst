@@ -4,11 +4,8 @@
 2016年
 ^^^^^^
 
-* 3月19日（土）
-   * `ウィキペディア15周年記念・ウィキペディアを書いてみよう！ in 関西 <https://wikansai.doorkeeper.jp/events/40620>`_ [参加]
-
 * 3月21日（月）
-   * `KOF勉強会 <https://atnd.org/events/75925>`_ [参加予定]
+   * `KOF勉強会 <https://atnd.org/events/75925>`_
 
 * 3月24日（木）
    * `オープンデータフォーラム in 橋本 <http://wida.jp/2016/02/18/openhashimoto/>`_
