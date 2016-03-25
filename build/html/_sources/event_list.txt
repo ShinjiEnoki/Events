@@ -13,6 +13,9 @@
 * 3月27日（日）
    * `第108回 関西 Debian 勉強会 <https://wiki.debian.org/KansaiDebianMeeting/20160327>`_
 
+* 4月16日（土）
+   * `京都世界遺産マッピングパーティ：第１３回 特別編 延暦寺（西塔、横川） <https://openstreetmap.doorkeeper.jp/events/41056>`_
+
 * 4月30日（土）
    * KOF勉強会
 
