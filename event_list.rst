@@ -4,12 +4,6 @@
 2016年
 ^^^^^^
 
-* 3月21日（月）
-   * `KOF勉強会 <https://atnd.org/events/75925>`_
-
-* 3月24日（木）
-   * `オープンデータフォーラム in 橋本 <http://wida.jp/2016/02/18/openhashimoto/>`_
-
 * 3月26日（土）-27日（日）？
    * POStudy
 
@@ -18,6 +12,15 @@
 
 * 3月27日（日）
    * `第108回 関西 Debian 勉強会 <https://wiki.debian.org/KansaiDebianMeeting/20160327>`_
+
+* 4月30日（土）
+   * KOF勉強会
+
+* 5月1日（日）
+   * LILO/東海道らぐオフラインミーティング（TODO会場予約する）
+
+* 5月5日（木）
+   * J2関西
 
 * 5月19日（木）-21日（土）
    * `第20回サイバー犯罪に関する白浜シンポジウム <http://www.riis.or.jp/symposium20/outline/>`_
