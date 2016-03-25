@@ -5,7 +5,7 @@
 ^^^^^^
 
 * 3月26日（土）-27日（日）？
-   * POStudy
+   * `[大阪開催][公認ナビゲーター主催]２時間で体験！気づきを深める７つの習慣ボードゲーム「公式」ゲーム会 <https://postudy.doorkeeper.jp/events/39102>`_ [参加]
 
 * 3月27日（日）
    * `【大阪開催】TOC/TOCfEボツネタシンポジウム2016 <https://tocfe-kansai.doorkeeper.jp/events/37273>`_
