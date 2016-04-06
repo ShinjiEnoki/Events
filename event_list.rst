@@ -31,6 +31,9 @@
 * 4月22日（金） 土日のどちらかに梅田あたりでオフライン開催予定
    * `LibreOffice BugHunting Session 5.2.0 Alpha <https://wiki.documentfoundation.org/BugHunting_Session_5.2.0_Alpha>`_
 
+* 4月24日（日）
+   * `Open Source UN-Conference 2016 Kawagoe <http://koedolug.connpass.com/event/27755/>`_
+
 * 4月30日（土）
    * KOF勉強会
 
