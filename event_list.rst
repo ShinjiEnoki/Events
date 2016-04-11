@@ -4,11 +4,8 @@
 2016年
 ^^^^^^
 
-* 4月10日
-   * JSDG全国大会MTG in 岐阜 [参加]
-
 * 4月13日（水）
-   * `関西XRDPソースコード・リーディング会 #0 <http://xrdp-kansai.connpass.com/event/29645/>`_
+   * `関西xrdpソースコード・リーディング会 #0 <http://xrdp-kansai.connpass.com/event/29645/>`_ [参加]
 
 * 4月13日（水）
    * `平日セミナー 滋賀の会 恋歌のアンビシャスターゲットツリー（大阪ｘ東京同時開催） <https://tocfe-kansai.doorkeeper.jp/events/42150>`_
@@ -17,13 +14,16 @@
    * `「TechLION vol.25」パブリックビューイング＠大阪 #TechLION <http://www.zusaar.com/event/8357003>`_
 
 * 4月16日（土）
+   * `テスト設計コンテスト負け太の会 <http://connpass.com/event/29858/>`_ [リモート参加]
+
+* 4月16日（土）
    * `京都世界遺産マッピングパーティ：第１３回 特別編 延暦寺（西塔、横川） <https://openstreetmap.doorkeeper.jp/events/41056>`_
 
 * 4月19日（火）
    * JISTA関西定例会
 
 * 4月20日（水）
-   * LibreOfficeの日 vol.27 @JUSO-Coworking [参加]
+   * `LibreOfficeの日 vol.27 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/42248>`_ [参加]
 
 * 4月21日（木）
    * `Code for Kobe定例ミーティング <https://www.facebook.com/events/1670431026555878/>`_ [参加予定]
@@ -35,7 +35,7 @@
    * `Open Source UN-Conference 2016 Kawagoe <http://koedolug.connpass.com/event/27755/>`_
 
 * 4月30日（土）
-   * KOF勉強会
+   * `KOF勉強会(今回のテーマ：ネットワーク)  <https://atnd.org/events/75591>`_ [参加]
 
 * 5月1日（日）
    * LILO/東海道らぐオフラインミーティング（TODO会場予約する）
@@ -67,11 +67,14 @@
 * 6月21日-28日
    * `Wikimania Esino Lario <https://wikimania2016.wikimedia.org/wiki/Main_Page>`_
 
-* 7月2日（土）
-   * JISTA関西フォーラム
+* 7月1日（金）
+   * `OSCサミット＠沖縄 <https://www.ospn.jp/osc2016-okinawa/modules/eguide/event.php?eid=3>`_ [参加予定]
 
 * 7月2日（土）
-   * オープンソースカンファレンス2016 Okinawa
+   * `オープンソースカンファレンス2016 Okinawa <https://www.ospn.jp/osc2016-okinawa/>`_ [参加予定]
+
+* 7月2日（土）
+   * JISTA関西フォーラム
 
 * 7月16日（土）-17日（日）
    * JSDG全国大会 [参加予定]
