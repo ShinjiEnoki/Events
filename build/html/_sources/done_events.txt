@@ -4,6 +4,27 @@
 2016年
 ^^^^^^
 
+* 4月24（日）
+   * jus幹事作業会：サーバテスト・オンライン参加
+
+* 4月23日（土）
+   * `関西LibreOffice HackFest 206-04-23 <http://connpass.com/event/30668/>`_
+
+* 4月22日（金）
+   * `MonotaRO TechTalk #1 <http://www.kokuchpro.com/event/monotarotech1/>`_
+
+* 4月21日（木）
+   * `Code for Kobe定例ミーティング <https://www.facebook.com/events/1670431026555878/>`_
+
+* 4月20日（水）
+   * `LibreOfficeの日 vol.27 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/42248>`_
+
+* 4月16日（土）
+   * `WARAI・テスト設計コンテスト負け太の会・関西会場 <http://warai.connpass.com/event/30177/>`_
+
+* 4月13日（水）
+   * `関西xrdpソースコード・リーディング会 #0 <http://xrdp-kansai.connpass.com/event/29645/>`_
+
 * 4月10日
    * JSDG全国大会MTG in 岐阜
 
