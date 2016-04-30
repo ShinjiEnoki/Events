@@ -47,7 +47,7 @@
    * JaSST関西
 
 * 6月17日（金）-18日（土）
-   * オープンソースカンファレンス2016 Hokkaido [参加予定]
+   * `オープンソースカンファレンス2016 Hokkaido <http://www.ospn.jp/osc2016-do/>`_ [参加予定]
 
 * 6月21日-28日
    * `Wikimania Esino Lario <https://wikimania2016.wikimedia.org/wiki/Main_Page>`_
