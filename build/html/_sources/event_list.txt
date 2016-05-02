@@ -4,14 +4,14 @@
 2016年
 ^^^^^^
 
-* 5月1日（日）
-   * `LILO&東海道らぐオフラインミーティング 2016/05/01 <https://lilo.doorkeeper.jp/events/42910>`_ [参加]
-
 * 5月5日（木）
    * J2関西 [参加]
 
 * 5月7日（土）
    * 関西Ruby勉強会
+
+* 5月10日（日）
+   * `UNIX考古学の夕べ <http://connpass.com/event/30783/>`_
 
 * 5月11日（水）
    * `AWSをおかずにしてご飯を食べる会 <https://jaws-ug-kobe.doorkeeper.jp/events/42717>`_
