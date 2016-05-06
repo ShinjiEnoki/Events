@@ -4,11 +4,8 @@
 2016年
 ^^^^^^
 
-* 5月5日（木）
-   * J2関西 [参加]
-
 * 5月7日（土）
-   * 関西Ruby勉強会
+   * `第72回 Ruby関西 勉強会 <https://rubykansai.doorkeeper.jp/events/43253>`_
 
 * 5月10日（日）
    * `UNIX考古学の夕べ <http://connpass.com/event/30783/>`_
@@ -29,7 +26,7 @@
    * `第20回サイバー犯罪に関する白浜シンポジウム <http://www.riis.or.jp/symposium20/outline/>`_
 
 * 5月21日（土）
-   * テスコン東海での振り返り会
+   * `第4回 CT3 ～ Casual Test Talk in Tokai ～ <http://kokucheese.com/event/index/389265/>`_ [参加検討]
 
 * 5月22日（日）
    * Wikipedia ARTS [参加]
@@ -68,10 +65,13 @@
    * 日本UNIXユーザ会総会＆総会併設勉強会 [参加予定]
 
 * 7月29日（金）-30日（土）
-   * オープンソースカンファレンス 2016 Kyoto [参加予定]
+   * `オープンソースカンファレンス 2016 Kyoto <http://www.ospn.jp/osc2016-kyoto/>`_ [参加予定]
+
+* 8月6日（土）
+   * `State of the Map Japan 2016 <https://stateofthemap.jp/2016/>`_
 
 * 8月6日-7日
-   * `尼崎サマーセミナー <http://samasemi.jimdo.com/>`_ [liboで検討中]
+   * `尼崎サマーセミナー <http://samasemi.jimdo.com/>`_ [liboで参加]
 
 * 8月27日（土）
    * `オープンソースアンカンファレンス 2016 Kanazawa <http://connpass.com/event/30813/>`_
