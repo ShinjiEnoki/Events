@@ -4,32 +4,17 @@
 2016年
 ^^^^^^
 
-* 5月7日（土）
-   * `第72回 Ruby関西 勉強会 <https://rubykansai.doorkeeper.jp/events/43253>`_
-
-* 5月10日（日）
-   * `UNIX考古学の夕べ <http://connpass.com/event/30783/>`_
-
-* 5月11日（水）
-   * `AWSをおかずにしてご飯を食べる会 <https://jaws-ug-kobe.doorkeeper.jp/events/42717>`_
-
-* 5月14日（土）
-   * `京都世界遺産マッピングパーティ第１３回 特別編 延暦寺（西塔、横川） <https://openstreetmap.doorkeeper.jp/events/43361>`_
-
-* 5月15日（日）
-   * オープンデータソン in 亀岡 [参加]
-
-* 5月17日（火）
-   * JISTA関西定例会
-
 * 5月19日（木）-21日（土）
    * `第20回サイバー犯罪に関する白浜シンポジウム <http://www.riis.or.jp/symposium20/outline/>`_
+
+* 5月20日（金）
+   * `NSC Training in OSAKA <https://nscsec.doorkeeper.jp/events/44787>`_
 
 * 5月21日（土）
    * `第4回 CT3 ～ Casual Test Talk in Tokai ～ <http://kokucheese.com/event/index/389265/>`_ [参加検討]
 
 * 5月22日（日）
-   * Wikipedia ARTS [参加]
+   * `Wikipedia ARTS 京都国立近代美術館、コレクションとキュレーション <https://artlogue.doorkeeper.jp/events/43991>`_ [参加]
 
 * 5月27日（金）
    * `派生開発カンファレンス2016 <http://affordd.jp/conference2016.shtml>`_
@@ -37,8 +22,23 @@
 * 5月28日（土）
    * `オープンソースカンファレンス2016 Nagoya <http://www.ospn.jp/osc2016-nagoya/>`_ [参加]
 
+* 5月29日（日）
+   * `WARAI(関西ソフトウェアテスト勉強会)(2016/5/29) Sikuri <http://www.kokuchpro.com/event/2b82c5c43570083dcb4e48ea2f1ede20/>`_
+
+* 5月31日（火）
+   * `Nexediエンタープライズ自由ソフトウェアmeetup東京2016 <http://www.nexedi.com/ja/press/NXD-Document.Press.Nexedi.Meetup.Tokyo.2016>`_
+
+* 5月31日（火）
+   * `UXにおける組織的課題の解決方法 - UXリサーチの組織内影響力を高めるためのハンズオン - <http://marcrettig2016.peatix.com/>`_
+
 * 6月4日（土）
    * KOF勉強会
+
+* 6月12日（土）
+   * `尼崎Pythonの会#5 <https://365e5afb367e0244f53d0d3c8f.doorkeeper.jp/events/45072>`_
+
+* 6月15日（水）
+   * LibreOfficeの日 vol.29 @JUSO-Coworking
 
 * 6月17日（金）
    * JaSST関西
@@ -48,6 +48,9 @@
 
 * 6月21日-28日
    * `Wikimania Esino Lario <https://wikimania2016.wikimedia.org/wiki/Main_Page>`_
+
+* 6月26日（日）
+   * MARUI
 
 * 7月1日（金）
    * `OSCサミット＠沖縄 <https://www.ospn.jp/osc2016-okinawa/modules/eguide/event.php?eid=3>`_ [参加予定]
@@ -72,6 +75,9 @@
 
 * 8月6日-7日
    * `尼崎サマーセミナー <http://samasemi.jimdo.com/>`_ [liboで参加]
+
+* 8月20日（土）
+   * ビール工場マッピング
 
 * 8月27日（土）
    * `オープンソースアンカンファレンス 2016 Kanazawa <http://connpass.com/event/30813/>`_

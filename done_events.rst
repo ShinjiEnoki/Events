@@ -4,6 +4,18 @@
 2016年
 ^^^^^^
 
+* 5月18日（水）
+   * `LibreOfficeの日 vol.28 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/44887>`_
+
+* 5月17日（火）
+   * JISTA関西定例会
+
+* 5月15日（日）
+   * オープンデータソン in 亀岡
+
+* 5月14日（土）
+   * `京都世界遺産マッピングパーティ第１３回 特別編 延暦寺（西塔、横川） <https://openstreetmap.doorkeeper.jp/events/43361>`_
+
 * 5月5日（木）
    * J2関西
 
