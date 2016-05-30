@@ -4,6 +4,21 @@
 2016年
 ^^^^^^
 
+* 5月29日（日）
+   * `名古屋 LibreOffice HackFest 2016-05-29 <http://libojapan.connpass.com/event/32377/>`_
+
+* 5月28日（土）
+   * `オープンソースカンファレンス2016 Nagoya <http://www.ospn.jp/osc2016-nagoya/>`_
+
+* 5月22日（日）
+   * `Wikipedia ARTS 京都国立近代美術館、コレクションとキュレーション <https://artlogue.doorkeeper.jp/events/43991>`_
+
+* 5月21日（土）
+   * `第4回 CT3 ～ Casual Test Talk in Tokai ～ <http://kokucheese.com/event/index/389265/>`_
+
+* 5月20日（金）
+   * `NSC Training in OSAKA <https://nscsec.doorkeeper.jp/events/44787>`_
+
 * 5月18日（水）
    * `LibreOfficeの日 vol.28 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/44887>`_
 

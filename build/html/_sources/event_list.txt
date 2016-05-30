@@ -4,35 +4,20 @@
 2016年
 ^^^^^^
 
-* 5月19日（木）-21日（土）
-   * `第20回サイバー犯罪に関する白浜シンポジウム <http://www.riis.or.jp/symposium20/outline/>`_
-
-* 5月20日（金）
-   * `NSC Training in OSAKA <https://nscsec.doorkeeper.jp/events/44787>`_
-
-* 5月21日（土）
-   * `第4回 CT3 ～ Casual Test Talk in Tokai ～ <http://kokucheese.com/event/index/389265/>`_ [参加検討]
-
-* 5月22日（日）
-   * `Wikipedia ARTS 京都国立近代美術館、コレクションとキュレーション <https://artlogue.doorkeeper.jp/events/43991>`_ [参加]
-
-* 5月27日（金）
-   * `派生開発カンファレンス2016 <http://affordd.jp/conference2016.shtml>`_
-
-* 5月28日（土）
-   * `オープンソースカンファレンス2016 Nagoya <http://www.ospn.jp/osc2016-nagoya/>`_ [参加]
-
-* 5月29日（日）
-   * `WARAI(関西ソフトウェアテスト勉強会)(2016/5/29) Sikuri <http://www.kokuchpro.com/event/2b82c5c43570083dcb4e48ea2f1ede20/>`_
-
 * 5月31日（火）
    * `Nexediエンタープライズ自由ソフトウェアmeetup東京2016 <http://www.nexedi.com/ja/press/NXD-Document.Press.Nexedi.Meetup.Tokyo.2016>`_
 
 * 5月31日（火）
    * `UXにおける組織的課題の解決方法 - UXリサーチの組織内影響力を高めるためのハンズオン - <http://marcrettig2016.peatix.com/>`_
 
+* 6月3日（金）
+   * `ビジョ・ナリー：Open Innovation Conference 第二部 <https://artlogue.doorkeeper.jp/events/45697>`_
+
 * 6月4日（土）
    * KOF勉強会
+
+* 6月4日（土）
+   * 岡山（倉敷）ミニOFF会
 
 * 6月12日（土）
    * `尼崎Pythonの会#5 <https://365e5afb367e0244f53d0d3c8f.doorkeeper.jp/events/45072>`_
@@ -43,11 +28,23 @@
 * 6月17日（金）
    * JaSST関西
 
+* 6月17日（金）
+   * `MonotaRO TechTalk #2 <http://www.kokuchpro.com/event/monotarotech2/>`_
+
 * 6月17日（金）-18日（土）
-   * `オープンソースカンファレンス2016 Hokkaido <http://www.ospn.jp/osc2016-do/>`_ [参加予定]
+   * `オープンソースカンファレンス2016 Hokkaido <http://www.ospn.jp/osc2016-do/>`_ [参加] `懇親会 <https://osc-do.doorkeeper.jp/events/42323>`_ [参加] 金曜日交流会も参加
+
+* 6月18日（土）
+   * `樽本徹也のUXミニ塾 in 京都 「描いてみよう！ペルソナとジャーニーマップ」 <https://mtrl.net/kyoto/events/160618-uxminisemi/>`_
+
+* 6月18日（土）
+   * `第7回大阪Jenkins勉強会 <http://connpass.com/event/31573/>`_
 
 * 6月21日-28日
    * `Wikimania Esino Lario <https://wikimania2016.wikimedia.org/wiki/Main_Page>`_
+
+* 6月25日（土）
+   * `京都世界遺産マッピングパーティ：最終回 天龍寺 <https://openstreetmap.doorkeeper.jp/events/42665>`_
 
 * 6月26日（日）
    * MARUI
@@ -65,7 +62,7 @@
    * JSDG全国大会 [参加予定]
 
 * 7月23日（土）
-   * 日本UNIXユーザ会総会＆総会併設勉強会 [参加予定]
+   * 日本UNIXユーザ会総会＆総会併設勉強会 [参加]
 
 * 7月29日（金）-30日（土）
    * `オープンソースカンファレンス 2016 Kyoto <http://www.ospn.jp/osc2016-kyoto/>`_ [参加予定]
