@@ -41,10 +41,10 @@
    * `オープンソースカンファレンス2016 Okinawa <https://www.ospn.jp/osc2016-okinawa/>`_ [参加予定]
 
 * 7月2日（土）
-   * JISTA関西フォーラム
+   * `JISTA関西オープンフォーラム2016 in メビック扇町 <https://www.jista.org/modules/eguide/event.php?eid=19>`_
 
 * 7月16日（土）-17日（日）
-   * JSDG全国大会 [参加予定]
+   * `日本システム・アドミニストレータ連絡会・第17回全国大会(岐阜) <http://www.jsdg.org/general/contents/conference/17zenkoku/top.html>`_ [参加予定]
 
 * 7月23日（土）
    * 日本UNIXユーザ会総会＆ `総会併設勉強会「Unix考古学の夕べ」 <https://japanunixsociety.doorkeeper.jp/events/46258>`_ [参加]
