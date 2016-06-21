@@ -4,6 +4,17 @@
 2016年
 ^^^^^^
 
+* 6月17日（金）
+   * `オープンソースカンファレンス2016 Hokkaido <http://www.ospn.jp/osc2016-do/>`_  `懇親会 <https://osc-do.doorkeeper.jp/events/42323>`_ 
+* 6月18日（土）
+   * `OSC北海道金曜日交流会 <https://osc-do.doorkeeper.jp/events/45492>`_
+
+* 6月16日（木）
+   * `京都アジャイル勉強会 LeanCoffee #1 <http://connpass.com/event/33619/>`_
+
+* 6月15日（水）
+   * `LibreOfficeの日 vol.29 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/47218>`_
+
 * 5月29日（日）
    * `名古屋 LibreOffice HackFest 2016-05-29 <http://libojapan.connpass.com/event/32377/>`_
 
