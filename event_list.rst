@@ -4,9 +4,6 @@
 2016年
 ^^^^^^
 
-* 6月22日（水）
-   * `IDCFクラウドMeetup！in Osaka vol.2 <https://idcfugosaka.doorkeeper.jp/events/46586>`_ [参加]
-
 * 6月21日-28日
    * `Wikimania Esino Lario <https://wikimania2016.wikimedia.org/wiki/Main_Page>`_
 
@@ -36,8 +33,12 @@
 
 * 7月2日（土）
    * `第28回セキュリティもみじセミナー <https://secmomiji.doorkeeper.jp/events/46962>`_
+
+* 7月6日（水）
+   * `Redmine 10周年を祝う会 @ 大阪 <https://agileware.doorkeeper.jp/events/47466>`_
+
 * 7月16日（土）-17日（日）
-   * `日本システム・アドミニストレータ連絡会・第17回全国大会(岐阜) <http://www.jsdg.org/general/contents/conference/17zenkoku/top.html>`_ [参加予定]
+   * `日本システム・アドミニストレータ連絡会・第17回全国大会(岐阜) <http://www.jsdg.org/general/contents/conference/17zenkoku/top.html>`_ [参加]
 
 * 7月17日（日）
    * `尼崎Pythonの会#6 <https://365e5afb367e0244f53d0d3c8f.doorkeeper.jp/events/47490>`_

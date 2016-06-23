@@ -4,6 +4,9 @@
 2016年
 ^^^^^^
 
+* 6月22日（水）
+   * `IDCFクラウドMeetup！in Osaka vol.2 <https://idcfugosaka.doorkeeper.jp/events/46586>`_
+
 * 6月17日（金）
    * `オープンソースカンファレンス2016 Hokkaido <http://www.ospn.jp/osc2016-do/>`_  `懇親会 <https://osc-do.doorkeeper.jp/events/42323>`_ 
 * 6月18日（土）
