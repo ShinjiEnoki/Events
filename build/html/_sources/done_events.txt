@@ -4,6 +4,12 @@
 2016年
 ^^^^^^
 
+* 6月26日（日）
+   * `関西LibreOffice Hackfest 2016-06-26 <http://connpass.com/event/34525/>`_ (BugHunting Session 5.2.0 RC1) 
+
+* 6月25日（土）
+   * `京都世界遺産マッピングパーティ：最終回 天龍寺 <https://openstreetmap.doorkeeper.jp/events/42665>`_
+
 * 6月22日（水）
    * `IDCFクラウドMeetup！in Osaka vol.2 <https://idcfugosaka.doorkeeper.jp/events/46586>`_
 
