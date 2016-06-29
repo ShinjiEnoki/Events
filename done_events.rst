@@ -4,6 +4,12 @@
 2016年
 ^^^^^^
 
+* 6月29日（水）
+   * オープンデータ京都実践会MTG
+
+* 6月28日（火）
+   * `カンバン仕事術読書会＠大阪 - キックオフ <https://scrumdo-kansai.doorkeeper.jp/events/46561>`_
+
 * 6月26日（日）
    * `関西LibreOffice Hackfest 2016-06-26 <http://connpass.com/event/34525/>`_ (BugHunting Session 5.2.0 RC1) 
 

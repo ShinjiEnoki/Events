@@ -4,12 +4,6 @@
 2016年
 ^^^^^^
 
-* 6月28日（火）
-   * `カンバン仕事術読書会＠大阪 - キックオフ <https://scrumdo-kansai.doorkeeper.jp/events/46561>`_ [参加]
-
-* 6月29日（水）
-   * オープンデータ京都実践会MTG
-
 * 7月1日（金）
    * `OSCサミット＠沖縄 <https://www.ospn.jp/osc2016-okinawa/modules/eguide/event.php?eid=3>`_ [参加]
 
@@ -27,6 +21,9 @@
 
 * 7月6日（水）
    * `Redmine 10周年を祝う会 @ 大阪 <https://agileware.doorkeeper.jp/events/47466>`_
+
+* 7月9日（土）
+   * `第12回関西LibreOffice勉強会 <http://connpass.com/event/34527/>`_ [参加]
 
 * 7月16日（土）-17日（日）
    * `日本システム・アドミニストレータ連絡会・第17回全国大会(岐阜) <http://www.jsdg.org/general/contents/conference/17zenkoku/top.html>`_ [参加]
@@ -53,6 +50,9 @@
 
 * 8月6日-7日
    * `尼崎サマーセミナー <http://samasemi.jimdo.com/>`_ [liboで参加]
+
+* 8月19日（金）
+   * `Startup Weekend Kobe <https://startupweekendkobe.doorkeeper.jp/events/44782>`_
 
 * 8月20日（土）
    * ビール工場マッピング
