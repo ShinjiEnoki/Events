@@ -4,26 +4,11 @@
 2016年
 ^^^^^^
 
-* 7月1日（金）
-   * `OSCサミット＠沖縄 <https://www.ospn.jp/osc2016-okinawa/modules/eguide/event.php?eid=3>`_ [参加]
-
-* 7月2日（土）
-   * `オープンソースカンファレンス2016 Okinawa <https://www.ospn.jp/osc2016-okinawa/>`_ [参加]
-
-* 7月2日（土）
-   * `JISTA関西オープンフォーラム2016 in メビック扇町 <https://www.jista.org/modules/eguide/event.php?eid=19>`_
-
-* 7月2日（土）
-   * `第28回セキュリティもみじセミナー <https://secmomiji.doorkeeper.jp/events/46962>`_
-
-* 7月6日（水）
-   * `第５回自治体オープンデータ推進協議会（関西会議） <http://peatix.com/event/177255/>`_
-
-* 7月6日（水）
-   * `Redmine 10周年を祝う会 @ 大阪 <https://agileware.doorkeeper.jp/events/47466>`_
-
 * 7月9日（土）
    * `第12回関西LibreOffice勉強会 <http://connpass.com/event/34527/>`_ [参加]
+
+* 7月15日（金）
+   * Agile Lab. Kyoto 第1期 vol.1 [参加]
 
 * 7月16日（土）-17日（日）
    * `日本システム・アドミニストレータ連絡会・第17回全国大会(岐阜) <http://www.jsdg.org/general/contents/conference/17zenkoku/top.html>`_ [参加]
@@ -33,6 +18,9 @@
 
 * 7月19日（火）
    * `Goodpatch Design Process Workshop <https://kyoto-design-lab.doorkeeper.jp/events/47372>`_ [参加]
+
+* 7月19日（火）
+   * `カンバン仕事術読書会＠大阪 ＃１ <https://scrumdo-kansai.doorkeeper.jp/events/48802>`_
 
 * 7月22日（金）
    * `第21回 関西情報セキュリティ合同セミナー <http://www.jasa.jp/seminar/sp_kansai_seminar.html>`_

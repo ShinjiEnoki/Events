@@ -4,6 +4,15 @@
 2016年
 ^^^^^^
 
+* 7月6日（水）
+   * `Redmine 10周年を祝う会 @ 大阪 <https://agileware.doorkeeper.jp/events/47466>`_
+
+* 7月2日（土）
+   * `オープンソースカンファレンス2016 Okinawa <https://www.ospn.jp/osc2016-okinawa/>`_
+
+* 7月1日（金）
+   * `OSCサミット＠沖縄 <https://www.ospn.jp/osc2016-okinawa/modules/eguide/event.php?eid=3>`_
+
 * 6月29日（水）
    * オープンデータ京都実践会MTG
 
