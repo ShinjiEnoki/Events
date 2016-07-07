@@ -16,6 +16,9 @@
 * 7月17日（日）
    * `尼崎Pythonの会#6 <https://365e5afb367e0244f53d0d3c8f.doorkeeper.jp/events/47490>`_
 
+* 7月18日（月）
+   * `京都オープンデータソン2016 vol.1（青蓮院、円山公園、粟田神社） <https://opendata-kyoto.doorkeeper.jp/events/48614>`_
+
 * 7月19日（火）
    * `Goodpatch Design Process Workshop <https://kyoto-design-lab.doorkeeper.jp/events/47372>`_ [参加]
 
