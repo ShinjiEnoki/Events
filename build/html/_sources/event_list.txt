@@ -26,7 +26,7 @@
    * `LibreOfficeの日 vol.30 JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/47688>`_ [参加]
 
 * 7月21日（木）
-   * JISTA関西2016年7月度定例会
+   * JISTA関西2016年7月度定例会 [参加]
 
 * 7月22日（金）
    * `第21回 関西情報セキュリティ合同セミナー <http://www.jasa.jp/seminar/sp_kansai_seminar.html>`_
