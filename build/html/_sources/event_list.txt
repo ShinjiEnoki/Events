@@ -4,9 +4,6 @@
 2016年
 ^^^^^^
 
-* 7月9日（土）
-   * `第12回関西LibreOffice勉強会 <http://connpass.com/event/34527/>`_ [参加]
-
 * 7月15日（金）
    * Agile Lab. Kyoto 第1期 vol.1 [参加]
 
@@ -17,7 +14,7 @@
    * `尼崎Pythonの会#6 <https://365e5afb367e0244f53d0d3c8f.doorkeeper.jp/events/47490>`_
 
 * 7月18日（月）
-   * `京都オープンデータソン2016 vol.1（青蓮院、円山公園、粟田神社） <https://opendata-kyoto.doorkeeper.jp/events/48614>`_
+   * `京都オープンデータソン2016 vol.1（青蓮院、円山公園、粟田神社） <https://opendata-kyoto.doorkeeper.jp/events/48614>`_ [参加]
 
 * 7月19日（火）
    * `Goodpatch Design Process Workshop <https://kyoto-design-lab.doorkeeper.jp/events/47372>`_ [参加]
@@ -25,17 +22,27 @@
 * 7月19日（火）
    * `カンバン仕事術読書会＠大阪 ＃１ <https://scrumdo-kansai.doorkeeper.jp/events/48802>`_
 
+* 7月20日（水）
+   * `LibreOfficeの日 vol.30 JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/47688>`_ [参加]
+
+* 7月21日（木）
+   * JISTA関西2016年7月度定例会
+
 * 7月22日（金）
    * `第21回 関西情報セキュリティ合同セミナー <http://www.jasa.jp/seminar/sp_kansai_seminar.html>`_
 
 * 7月23日（土）
    * 日本UNIXユーザ会総会＆ `総会併設勉強会「Unix考古学の夕べ」 <https://japanunixsociety.doorkeeper.jp/events/46258>`_ [参加]
 
+* 7月24日（日）
+   * `関東LibreOffice（以外も歓迎！）HackFest(#7) @Chiba <http://kantolibo.connpass.com/event/35666/>`_ [参加]
+
 * 7月29日（金）-30日（土）
    * `オープンソースカンファレンス 2016 Kyoto <http://www.ospn.jp/osc2016-kyoto/>`_ [参加]
 
 * 7月30日（土）
    * `第65回 SEA関西プロセス分科会＆RxTStudy #15 「チケット管理システムによるプロセス支援と今後の課題」 <https://rxtstudy.doorkeeper.jp/events/44608>`_
+
 * 8月6日（土）
    * `State of the Map Japan 2016 <https://stateofthemap.jp/2016/>`_
 

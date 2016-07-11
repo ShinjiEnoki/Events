@@ -4,6 +4,9 @@
 2016年
 ^^^^^^
 
+* 7月9日（土）
+   * `第12回関西LibreOffice勉強会 <http://connpass.com/event/34527/>`_
+
 * 7月6日（水）
    * `Redmine 10周年を祝う会 @ 大阪 <https://agileware.doorkeeper.jp/events/47466>`_
 
