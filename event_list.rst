@@ -49,8 +49,8 @@
 * 8月6日（土）
    * `State of the Map Japan 2016 <https://stateofthemap.jp/2016/>`_
 
-* 8月6日-7日
-   * `尼崎サマーセミナー <http://samasemi.jimdo.com/>`_ [liboで参加]
+* 8月6日（土）-7日（日）
+   * `尼崎サマーセミナー <http://samasemi.jimdo.com/>`_ [6日にliboで参加]
 
 * 8月19日（金）
    * `Startup Weekend Kobe <https://startupweekendkobe.doorkeeper.jp/events/44782>`_
