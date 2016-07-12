@@ -28,6 +28,9 @@
 * 7月21日（木）
    * JISTA関西2016年7月度定例会 [参加]
 
+* 7月21日（木）
+   * `第18回Code for Kobe定例会 <https://www.facebook.com/events/506104112916741/>`_
+
 * 7月22日（金）
    * `第21回 関西情報セキュリティ合同セミナー <http://www.jasa.jp/seminar/sp_kansai_seminar.html>`_
 
@@ -68,14 +71,30 @@
    * `Code4Lib JAPAN Conference 2016 <http://wiki.code4lib.jp/wiki/C4ljp2016>`_
 
 * 9月24日（土）
-   * オープンソースカンファレンス 2016 Shimane
+   * `オープンソースカンファレンス 2016 Shimane <http://www.ospn.jp/osc2016-shimane/>`_
 
 * 10月１日（土）
    * ヴィッセル+LibreOfficeイベント [ブース出展]
+
+* 10月１日（土）
+   * `オープンソースカンファレンス 2016 Nagaoka <http://www.ospn.jp/osc2016-nagaoka/>`_
 
 * 11月5日（金）-6日（土）
    * `オープンソースカンファレンス 2016 Tokyo/Fall <http://www.ospn.jp/osc2016-fall/>`_
 
 * 11月11日（金）-12日（土）
    * 関西オープンフォーラム2016 [参加予定]
+
+* 11月19日(土)
+   * `オープンソースカンファレンス2016 Fukuoka <http://www.ospn.jp/osc2016-fukuoka/>`_
+
+* 11月27日(土)
+   * `オープンソースカンファレンス2016 Hiroshima <http://www.ospn.jp/osc2016-hiroshima/>`_
+
+2017年
+------
+
+* 1月27日（金）-28日（土）
+   * オープンソースカンファレンス2017 Osaka
+
 
