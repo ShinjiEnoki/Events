@@ -4,6 +4,12 @@
 2016年
 ^^^^^^
 
+* 7月16日（土）-17日（日）
+   * `日本システム・アドミニストレータ連絡会・第17回全国大会(岐阜) <http://www.jsdg.org/general/contents/conference/17zenkoku/top.html>`_
+
+* 7月15日（金）
+   * Agile Lab. Kyoto 第1期 vol.1
+
 * 7月9日（土）
    * `第12回関西LibreOffice勉強会 <http://connpass.com/event/34527/>`_
 
