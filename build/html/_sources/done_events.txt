@@ -4,6 +4,9 @@
 2016年
 ^^^^^^
 
+* 7月18日（月）
+   * `京都オープンデータソン2016 vol.1（青蓮院、円山公園、粟田神社） <https://opendata-kyoto.doorkeeper.jp/events/48614>`_
+
 * 7月16日（土）-17日（日）
    * `日本システム・アドミニストレータ連絡会・第17回全国大会(岐阜) <http://www.jsdg.org/general/contents/conference/17zenkoku/top.html>`_
 

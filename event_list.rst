@@ -4,15 +4,6 @@
 2016年
 ^^^^^^
 
-* 7月18日（月）
-   * `京都オープンデータソン2016 vol.1（青蓮院、円山公園、粟田神社） <https://opendata-kyoto.doorkeeper.jp/events/48614>`_ [参加]
-
-* 7月19日（火）
-   * `Goodpatch Design Process Workshop <https://kyoto-design-lab.doorkeeper.jp/events/47372>`_ [参加]
-
-* 7月19日（火）
-   * `カンバン仕事術読書会＠大阪 ＃１ <https://scrumdo-kansai.doorkeeper.jp/events/48802>`_
-
 * 7月20日（水）
    * `LibreOfficeの日 vol.30 JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/47688>`_ [参加]
 
@@ -42,6 +33,9 @@
 
 * 8月6日（土）-7日（日）
    * `尼崎サマーセミナー <http://samasemi.jimdo.com/>`_ [6日にliboで参加]
+
+* 8月9日（火）
+   * `KIIS サイバーセキュリティ研究会・キックオフセミナー <https://secure.kiis.or.jp/cybersecurity/160809kickoff/index.html>`_
 
 * 8月19日（金）
    * `Startup Weekend Kobe <https://startupweekendkobe.doorkeeper.jp/events/44782>`_
