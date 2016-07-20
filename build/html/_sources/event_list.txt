@@ -7,6 +7,9 @@
 * 7月20日（水）
    * `LibreOfficeの日 vol.30 JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/47688>`_ [参加]
 
+* 7月20日（水）
+   * `Linux初心者もくもく勉強会の日 in JUSO Coworking  <https://saku-love.doorkeeper.jp/events/47277>`_
+
 * 7月21日（木）
    * JISTA関西2016年7月度定例会 [参加]
 
