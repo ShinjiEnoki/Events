@@ -4,14 +4,6 @@
 2016年
 ^^^^^^
 
-* 7月20日（水）
-   * `LibreOfficeの日 vol.30 JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/47688>`_ [参加]
-
-* 7月20日（水）
-   * `Linux初心者もくもく勉強会の日 in JUSO Coworking  <https://saku-love.doorkeeper.jp/events/47277>`_
-
-* 7月21日（木）
-   * JISTA関西2016年7月度定例会 [参加]
 
 * 7月21日（木）
    * `第18回Code for Kobe定例会 <https://www.facebook.com/events/506104112916741/>`_
@@ -31,6 +23,9 @@
 * 7月30日（土）
    * `第65回 SEA関西プロセス分科会＆RxTStudy #15 「チケット管理システムによるプロセス支援と今後の課題」 <https://rxtstudy.doorkeeper.jp/events/44608>`_
 
+* 8月2日（火）
+   * `カンバン仕事術読書会＠大阪 ＃２ <https://scrumdo-kansai.doorkeeper.jp/events/49628>`_ [参加]
+
 * 8月6日（土）
    * `State of the Map Japan 2016 <https://stateofthemap.jp/2016/>`_
 
@@ -44,7 +39,7 @@
    * `Startup Weekend Kobe <https://startupweekendkobe.doorkeeper.jp/events/44782>`_
 
 * 8月20日（土）
-   * ビール工場マッピング
+   * `京都国宝・浪漫マッピングパーティ：第２回 特別編 サントリー京都ビール工場、恵解山古墳、ねじりまんぽ <https://openstreetmap.doorkeeper.jp/events/48975>`_
 
 * 8月20日（土）
    * オープンソースフォーラム
@@ -63,6 +58,9 @@
 
 * 9月10日-11日
    * `Code4Lib JAPAN Conference 2016 <http://wiki.code4lib.jp/wiki/C4ljp2016>`_
+
+* 9月22日（木）
+   * `「TechLION vol.27」パブリックビューイング＠大阪 <https://atnd.org/events/79178?k=283bf5469f47c362620fe3d4e60dd4cd>`_
 
 * 9月24日（土）
    * `オープンソースカンファレンス 2016 Shimane <http://www.ospn.jp/osc2016-shimane/>`_
@@ -86,7 +84,7 @@
    * `オープンソースカンファレンス2016 Hiroshima <http://www.ospn.jp/osc2016-hiroshima/>`_
 
 2017年
-------
+^^^^^^^
 
 * 1月27日（金）-28日（土）
    * オープンソースカンファレンス2017 Osaka

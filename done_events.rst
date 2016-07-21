@@ -4,6 +4,15 @@
 2016年
 ^^^^^^
 
+* 7月21日（木）
+   * JISTA関西2016年7月度定例会
+
+* 7月20日（水）
+   * `Linux初心者もくもく勉強会の日 in JUSO Coworking  <https://saku-love.doorkeeper.jp/events/47277>`_
+
+* 7月20日（水）
+   * `LibreOfficeの日 vol.30 JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/47688>`_
+
 * 7月18日（月）
    * `京都オープンデータソン2016 vol.1（青蓮院、円山公園、粟田神社） <https://opendata-kyoto.doorkeeper.jp/events/48614>`_
 
