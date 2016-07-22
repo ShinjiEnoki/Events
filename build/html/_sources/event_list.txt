@@ -4,13 +4,6 @@
 2016年
 ^^^^^^
 
-
-* 7月21日（木）
-   * `第18回Code for Kobe定例会 <https://www.facebook.com/events/506104112916741/>`_
-
-* 7月22日（金）
-   * `第21回 関西情報セキュリティ合同セミナー <http://www.jasa.jp/seminar/sp_kansai_seminar.html>`_
-
 * 7月23日（土）
    * 日本UNIXユーザ会総会＆ `総会併設勉強会「Unix考古学の夕べ」 <https://japanunixsociety.doorkeeper.jp/events/46258>`_ [参加]
 
