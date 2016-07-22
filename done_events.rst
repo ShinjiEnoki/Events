@@ -4,6 +4,9 @@
 2016年
 ^^^^^^
 
+* 7月22日（金）
+   * `Mautic Meetup Tokyo #4 <http://www.meetup.com/Mautic-Meetup-Tokyo/events/232218189/>`_
+
 * 7月21日（木）
    * JISTA関西2016年7月度定例会
 
