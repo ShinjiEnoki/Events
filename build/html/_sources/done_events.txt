@@ -4,6 +4,9 @@
 2016年
 ^^^^^^
 
+* 7月23日（土）
+   * 日本UNIXユーザ会総会＆ `総会併設勉強会「Unix考古学の夕べ」 <https://japanunixsociety.doorkeeper.jp/events/46258>`_
+
 * 7月22日（金）
    * `Mautic Meetup Tokyo #4 <http://www.meetup.com/Mautic-Meetup-Tokyo/events/232218189/>`_
 

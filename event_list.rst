@@ -4,9 +4,6 @@
 2016年
 ^^^^^^
 
-* 7月23日（土）
-   * 日本UNIXユーザ会総会＆ `総会併設勉強会「Unix考古学の夕べ」 <https://japanunixsociety.doorkeeper.jp/events/46258>`_ [参加]
-
 * 7月24日（日）
    * `関東LibreOffice（以外も歓迎！）HackFest(#7) @Chiba <http://kantolibo.connpass.com/event/35666/>`_ [参加]
 
@@ -40,8 +37,11 @@
 * 8月27日（土）
    * `オープンソースアンカンファレンス 2016 Kanazawa <http://connpass.com/event/30813/>`_
 
-* 8月27日（土）-8月29日（日）
+* 8月27日（土）-8月28日（日）
    * JSDG姫路ミニ研究会
+
+* 8月29日（月）
+   * `プログラミングを楽しく続けるための健康Hack <https://devlove-kansai.doorkeeper.jp/events/49458>`_
 
 * 9月6日
    * LibreOffice Conference 前日ミーティング [参加予定]
@@ -74,7 +74,7 @@
    * `オープンソースカンファレンス2016 Fukuoka <http://www.ospn.jp/osc2016-fukuoka/>`_
 
 * 11月27日(土)
-   * `オープンソースカンファレンス2016 Hiroshima <http://www.ospn.jp/osc2016-hiroshima/>`_
+   * `オープンソースカンファレンス2016 Hiroshima <http://www.ospn.jp/osc2016-hiroshima/>`_ [参加予定]
 
 2017年
 ^^^^^^^
