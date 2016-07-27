@@ -4,17 +4,23 @@
 2016年
 ^^^^^^
 
-* 7月24日（日）
-   * `関東LibreOffice（以外も歓迎！）HackFest(#7) @Chiba <http://kantolibo.connpass.com/event/35666/>`_ [参加]
+* 7月28日（木）
+   * 南陽高校生withウィキペディアタウン [参加]
 
 * 7月29日（金）-30日（土）
    * `オープンソースカンファレンス 2016 Kyoto <http://www.ospn.jp/osc2016-kyoto/>`_ [参加]
+
+* 7月29日（金）-30日（土）
+   * `二夜限りのギークハウス in 京都 2016 <https://atnd.org/events/76652>`_ [参加]
 
 * 7月30日（土）
    * `第65回 SEA関西プロセス分科会＆RxTStudy #15 「チケット管理システムによるプロセス支援と今後の課題」 <https://rxtstudy.doorkeeper.jp/events/44608>`_
 
 * 8月2日（火）
    * `カンバン仕事術読書会＠大阪 ＃２ <https://scrumdo-kansai.doorkeeper.jp/events/49628>`_ [参加]
+
+* 8月5日（金）
+   * `WARAI・テスト自動化勉強会　in 京都 <http://warai.connpass.com/event/36824/>`_ [参加]
 
 * 8月6日（土）
    * `State of the Map Japan 2016 <https://stateofthemap.jp/2016/>`_
@@ -24,6 +30,9 @@
 
 * 8月9日（火）
    * `KIIS サイバーセキュリティ研究会・キックオフセミナー <https://secure.kiis.or.jp/cybersecurity/160809kickoff/index.html>`_
+
+* 8月18日（木）
+   * 第19回Code for Kobe定例会
 
 * 8月19日（金）
    * `Startup Weekend Kobe <https://startupweekendkobe.doorkeeper.jp/events/44782>`_
@@ -41,7 +50,7 @@
    * JSDG姫路ミニ研究会
 
 * 8月29日（月）
-   * `プログラミングを楽しく続けるための健康Hack <https://devlove-kansai.doorkeeper.jp/events/49458>`_
+   * `プログラミングを楽しく続けるための健康Hack <https://devlove-kansai.doorkeeper.jp/events/49458>`_ [キャンセル待ち]
 
 * 9月6日
    * LibreOffice Conference 前日ミーティング [参加予定]
@@ -75,6 +84,9 @@
 
 * 11月27日(土)
    * `オープンソースカンファレンス2016 Hiroshima <http://www.ospn.jp/osc2016-hiroshima/>`_ [参加予定]
+
+* 12月初旬
+   * テスト設計コンテスト東海予選
 
 2017年
 ^^^^^^^

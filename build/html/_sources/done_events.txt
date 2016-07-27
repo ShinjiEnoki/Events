@@ -4,6 +4,9 @@
 2016年
 ^^^^^^
 
+* 7月24日（日）
+   * `関東LibreOffice（以外も歓迎！）HackFest(#7) @Chiba <http://kantolibo.connpass.com/event/35666/>`_
+
 * 7月23日（土）
    * 日本UNIXユーザ会総会＆ `総会併設勉強会「Unix考古学の夕べ」 <https://japanunixsociety.doorkeeper.jp/events/46258>`_
 
