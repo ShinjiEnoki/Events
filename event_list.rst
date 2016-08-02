@@ -41,7 +41,7 @@
    * JSDG姫路ミニ研究会
 
 * 8月29日（月）
-   * `プログラミングを楽しく続けるための健康Hack <https://devlove-kansai.doorkeeper.jp/events/49458>`_ [キャンセル待ち]
+   * `プログラミングを楽しく続けるための健康Hack <https://devlove-kansai.doorkeeper.jp/events/49458>`_ [参加]
 
 * 9月6日
    * LibreOffice Conference 前日ミーティング [参加予定]
