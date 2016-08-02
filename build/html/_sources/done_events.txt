@@ -4,6 +4,15 @@
 2016年
 ^^^^^^
 
+* 7月29日（金）-30日（土）
+   * `二夜限りのギークハウス in 京都 2016 <https://atnd.org/events/76652>`_
+
+* 7月29日（金）-30日（土）
+   * `オープンソースカンファレンス 2016 Kyoto <http://www.ospn.jp/osc2016-kyoto/>`_
+
+* 7月28日（木）
+   * 南陽高校生withウィキペディアタウン
+
 * 7月24日（日）
    * `関東LibreOffice（以外も歓迎！）HackFest(#7) @Chiba <http://kantolibo.connpass.com/event/35666/>`_
 

@@ -4,21 +4,6 @@
 2016年
 ^^^^^^
 
-* 7月28日（木）
-   * 南陽高校生withウィキペディアタウン [参加]
-
-* 7月29日（金）-30日（土）
-   * `オープンソースカンファレンス 2016 Kyoto <http://www.ospn.jp/osc2016-kyoto/>`_ [参加]
-
-* 7月29日（金）-30日（土）
-   * `二夜限りのギークハウス in 京都 2016 <https://atnd.org/events/76652>`_ [参加]
-
-* 7月30日（土）
-   * `第65回 SEA関西プロセス分科会＆RxTStudy #15 「チケット管理システムによるプロセス支援と今後の課題」 <https://rxtstudy.doorkeeper.jp/events/44608>`_
-
-* 8月2日（火）
-   * `カンバン仕事術読書会＠大阪 ＃２ <https://scrumdo-kansai.doorkeeper.jp/events/49628>`_ [参加]
-
 * 8月5日（金）
    * `WARAI・テスト自動化勉強会　in 京都 <http://warai.connpass.com/event/36824/>`_ [参加]
 
@@ -29,6 +14,9 @@
    * `尼崎サマーセミナー <http://samasemi.jimdo.com/>`_ [6日にliboで参加]
 
 * 8月9日（火）
+   * `カンバン仕事術読書会＠大阪 ＃２ <https://scrumdo-kansai.doorkeeper.jp/events/49628>`_ [参加]
+
+* 8月9日（火）
    * `KIIS サイバーセキュリティ研究会・キックオフセミナー <https://secure.kiis.or.jp/cybersecurity/160809kickoff/index.html>`_
 
 * 8月18日（木）
@@ -37,8 +25,11 @@
 * 8月19日（金）
    * `Startup Weekend Kobe <https://startupweekendkobe.doorkeeper.jp/events/44782>`_
 
+* 8月19日（金）
+   * `『特別講演～ゴールドラット博士の最後のプレゼン　惰性の罠～』 <http://kokucheese.com/event/index/415420/>`_ [参加]
+
 * 8月20日（土）
-   * `京都国宝・浪漫マッピングパーティ：第２回 特別編 サントリー京都ビール工場、恵解山古墳、ねじりまんぽ <https://openstreetmap.doorkeeper.jp/events/48975>`_
+   * `京都国宝・浪漫マッピングパーティ：第２回 特別編 サントリー京都ビール工場、恵解山古墳、ねじりまんぽ <https://openstreetmap.doorkeeper.jp/events/48975>`_ [参加]
 
 * 8月20日（土）
    * オープンソースフォーラム
@@ -64,6 +55,12 @@
 * 9月22日（木）
    * `「TechLION vol.27」パブリックビューイング＠大阪 <https://atnd.org/events/79178?k=283bf5469f47c362620fe3d4e60dd4cd>`_
 
+* 9月23日（金）
+   * `SGR2016 – Suguru Yamaguchi memorial conference, 2016.9.23 <http://wasforum.jp/sgr2016/>`_
+
+* 9月24日（土）
+   * 第13回関西LibreOffice勉強会
+
 * 9月24日（土）
    * `オープンソースカンファレンス 2016 Shimane <http://www.ospn.jp/osc2016-shimane/>`_
 
@@ -85,7 +82,7 @@
 * 11月27日(土)
    * `オープンソースカンファレンス2016 Hiroshima <http://www.ospn.jp/osc2016-hiroshima/>`_ [参加予定]
 
-* 12月初旬
+* 12月3日（土）?
    * テスト設計コンテスト東海予選
 
 2017年
