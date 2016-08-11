@@ -4,6 +4,15 @@
 2016年
 ^^^^^^
 
+* 8月9日（火）
+   * `カンバン仕事術読書会＠大阪 ＃２ <https://scrumdo-kansai.doorkeeper.jp/events/49628>`_
+
+* 8月6日（土）
+   * `尼崎サマーセミナー <http://samasemi.jimdo.com/>`_ [6日にliboで参加]
+
+* 8月5日（金）
+   * `WARAI・テスト自動化勉強会　in 京都 <http://warai.connpass.com/event/36824/>`_
+
 * 7月29日（金）-30日（土）
    * `二夜限りのギークハウス in 京都 2016 <https://atnd.org/events/76652>`_
 

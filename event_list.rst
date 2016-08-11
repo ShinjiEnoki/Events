@@ -4,20 +4,11 @@
 2016年
 ^^^^^^
 
-* 8月5日（金）
-   * `WARAI・テスト自動化勉強会　in 京都 <http://warai.connpass.com/event/36824/>`_ [参加]
+* 8月14日（日）
+   * `LILO&東海道らぐオフラインミーティング 2016/08/14 <http://lilo.connpass.com/event/37410/>`_ [参加]
 
-* 8月6日（土）
-   * `State of the Map Japan 2016 <https://stateofthemap.jp/2016/>`_
-
-* 8月6日（土）-7日（日）
-   * `尼崎サマーセミナー <http://samasemi.jimdo.com/>`_ [6日にliboで参加]
-
-* 8月9日（火）
-   * `カンバン仕事術読書会＠大阪 ＃２ <https://scrumdo-kansai.doorkeeper.jp/events/49628>`_ [参加]
-
-* 8月9日（火）
-   * `KIIS サイバーセキュリティ研究会・キックオフセミナー <https://secure.kiis.or.jp/cybersecurity/160809kickoff/index.html>`_
+* 8月17日（水）
+   * LibreOfficeの日 vol.31 JUSO Coworking
 
 * 8月18日（木）
    * 第19回Code for Kobe定例会
@@ -74,13 +65,13 @@
    * `オープンソースカンファレンス 2016 Tokyo/Fall <http://www.ospn.jp/osc2016-fall/>`_
 
 * 11月11日（金）-12日（土）
-   * 関西オープンフォーラム2016 [参加予定]
+   * `関西オープンフォーラム2016 <https://k-of.jp/2016/>`_ [参加予定]
 
 * 11月19日(土)
    * `オープンソースカンファレンス2016 Fukuoka <http://www.ospn.jp/osc2016-fukuoka/>`_
 
 * 11月27日(土)
-   * `オープンソースカンファレンス2016 Hiroshima <http://www.ospn.jp/osc2016-hiroshima/>`_ [参加予定]
+   * `オープンソースカンファレンス2016 Hiroshima <http://www.ospn.jp/osc2016-hiroshima/>`_
 
 * 12月3日（土）?
    * テスト設計コンテスト東海予選
@@ -90,6 +81,9 @@
 
 * 1月27日（金）-28日（土）
    * オープンソースカンファレンス2017 Osaka
+
+* 2月23日（木）
+   * テスト設計コンテスト決勝
 
 * 7月15日（土）-16日（日）調整中
    * JSDG全国大会 in 姫路
