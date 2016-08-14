@@ -4,6 +4,9 @@
 2016年
 ^^^^^^
 
+* 8月14日（日）
+   * `LILO&東海道らぐオフラインミーティング 2016/08/14 <http://lilo.connpass.com/event/37410/>`_
+
 * 8月9日（火）
    * `カンバン仕事術読書会＠大阪 ＃２ <https://scrumdo-kansai.doorkeeper.jp/events/49628>`_
 

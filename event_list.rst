@@ -4,9 +4,6 @@
 2016年
 ^^^^^^
 
-* 8月14日（日）
-   * `LILO&東海道らぐオフラインミーティング 2016/08/14 <http://lilo.connpass.com/event/37410/>`_ [参加]
-
 * 8月17日（水）
    * LibreOfficeの日 vol.31 JUSO Coworking
 
@@ -36,6 +33,9 @@
 
 * 8月29日（月）
    * `プログラミングを楽しく続けるための健康Hack <https://devlove-kansai.doorkeeper.jp/events/49458>`_ [参加]
+
+* 8月30日（火）
+   * `カンバン仕事術読書会＠大阪 ＃３ <http://scrumdo-kansai.connpass.com/event/37387/>`_ [参加]
 
 * 9月6日
    * LibreOffice Conference 前日ミーティング [参加予定]
