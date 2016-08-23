@@ -4,6 +4,15 @@
 2016年
 ^^^^^^
 
+* 8月20日（土）
+   * `京都国宝・浪漫マッピングパーティ：第２回 特別編 サントリー京都ビール工場、恵解山古墳、ねじりまんぽ <https://openstreetmap.doorkeeper.jp/events/48975>`_
+
+* 8月19日（金）
+   * `『特別講演～ゴールドラット博士の最後のプレゼン　惰性の罠～』 <http://kokucheese.com/event/index/415420/>`_
+
+* 8月17日（水）
+   * `LibreOfficeの日 vol.31 JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/50922>`_
+
 * 8月14日（日）
    * `LILO&東海道らぐオフラインミーティング 2016/08/14 <http://lilo.connpass.com/event/37410/>`_
 

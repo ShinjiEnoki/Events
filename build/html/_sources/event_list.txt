@@ -4,38 +4,38 @@
 2016年
 ^^^^^^
 
-* 8月17日（水）
-   * LibreOfficeの日 vol.31 JUSO Coworking
-
-* 8月18日（木）
-   * 第19回Code for Kobe定例会
-
-* 8月19日（金）
-   * `Startup Weekend Kobe <https://startupweekendkobe.doorkeeper.jp/events/44782>`_
-
-* 8月19日（金）
-   * `『特別講演～ゴールドラット博士の最後のプレゼン　惰性の罠～』 <http://kokucheese.com/event/index/415420/>`_ [参加]
-
-* 8月20日（土）
-   * `京都国宝・浪漫マッピングパーティ：第２回 特別編 サントリー京都ビール工場、恵解山古墳、ねじりまんぽ <https://openstreetmap.doorkeeper.jp/events/48975>`_ [参加]
-
-* 8月20日（土）
-   * オープンソースフォーラム
-
 * 8月26日（金）
    * `多言語・翻訳ナイト Vol.3 @大阪 ~ 翻訳者・翻訳サービス・多言語サイト運営者・開発者・自治体が集まって語らう会 <https://polyglots.doorkeeper.jp/events/50740>`_ [参加]
 
+* 8月26日（金）
+   * マツダにおけるTOC/CCPM事例講演DVD鑑賞会
+
+* 8月27日（土）
+   * KOFミーティング [参加]
+
 * 8月27日（土）
    * `オープンソースアンカンファレンス 2016 Kanazawa <http://connpass.com/event/30813/>`_
+
+* 8月27日（土）
+   * `「アジャイルがダメだと思う7つの理由」について議論する会を大阪で <http://connpass.com/event/37414/>`_
 
 * 8月27日（土）-8月28日（日）
    * JSDG姫路ミニ研究会
 
 * 8月29日（月）
-   * `プログラミングを楽しく続けるための健康Hack <https://devlove-kansai.doorkeeper.jp/events/49458>`_ [参加]
+   * `プログラミングを楽しく続けるための健康Hack <https://devlove-kansai.doorkeeper.jp/events/49458>`_
+
+* 8月29日（月）
+   * 伊丹でのウィキペディアタウン準備ミーティング [参加]
 
 * 8月30日（火）
    * `カンバン仕事術読書会＠大阪 ＃３ <http://scrumdo-kansai.connpass.com/event/37387/>`_ [参加]
+
+* 9月2日（金）
+   * 品質保証の会：LibreOfficeのQAについて [参加]
+
+* 9月3日（土）
+   * `没年調査ソン in 京都 Vol.1 <https://www.facebook.com/events/1768343053421894/>`_ [参加]
 
 * 9月6日
    * LibreOffice Conference 前日ミーティング [参加予定]
