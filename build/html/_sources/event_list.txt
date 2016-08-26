@@ -4,12 +4,6 @@
 2016年
 ^^^^^^
 
-* 8月26日（金）
-   * `多言語・翻訳ナイト Vol.3 @大阪 ~ 翻訳者・翻訳サービス・多言語サイト運営者・開発者・自治体が集まって語らう会 <https://polyglots.doorkeeper.jp/events/50740>`_ [参加]
-
-* 8月26日（金）
-   * マツダにおけるTOC/CCPM事例講演DVD鑑賞会
-
 * 8月27日（土）
    * KOFミーティング [参加]
 
@@ -63,6 +57,9 @@
 
 * 10月１日（土）
    * `オープンソースカンファレンス 2016 Nagaoka <http://www.ospn.jp/osc2016-nagaoka/>`_
+
+* 10月6日（木）～7日（金）
+   * ` Kaizen IT Summit in Gifu 2016 <https://training.softopia.or.jp/event/20161006/>`_
 
 * 11月5日（金）-6日（土）
    * `オープンソースカンファレンス 2016 Tokyo/Fall <http://www.ospn.jp/osc2016-fall/>`_
