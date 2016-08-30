@@ -4,9 +4,6 @@
 2016年
 ^^^^^^
 
-* 8月30日（火）
-   * `カンバン仕事術読書会＠大阪 ＃３ <http://scrumdo-kansai.connpass.com/event/37387/>`_ [参加]
-
 * 9月2日（金）
    * 品質保証の会：LibreOfficeのQAについて [参加]
 
