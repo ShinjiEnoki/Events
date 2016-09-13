@@ -5,7 +5,7 @@
 ^^^^^^
 
 * 9月2日（金）
-   * 品質保証の会：LibreOfficeのQAについて [参加]
+   * ソフトウェア品質保証責任者の会 LibreOfficeのQAについて [参加]
 
 * 9月3日（土）
    * `没年調査ソン in 京都 Vol.1 <https://www.facebook.com/events/1768343053421894/>`_ [参加]
@@ -37,6 +37,9 @@
 * 9月24日（土）
    * `オープンソースカンファレンス 2016 Shimane <http://www.ospn.jp/osc2016-shimane/>`_
 
+* 9月27日（火）
+   * `カンバン仕事術読書会＠大阪 ＃４ <http://scrumdo-kansai.connpass.com/event/39265/>`_ [参加]
+
 * 10月１日（土）
    * ヴィッセル+LibreOfficeイベント [ブース出展]
 
@@ -45,6 +48,9 @@
 
 * 10月6日（木）～7日（金）
    * ` Kaizen IT Summit in Gifu 2016 <https://training.softopia.or.jp/event/20161006/>`_
+
+* 10月21日（金）
+   * `第48回関西CAE懇話会 <http://www.cae21.org/kansai_cae/konwakai/kansai_48/kansai48_annai.shtml>`_
 
 * 11月5日（金）-6日（土）
    * `オープンソースカンファレンス 2016 Tokyo/Fall <http://www.ospn.jp/osc2016-fall/>`_
