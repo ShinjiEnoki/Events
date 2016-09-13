@@ -40,6 +40,9 @@
 * 9月27日（火）
    * `カンバン仕事術読書会＠大阪 ＃４ <http://scrumdo-kansai.connpass.com/event/39265/>`_ [参加]
 
+* 9月30日（金）
+   * `アジャイル品質と引継ぎパターン <http://www.washi.cs.waseda.ac.jp/?page_id=3056>`_
+
 * 10月１日（土）
    * ヴィッセル+LibreOfficeイベント [ブース出展]
 
