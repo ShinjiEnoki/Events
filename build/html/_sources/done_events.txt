@@ -4,6 +4,33 @@
 2016年
 ^^^^^^
 
+* 9月24日（土）
+   * `第13回関西LibreOffice勉強会 <http://connpass.com/event/40278/>`_
+
+* 9月22日（木）
+   * オープンデータ京都実践会MTG
+
+* 9月21日（水）
+   * `LibreOfficeの日 vol.33 JUSO Coworking <http://juso-coworking.doorkeeper.jp/events/51549>`_
+
+* 9月21日（水）
+   * `Linux初心者もくもく勉強会の日 in JUSO Coworking 2016-09-21 <https://saku-love.doorkeeper.jp/events/51906>`_
+
+* 9月16日（金）
+   * 9/15からウィーン>北京>関空で帰国
+
+* 9月7日-9日
+   * `LibreOffice Conference 2016 in Brno (Czech Republic) <https://conference.libreoffice.org/>`_
+
+* 9月6日
+   * LibreOffice Conference 前日ミーティング
+
+* 9月4日（日）
+   * フライト：関空->北京->ウィーン
+
+* 9月2日（金）
+   * ソフトウェア品質保証責任者の会 LibreOfficeのQAについて
+
 * 8月29日（月）
    * 伊丹でのウィキペディアタウン準備ミーティング
 
