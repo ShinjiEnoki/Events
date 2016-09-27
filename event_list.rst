@@ -4,11 +4,11 @@
 2016年
 ^^^^^^
 
-* 9月25日（日）
-   * `第114回関西Debian勉強会 <https://debianjp.doorkeeper.jp/events/51703>`_
-
 * 9月27日（火）
    * `カンバン仕事術読書会＠大阪 ＃４ <http://scrumdo-kansai.connpass.com/event/39265/>`_ [参加]
+
+* 9月27日（火）
+   * `IDCFクラウドMeetup！in Osaka vol.3 <https://idcfugosaka.doorkeeper.jp/events/51928>`_
 
 * 9月30日（金）
    * `アジャイル品質と引継ぎパターン <http://www.washi.cs.waseda.ac.jp/?page_id=3056>`_
@@ -22,6 +22,9 @@
 * 10月6日（木）～7日（金）
    * `Kaizen IT Summit in Gifu 2016 <https://training.softopia.or.jp/event/20161006/>`_
 
+* 10月15日（土）
+   * 第55回J2関西 [参加]
+
 * 10月21日（金）
    * `第48回関西CAE懇話会 <http://www.cae21.org/kansai_cae/konwakai/kansai_48/kansai48_annai.shtml>`_
 
@@ -32,13 +35,13 @@
    * `関西オープンフォーラム2016 <https://k-of.jp/2016/>`_ [参加予定]
 
 * 11月19日(土)
-   * `オープンソースカンファレンス2016 Fukuoka <http://www.ospn.jp/osc2016-fukuoka/>`_
+   * `オープンソースカンファレンス2016 Fukuoka <http://www.ospn.jp/osc2016-fukuoka/>`_ [参加予定]
 
 * 11月27日(土)
-   * `オープンソースカンファレンス2016 Hiroshima <http://www.ospn.jp/osc2016-hiroshima/>`_
+   * `オープンソースカンファレンス2016 Hiroshima <http://www.ospn.jp/osc2016-hiroshima/>`_ [参加予定]
 
 * 11月28日(日)
-   * ウィキペディア・タウン in 伊丹
+   * ウィキペディア・タウン in 伊丹 [参加予定]
 
 * 12月3日（土）?
    * テスト設計コンテスト東海予選
