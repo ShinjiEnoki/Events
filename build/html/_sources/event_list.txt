@@ -5,9 +5,6 @@
 ^^^^^^
 
 * 9月27日（火）
-   * `カンバン仕事術読書会＠大阪 ＃４ <http://scrumdo-kansai.connpass.com/event/39265/>`_ [参加]
-
-* 9月27日（火）
    * `IDCFクラウドMeetup！in Osaka vol.3 <https://idcfugosaka.doorkeeper.jp/events/51928>`_
 
 * 9月30日（金）

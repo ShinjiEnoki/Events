@@ -4,6 +4,9 @@
 2016年
 ^^^^^^
 
+* 9月27日（火）
+   * `カンバン仕事術読書会＠大阪 ＃４ <http://scrumdo-kansai.connpass.com/event/39265/>`_
+
 * 9月24日（土）
    * `第13回関西LibreOffice勉強会 <http://connpass.com/event/40278/>`_
 
