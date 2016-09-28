@@ -4,9 +4,6 @@
 2016年
 ^^^^^^
 
-* 9月27日（火）
-   * `IDCFクラウドMeetup！in Osaka vol.3 <https://idcfugosaka.doorkeeper.jp/events/51928>`_
-
 * 9月30日（金）
    * `アジャイル品質と引継ぎパターン <http://www.washi.cs.waseda.ac.jp/?page_id=3056>`_
 
