@@ -4,6 +4,9 @@
 2016年
 ^^^^^^
 
+* 10月１日（土）
+   * ヴィッセル+LibreOfficeイベント `LibreOffice Touch <https://libreoffice.icraft.jp/>`_
+
 * 9月27日（火）
    * `カンバン仕事術読書会＠大阪 ＃４ <http://scrumdo-kansai.connpass.com/event/39265/>`_
 
