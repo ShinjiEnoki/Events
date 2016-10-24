@@ -4,6 +4,18 @@
 2016年
 ^^^^^^
 
+* 10月19日（水）
+   * `LibreOfficeの日 vol.33 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/52730>`_
+
+* 10月15日（土）
+   * 第55回J2関西
+
+* 10月11日（火）
+   * オープンデータ京都実践会MTG
+
+* 10月8日（土）
+   * KOFスタッフミーティング10/8
+
 * 10月１日（土）
    * ヴィッセル+LibreOfficeイベント `LibreOffice Touch <https://libreoffice.icraft.jp/>`_
 

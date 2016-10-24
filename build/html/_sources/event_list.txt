@@ -4,35 +4,20 @@
 2016年
 ^^^^^^
 
-* 10月6日（木）～7日（金）
-   * `Kaizen IT Summit in Gifu 2016 <https://training.softopia.or.jp/event/20161006/>`_
-
-* 10月8日（土）
-   * KOFスタッフミーティング10/8
-
-* 10月11日（火）
-   * `神戸.rb Meetup #51 <https://koberb.doorkeeper.jp/events/52729>`_
-
-* 10月15日（土）
-   * 第55回J2関西 [参加]
-
-* 10月19日（水）
-   * `LibreOfficeの日 vol.33 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/52730>`_ [参加]
-
-* 10月21日（金）
-   * `第48回関西CAE懇話会 <http://www.cae21.org/kansai_cae/konwakai/kansai_48/kansai48_annai.shtml>`_
-
-* 10月22日（土）
-   * `Rakuten Technology Conference 2016 <http://tech.rakuten.co.jp/>`_
-
 * 11月5日（金）-6日（土）
    * `オープンソースカンファレンス 2016 Tokyo/Fall <http://www.ospn.jp/osc2016-fall/>`_ [参加予定]
 
+* 11月10日（木）
+   * `ベリサーブ アカデミック イニシアティブ 2016 in 大阪 「ソフトウェアと品質を考える」 <http://www.veriserve.co.jp/event_seminar/2016/VAI_2016_Osaka.html>`_ [申込済/抽選]
+
 * 11月11日（金）-12日（土）
-   * `関西オープンフォーラム2016 <https://k-of.jp/2016/>`_ [参加予定]
+   * `関西オープンフォーラム2016 <https://k-of.jp/2016/>`_ [参加予定] `KOF2016懇親会 <http://k-of2016.peatix.com/>`_
 
 * 11月19日(土)
    * `オープンソースカンファレンス2016 Fukuoka <http://www.ospn.jp/osc2016-fukuoka/>`_ [参加予定]
+
+* 11月25日（金）
+   * `スクラム道関西★大忘年会2016 <http://scrumdo-kansai.connpass.com/event/43415/>`_
 
 * 11月27日(日)
    * `オープンソースカンファレンス2016 Hiroshima <http://www.ospn.jp/osc2016-hiroshima/>`_ [参加予定]
@@ -40,14 +25,24 @@
 * 11月27日(日)
    * ウィキペディア・タウン in 伊丹
 
-* 12月3日（土）?
-   * テスト設計コンテスト東海予選
+* 12月2日（金）
+   * `JaSST'16 Tokai <http://www.jasst.jp/symposium/jasst16tokai.html>`_
+
+* 12月3日（土）
+   * テスト設計コンテスト東海予選 [参加予定]
 
 * 12月4日(日)
-   * ウィキペディア・タウン in 伊丹2
+   * ウィキペディア・タウン in 伊丹2 [参加予定]
 
 * 12月10日（土）
-   * LibreOffice Kaigi 2016.12
+   * LibreOffice Kaigi 2016.12 [参加予定]
+
+* 12月10日（土）
+   * `Mini Debian Conference Japan 2016 <http://miniconf.debian.or.jp/>`_
+
+* 12月17日（土）-18日（日）
+   * `WACATE 2016冬 <http://wacate.jp/>`_
+
 
 2017年
 ^^^^^^^
