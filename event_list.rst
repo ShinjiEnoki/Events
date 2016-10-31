@@ -4,17 +4,23 @@
 2016年
 ^^^^^^
 
-* 11月5日（金）-6日（土）
+* 11月4日（金）
+   * `The CI / CD pipeline for Mesosphere DC/OS <https://www.meetup.com/Tokyo-DevOps-2-0-CD-pipeline-with-Microservices-focus/events/235184444/>`_
+
+* 11月5日（土）-6日（日）
    * `オープンソースカンファレンス 2016 Tokyo/Fall <http://www.ospn.jp/osc2016-fall/>`_ [参加予定]
 
-* 11月10日（木）
-   * `ベリサーブ アカデミック イニシアティブ 2016 in 大阪 「ソフトウェアと品質を考える」 <http://www.veriserve.co.jp/event_seminar/2016/VAI_2016_Osaka.html>`_ [申込済/抽選]
+* 11月7日（月）
+   * `OSSAJ ミニセミナー「LibreOfficeコミュニティのエコシステムはどのように作られているのか？」 [参加]
 
 * 11月11日（金）-12日（土）
    * `関西オープンフォーラム2016 <https://k-of.jp/2016/>`_ [参加予定] `KOF2016懇親会 <http://k-of2016.peatix.com/>`_
 
 * 11月19日(土)
    * `オープンソースカンファレンス2016 Fukuoka <http://www.ospn.jp/osc2016-fukuoka/>`_ [参加予定]
+
+* 11月21日（月）
+   * `Mautic Meetup KOBE #01 <https://www.meetup.com/Mautic-Meetup-Kobe/events/234911614/>`_
 
 * 11月25日（金）
    * `スクラム道関西★大忘年会2016 <http://scrumdo-kansai.connpass.com/event/43415/>`_
@@ -34,6 +40,9 @@
 * 12月4日(日)
    * ウィキペディア・タウン in 伊丹2 [参加予定]
 
+* 12月4日（日）
+   * ` JISTA関西「プチ」オープンフォーラム2016 <https://www.jista.org/modules/eguide/event.php?eid=23>`_
+
 * 12月10日（土）
    * LibreOffice Kaigi 2016.12 [参加予定]
 
@@ -48,7 +57,7 @@
 ^^^^^^^
 
 * 1月27日（金）-28日（土）
-   * オープンソースカンファレンス2017 Osaka
+   * オープンソースカンファレンス2017 Osaka [参加予定]
 
 * 2月23日（木）
    * テスト設計コンテスト決勝
