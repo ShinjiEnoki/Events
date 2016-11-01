@@ -11,7 +11,7 @@
    * `オープンソースカンファレンス 2016 Tokyo/Fall <http://www.ospn.jp/osc2016-fall/>`_ [参加予定]
 
 * 11月7日（月）
-   * `OSSAJ ミニセミナー「LibreOfficeコミュニティのエコシステムはどのように作られているのか？」 [参加]
+   * `OSSAJ ミニセミナー「LibreOfficeコミュニティのエコシステムはどのように作られているのか？ <http://www.ossaj.org/seminar/161107/ossaj_seminar_20161107_brochure.html>`_ [参加]
 
 * 11月11日（金）-12日（土）
    * `関西オープンフォーラム2016 <https://k-of.jp/2016/>`_ [参加予定] `KOF2016懇親会 <http://k-of2016.peatix.com/>`_
@@ -41,13 +41,16 @@
    * ウィキペディア・タウン in 伊丹2 [参加予定]
 
 * 12月4日（日）
-   * ` JISTA関西「プチ」オープンフォーラム2016 <https://www.jista.org/modules/eguide/event.php?eid=23>`_
+   * `JISTA関西「プチ」オープンフォーラム2016 <https://www.jista.org/modules/eguide/event.php?eid=23>`_
 
 * 12月10日（土）
    * LibreOffice Kaigi 2016.12 [参加予定]
 
 * 12月10日（土）
    * `Mini Debian Conference Japan 2016 <http://miniconf.debian.or.jp/>`_
+
+* 12月15日（木）
+   * `Nagoya.Testing in Tokyo -テストを強いられている人達の話 <http://connpass.com/event/40538/>`_
 
 * 12月17日（土）-18日（日）
    * `WACATE 2016冬 <http://wacate.jp/>`_
