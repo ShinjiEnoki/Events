@@ -4,6 +4,12 @@
 2016年
 ^^^^^^
 
+* 11月7日（月）
+   * `OSSAJ ミニセミナー「LibreOfficeコミュニティのエコシステムはどのように作られているのか？ <http://www.ossaj.org/seminar/161107/ossaj_seminar_20161107_brochure.html>`_
+
+* 11月5日（土）-6日（日）
+   * `オープンソースカンファレンス 2016 Tokyo/Fall <http://www.ospn.jp/osc2016-fall/>`_
+
 * 10月19日（水）
    * `LibreOfficeの日 vol.33 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/52730>`_
 
