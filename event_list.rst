@@ -4,11 +4,11 @@
 2016年
 ^^^^^^
 
-* 11月11日（金）-12日（土）
-   * `関西オープンフォーラム2016 <https://k-of.jp/2016/>`_ [参加] `KOF2016懇親会 <http://k-of2016.peatix.com/>`_
-
 * 11月19日(土)
    * `オープンソースカンファレンス2016 Fukuoka <http://www.ospn.jp/osc2016-fukuoka/>`_ [参加]
+
+* 11月20日（日）
+   * `第7回九州LibreOffice勉強会 <http://connpass.com/event/44950/>`_ [参加]
 
 * 11月21日（月）
    * `Mautic Meetup KOBE #01 <https://www.meetup.com/Mautic-Meetup-Kobe/events/234911614/>`_
@@ -35,7 +35,7 @@
    * `JISTA関西「プチ」オープンフォーラム2016 <https://www.jista.org/modules/eguide/event.php?eid=23>`_
 
 * 12月10日（土）
-   * `LibreOffice Kaigi 2016.12 <http://libojapan.connpass.com/event/42685/>`_ [参加]
+   * `LibreOffice Kaigi 2016.12 <http://libojapan.connpass.com/event/42685/>`_ [参加] `LibreOffice Kaigi/Mini Debian Conf 懇親会 <http://connpass.com/event/44587/>`_ [参加]
 
 * 12月10日（土）
    * `Mini Debian Conference Japan 2016 <http://miniconf.debian.or.jp/>`_
@@ -55,6 +55,9 @@
 
 * 1月27日（金）-28日（土）
    * オープンソースカンファレンス2017 Osaka [参加予定]
+
+* 1月29日（日）
+   * openSUSE集まり
 
 * 2月12日（日）
    * オープンソースカンファレンス 2017 Hamanako [参加予定]

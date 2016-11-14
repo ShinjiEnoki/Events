@@ -4,6 +4,9 @@
 2016年
 ^^^^^^
 
+* 11月11日（金）-12日（土）
+   * `関西オープンフォーラム2016 <https://k-of.jp/2016/>`_  `KOF2016懇親会 <http://k-of2016.peatix.com/>`_
+
 * 11月7日（月）
    * `OSSAJ ミニセミナー「LibreOfficeコミュニティのエコシステムはどのように作られているのか？ <http://www.ossaj.org/seminar/161107/ossaj_seminar_20161107_brochure.html>`_
 
