@@ -40,6 +40,9 @@
 * 12月10日（土）
    * `Mini Debian Conference Japan 2016 <http://miniconf.debian.or.jp/>`_
 
+* 12月11日（日）
+   * `LibreOffice HackFest Tokyo 2016.12 <http://libojapan.connpass.com/event/45286/>`_ [参加]
+
 * 12月15日（木）
    * `Nagoya.Testing in Tokyo -テストを強いられている人達の話 <http://connpass.com/event/40538/>`_
 

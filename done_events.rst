@@ -4,6 +4,9 @@
 2016年
 ^^^^^^
 
+* 11月16日(水)
+   * `LibreOfficeの日 vol.34 @ JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/53791/>`_
+
 * 11月11日（金）-12日（土）
    * `関西オープンフォーラム2016 <https://k-of.jp/2016/>`_  `KOF2016懇親会 <http://k-of2016.peatix.com/>`_
 
@@ -110,7 +113,7 @@
    * JISTA関西2016年7月度定例会
 
 * 7月20日（水）
-   * `Linux初心者もくもく勉強会の日 in JUSO Coworking  <https://saku-love.doorkeeper.jp/events/47277>`_
+   * `Linux初心者もくもく勉強会の日 in JUSO Coworking 2016-07-20 <https://saku-love.doorkeeper.jp/events/47277>`_
 
 * 7月20日（水）
    * `LibreOfficeの日 vol.30 JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/47688>`_
@@ -152,7 +155,7 @@
    * `IDCFクラウドMeetup！in Osaka vol.2 <https://idcfugosaka.doorkeeper.jp/events/46586>`_
 
 * 6月17日（金）
-   * `オープンソースカンファレンス2016 Hokkaido <http://www.ospn.jp/osc2016-do/>`_  `懇親会 <https://osc-do.doorkeeper.jp/events/42323>`_ 
+   * `オープンソースカンファレンス2016 Hokkaido <http://www.ospn.jp/osc2016-do/>`_  `OSC2016北海道懇親会 <https://osc-do.doorkeeper.jp/events/42323>`_ 
 * 6月18日（土）
    * `OSC北海道金曜日交流会 <https://osc-do.doorkeeper.jp/events/45492>`_
 
@@ -828,7 +831,7 @@
    * 小笠原さんとLibreOfficeのもくもく会
 
 * 7月19日（土）
-   * 日本UNIXユーザ会総会と `併設勉強会 <http://japanunixsociety.doorkeeper.jp/events/12071>`_ , `jus勉強会懇親会 <http://japanunixsociety.doorkeeper.jp/events/12072>`_
+   * 日本UNIXユーザ会総会と `併設勉強会 <http://japanunixsociety.doorkeeper.jp/events/12071>`_ , `jus勉強会懇親会7/19 <http://japanunixsociety.doorkeeper.jp/events/12072>`_
 
 * 7月16日（水）
    * `十三コワーキングLibreOfficeの日vol.6 <http://juso-coworking.doorkeeper.jp/events/13210>`_
