@@ -23,6 +23,9 @@
    * ウィキペディア・タウン in 伊丹
 
 * 12月2日（金）
+   * `京都アジャイル勉強会 The忘年会 2016 <http://connpass.com/event/45010/>`_
+
+* 12月2日（金）
    * `JaSST'16 Tokai <http://www.jasst.jp/symposium/jasst16tokai.html>`_ [参加検討中]
 
 * 12月3日（土）
@@ -57,18 +60,39 @@
 ^^^^^^^
 
 * 1月27日（金）-28日（土）
-   * オープンソースカンファレンス2017 Osaka [参加予定]
+   * `オープンソースカンファレンス2017 Osaka <http://www.ospn.jp/osc2017-osaka/>`_ [参加予定]
 
 * 1月29日（日）
    * openSUSE集まり
 
 * 2月12日（日）
-   * オープンソースカンファレンス 2017 Hamanako [参加予定]
+   * `オープンソースカンファレンス 2017 Hamanako <http://www.ospn.jp/osc2017-hamanako/>`_ [参加予定]
 
 * 2月23日（木）
    * テスト設計コンテスト決勝
 
+* 3月10日（金）-11（土） 調整中
+   * `オープンソースカンファレンス2017 Tokyo/Spring <http://www.ospn.jp/osc2017-spring/>`_
+
+* 5月27日（土）
+   * `オープンソースカンファレンス2017 Nagoya <http://www.ospn.jp/osc2017-nagoya/>`_
+
+* 6月17日（土）
+   * `オープンソースカンファレンス2017 Okinawa <http://www.ospn.jp/osc2017-okinawa/>`_
+
+* 7月14日（金）-15日（土）
+   * `オープンソースカンファレンス2017 Hokkaido <http://www.ospn.jp/osc2017-do/>`_
+
 * 7月15日（土）-16日（日）調整中
    * JSDG全国大会 in 姫路
+
+* 9月26日（火）
+   * LibreOffice Conference コミュニティミーティング
+
+* 9月27日（水）-29日（金）
+   * LibreOffice Conference 2017 in Rome
+
+* 11月10日（金）-11日（土）
+   * `関西オープンフォーラム 2017 <https://k-of.jp/>`_
 
 
