@@ -4,6 +4,24 @@
 2016年
 ^^^^^^
 
+* 12月3日（土）
+   * テスト設計コンテスト東海予選 [参加]
+
+* 12月2日（金）
+   * `JaSST'16 Tokai <http://www.jasst.jp/symposium/jasst16tokai.html>`_
+
+* 11月27日(日)
+   * `オープンソースカンファレンス2016 Hiroshima <http://www.ospn.jp/osc2016-hiroshima/>`_
+
+* 11月21日（月）
+   * `Mautic Meetup KOBE #01 <https://www.meetup.com/Mautic-Meetup-Kobe/events/234911614/>`_
+
+* 11月20日（日）
+   * `第7回九州LibreOffice勉強会 <http://connpass.com/event/44950/>`_
+
+* 11月19日(土)
+   * `オープンソースカンファレンス2016 Fukuoka <http://www.ospn.jp/osc2016-fukuoka/>`_
+
 * 11月16日(水)
    * `LibreOfficeの日 vol.34 @ JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/53791/>`_
 

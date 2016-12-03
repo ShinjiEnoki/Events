@@ -4,38 +4,14 @@
 2016年
 ^^^^^^
 
-* 11月19日(土)
-   * `オープンソースカンファレンス2016 Fukuoka <http://www.ospn.jp/osc2016-fukuoka/>`_ [参加]
-
-* 11月20日（日）
-   * `第7回九州LibreOffice勉強会 <http://connpass.com/event/44950/>`_ [参加]
-
-* 11月21日（月）
-   * `Mautic Meetup KOBE #01 <https://www.meetup.com/Mautic-Meetup-Kobe/events/234911614/>`_
-
-* 11月25日（金）
-   * `スクラム道関西★大忘年会2016 <http://scrumdo-kansai.connpass.com/event/43415/>`_
-
-* 11月27日(日)
-   * `オープンソースカンファレンス2016 Hiroshima <http://www.ospn.jp/osc2016-hiroshima/>`_ [参加]
-
-* 11月27日(日)
-   * ウィキペディア・タウン in 伊丹
-
-* 12月2日（金）
-   * `京都アジャイル勉強会 The忘年会 2016 <http://connpass.com/event/45010/>`_
-
-* 12月2日（金）
-   * `JaSST'16 Tokai <http://www.jasst.jp/symposium/jasst16tokai.html>`_ [参加検討中]
-
-* 12月3日（土）
-   * テスト設計コンテスト東海予選 [参加予定]
-
 * 12月4日(日)
-   * ウィキペディア・タウン in 伊丹2 [参加予定]
+   * ウィキペディア・タウン in 伊丹2 [参加]
 
 * 12月4日（日）
    * `JISTA関西「プチ」オープンフォーラム2016 <https://www.jista.org/modules/eguide/event.php?eid=23>`_
+
+* 12月7日（水）
+   * `TechLION vol.28 <http://techlion.jp/vol28>`_
 
 * 12月10日（土）
    * `LibreOffice Kaigi 2016.12 <http://libojapan.connpass.com/event/42685/>`_ [参加] `LibreOffice Kaigi/Mini Debian Conf 懇親会 <http://connpass.com/event/44587/>`_ [参加]
@@ -50,14 +26,22 @@
    * `Nagoya.Testing in Tokyo -テストを強いられている人達の話 <http://connpass.com/event/40538/>`_
 
 * 12月17日（土）
-   * Code for Kyoto イベント
+   * `アーバンデータチャレンジ2016 Vol.2 Code for Kyoto <https://code4kyoto.connpass.com/event/45840/>`_ [参加]
 
 * 12月17日（土）-18日（日）
    * `WACATE 2016冬 <http://wacate.jp/>`_
 
+* 12月23日（金）
+   * `NSC Training in Keihanna <https://nsc.connpass.com/event/45843/>`_
+
+* 12月25日（日）
+   * 関西Debian勉強会
 
 2017年
 ^^^^^^^
+
+* 1月7日（土）予定：場所抑える
+   * LILO/東海道らぐ
 
 * 1月27日（金）-28日（土）
    * `オープンソースカンファレンス2017 Osaka <http://www.ospn.jp/osc2017-osaka/>`_ [参加予定]
