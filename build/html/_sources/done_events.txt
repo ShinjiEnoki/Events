@@ -4,8 +4,41 @@
 2016年
 ^^^^^^
 
+* 12月23日（金）
+   * てすにゃんオフラインミーティングi2016/12/23
+
+* 12月21日（水）
+   * `いろいろ初心者もくもく勉強会の日 in JUSO Coworking 2016/12/21 <https://saku-love.doorkeeper.jp/events/54656>`_
+
+* 12月21日（水）
+   * `LibreOfficeの日 vol.35 @ JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/55618>`_
+
+* 12月18日（日）
+   * 和歌山でのオープンデータソンミーティング
+
+* 12月17日（土）
+   * `アーバンデータチャレンジ2016 Vol.2 Code for Kyoto <https://code4kyoto.connpass.com/event/45840/>`_
+
+* 12月11日（日）
+   * `LibreOffice HackFest Tokyo 2016.12 <http://libojapan.connpass.com/event/45286/>`_
+
+* 12月10日（土）
+   * `LibreOffice Kaigi 2016.12 <http://libojapan.connpass.com/event/42685/>`_ `LibreOffice Kaigi/Mini Debian Conf 懇親会 <http://connpass.com/event/44587/>`_
+
+* 12月10日（土）
+   * `Mini Debian Conference Japan 2016 <http://miniconf.debian.or.jp/>`_
+
+* 12月9日（金）
+   * `Franklin Weng氏とディナー <https://kantolibo.connpass.com/event/46597/>`_
+
+* 12月7日（水）
+   * `「TechLION vol.28」パブリックビューイング＠大阪 <https://atnd.org/events/83583>`_
+
+* 12月4日(日)
+   * ウィキペディア・タウン in 伊丹2
+
 * 12月3日（土）
-   * テスト設計コンテスト東海予選 [参加]
+   * `テスト設計コンテスト東海予選 <http://aster.or.jp/business/contest/schedule.html>`_ , `テスコン東海予選懇親会 <http://www.kokuchpro.com/event/TDC17TOKAIQR/>`_
 
 * 12月2日（金）
    * `JaSST'16 Tokai <http://www.jasst.jp/symposium/jasst16tokai.html>`_
@@ -33,6 +66,9 @@
 
 * 11月5日（土）-6日（日）
    * `オープンソースカンファレンス 2016 Tokyo/Fall <http://www.ospn.jp/osc2016-fall/>`_
+
+* 11月3日（木）
+   * てすにゃんオフラインミーティング(リスクマップなど)2016/11/03
 
 * 10月19日（水）
    * `LibreOfficeの日 vol.33 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/52730>`_
