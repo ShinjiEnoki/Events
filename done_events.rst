@@ -4,6 +4,12 @@
 2017年
 ^^^^^^
 
+* 1月18日（水）
+   * `LibreOfficeの日 vol.36 @ JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/55631>`_
+
+* 1月14日（土）
+   * `WARAI・テストアーキテクチャを議論する会(2017/1/14) <https://warai.connpass.com/event/47368/>`_
+
 * 1月8日（日）
    * てすにゃんオフラインミーティング
 
