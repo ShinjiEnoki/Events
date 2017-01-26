@@ -43,11 +43,17 @@
 * 2月25日（土）
    * `OSS Gate大阪ワークショップ2017-02-25 <https://oss-gate.doorkeeper.jp/events/56141>`_ [参加]
 
+* 2月25日（土）
+   * `セキュリティ・ミニキャンプ in 近畿 2017 （京都 ） 一般講座 <https://sites.google.com/cysec.cs.ritsumei.ac.jp/camp/>`_
+
 * 3月4日（土）
    * オープンデータディin京都
 
 * 3月5日（日）
    * ウィキペディアタウン、ファシリテーター養成講座
+
+* 3月9日（木）
+   * `3/9 東京TOCクラブ ~相手の心理的抵抗の壁を取り除くには~ <http://www.kokuchpro.com/event/89a3c84efb71f764aa9c1f978961e658/>`_
 
 * 3月10日（金）-11（土） 
    * `オープンソースカンファレンス2017 Tokyo/Spring <http://www.ospn.jp/osc2017-spring/>`_ [参加予定]
