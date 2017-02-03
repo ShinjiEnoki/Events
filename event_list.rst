@@ -4,20 +4,8 @@
 2017年
 ^^^^^^^
 
-* 1月28日（土）
-   * `オープンソースカンファレンス2017 Osaka <http://www.ospn.jp/osc2017-osaka/>`_ [参加]
-
-* 1月29日（日）
-   * `関西 Debian 勉強会 + openSUSE Meetup + LILO & 東海道らぐLT大会 <https://opensuseja.connpass.com/event/47907/>`_ [参加]
-
-* 2月1日（水）
-   * ユーザーテストミニワークショップ in JUSO
-
-* 2月3日（金）
-   * `テスト分析とテスト設計勉強会 <https://connpass.com/event/47938/>`_
-
-* 2月3日（金）-4日（土）
-   * `JaSST '17 Tokyo <http://jasst.jp/symposium/jasst17tokyo.html>`_
+* 2月4日（土）
+   * `Regional Scrum Gathering Tokyo 2017 報告会 <https://devlove-kansai.doorkeeper.jp/events/56663>`_ [参加]
 
 * 2月6日（月）
    * `KIIS 第2回サイバーセキュリティセミナー・身近な脅威「内部不正」 <http://www.kiis.or.jp/cybersecurity/170206seminar/>`_
@@ -31,11 +19,20 @@
 * 2月12日（日）
    * `オープンソースカンファレンス 2017 Hamanako <http://www.ospn.jp/osc2017-hamanako/>`_ [参加予定]
 
+* 2月15日（水）
+   * LibreOfficeの日 vol.37 in JUSO Coworking [参加]
+
+* 2月15日（水）
+   * `いろいろ初心者もくもく勉強会の日 in JUSO Coworking <https://saku-love.doorkeeper.jp/events/56642>`_ [参加]
+
 * 2月18日（土）
    * `オープンデータソンin和歌山市 <http://wida.jp/2017/01/15/odtinwakayama/>`_ [参加]
 
 * 2月18日（土）
    * WARAI 若手中心
+
+* 2月21日（火）
+   * `第15回 IDDD読書会 <https://iddd.connpass.com/event/49701/>`_
 
 * 2月23日（木）
    * テスト設計コンテスト決勝 [参加予定]
@@ -59,7 +56,7 @@
    * `オープンソースカンファレンス2017 Tokyo/Spring <http://www.ospn.jp/osc2017-spring/>`_ [参加予定]
 
 * 3月19日（日）-20日（月）
-   * jus拡大幹事会
+   * jus拡大幹事会 [参加予定]
 
 * 3月26日（日）
    * `TOC/TOCfEボツネタシンポジウム2017 <https://tocfe-kansai.doorkeeper.jp/events/56745>`_

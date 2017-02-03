@@ -4,6 +4,15 @@
 2017年
 ^^^^^^
 
+* 2月1日（水）
+   * ユーザーテストミニワークショップ in JUSO
+
+* 1月29日（日）
+   * `関西 Debian 勉強会 + openSUSE Meetup + LILO & 東海道らぐLT大会 <https://opensuseja.connpass.com/event/47907/>`_
+
+* 1月28日（土）
+   * `オープンソースカンファレンス2017 Osaka <http://www.ospn.jp/osc2017-osaka/>`_
+
 * 1月18日（水）
    * `LibreOfficeの日 vol.36 @ JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/55631>`_
 
