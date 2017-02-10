@@ -4,6 +4,9 @@
 2017年
 ^^^^^^
 
+* 2月4日（土）
+   * `Regional Scrum Gathering Tokyo 2017 報告会 <https://devlove-kansai.doorkeeper.jp/events/56663>`_
+
 * 2月1日（水）
    * ユーザーテストミニワークショップ in JUSO
 
