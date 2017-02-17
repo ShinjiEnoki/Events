@@ -4,25 +4,6 @@
 2017年
 ^^^^^^^
 
-
-* 2月11日（土）
-   * `第6回浜名湖LibreOffice勉強会 <https://connpass.com/event/50183/>`_ [参加]
-
-* 2月11日（土）
-   * `【懇親会＆前夜祭】Android浜松支部&Libreoffice浜名湖&OSC浜名湖2017 <https://jaghama.connpass.com/event/49274/>`_ [参加]
-
-* 2月12日（日）
-   * `オープンソースカンファレンス 2017 Hamanako <http://www.ospn.jp/osc2017-hamanako/>`_ [参加予定]
-
-* 2月15日（水）
-   * `LibreOfficeの日 vol.37 in JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/57265>`_ [参加]
-
-* 2月15日（水）
-   * `いろいろ初心者もくもく勉強会の日 in JUSO Coworking <https://saku-love.doorkeeper.jp/events/56642>`_ [参加]
-
-* 2月15日（水）
-   * `もくもくマッピング！ #03 <https://countries-romantic.connpass.com/event/50018/>`_ [参加]
-
 * 2月18日（土）
    * `オープンデータソンin和歌山市 <http://wida.jp/2017/01/15/odtinwakayama/>`_ [参加]
 
@@ -33,7 +14,7 @@
    * `第15回 IDDD読書会 <https://iddd.connpass.com/event/49701/>`_
 
 * 2月23日（木）
-   * テスト設計コンテスト決勝 [参加予定]
+   * `テスト設計コンテスト決勝 <http://aster.or.jp/business/contest/schedule.html#schedule3>`_ [参加] `懇親会 <http://www.kokuchpro.com/event/TDcontest17Final/>`_
 
 * 2月25日（土）
    * `OSS Gate大阪ワークショップ2017-02-25 <https://oss-gate.doorkeeper.jp/events/56141>`_ [参加]
@@ -42,16 +23,16 @@
    * `セキュリティ・ミニキャンプ in 近畿 2017 （京都 ） 一般講座 <https://sites.google.com/cysec.cs.ritsumei.ac.jp/camp/>`_
 
 * 3月4日（土）
-   * オープンデータディin京都
+   * `インターナショナルオープンデータディ2017 in 京都 <https://opendatakyoto.connpass.com/event/51423/>`_ [参加]
 
 * 3月5日（日）
-   * ウィキペディアタウン、ファシリテーター養成講座
+   * ウィキペディアタウン、ファシリテーター養成講座 [参加]
 
 * 3月9日（木）
    * `3/9 東京TOCクラブ ~相手の心理的抵抗の壁を取り除くには~ <http://www.kokuchpro.com/event/89a3c84efb71f764aa9c1f978961e658/>`_
 
 * 3月10日（金）-11（土） 
-   * `オープンソースカンファレンス2017 Tokyo/Spring <http://www.ospn.jp/osc2017-spring/>`_ [参加予定]
+   * `オープンソースカンファレンス2017 Tokyo/Spring <http://www.ospn.jp/osc2017-spring/>`_ [参加]
 
 * 3月17日（金）
    * `Security Days Spring 2017 <https://reg.f2ff.jp/public/application/add/523>`_
@@ -69,7 +50,7 @@
    * `オープンソースカンファレンス2017 Okinawa <http://www.ospn.jp/osc2017-okinawa/>`_
 
 * 7月8日（土）
-   * 西国街道シリーズ：伊丹オープンデータソン
+   * 西国街道シリーズ：伊丹オープンデータソン [参加予定]
 
 * 7月14日（金）-15日（土）
    * `オープンソースカンファレンス2017 Hokkaido <http://www.ospn.jp/osc2017-do/>`_

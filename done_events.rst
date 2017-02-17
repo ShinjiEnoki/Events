@@ -4,6 +4,24 @@
 2017年
 ^^^^^^
 
+* 2月15日（水）
+   * `もくもくマッピング！ #03 <https://countries-romantic.connpass.com/event/50018/>`_
+
+* 2月15日（水）
+   * `いろいろ初心者もくもく勉強会の日 in JUSO Coworking <https://saku-love.doorkeeper.jp/events/56642>`_
+
+* 2月15日（水）
+   * `LibreOfficeの日 vol.37 in JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/57265>`_
+
+* 2月12日（日）
+   * `オープンソースカンファレンス 2017 Hamanako <http://www.ospn.jp/osc2017-hamanako/>`_
+
+* 2月11日（土）
+   * `第6回浜名湖LibreOffice勉強会 <https://connpass.com/event/50183/>`_
+
+* 2月11日（土）
+   * `【懇親会＆前夜祭】Android浜松支部&Libreoffice浜名湖&OSC浜名湖2017 <https://jaghama.connpass.com/event/49274/>`_
+
 * 2月4日（土）
    * `Regional Scrum Gathering Tokyo 2017 報告会 <https://devlove-kansai.doorkeeper.jp/events/56663>`_
 
