@@ -4,6 +4,9 @@
 2017年
 ^^^^^^
 
+* 2月18日（土）
+   * `オープンデータソンin和歌山市 <http://wida.jp/2017/01/15/odtinwakayama/>`_
+
 * 2月15日（水）
    * `もくもくマッピング！ #03 <https://countries-romantic.connpass.com/event/50018/>`_
 

@@ -4,14 +4,8 @@
 2017年
 ^^^^^^^
 
-* 2月18日（土）
-   * `オープンデータソンin和歌山市 <http://wida.jp/2017/01/15/odtinwakayama/>`_ [参加]
-
-* 2月18日（土）
-   * WARAI 若手中心
-
-* 2月21日（火）
-   * `第15回 IDDD読書会 <https://iddd.connpass.com/event/49701/>`_
+* 2月22日（水）
+   * `TechLION vol.29　～ 多彩なキャリアを持つスターエンジニアたちがついに登壇！ ～ <https://techlion.doorkeeper.jp/events/56245>`_
 
 * 2月23日（木）
    * `テスト設計コンテスト決勝 <http://aster.or.jp/business/contest/schedule.html#schedule3>`_ [参加] `懇親会 <http://www.kokuchpro.com/event/TDcontest17Final/>`_
@@ -43,6 +37,9 @@
 * 3月26日（日）
    * `TOC/TOCfEボツネタシンポジウム2017 <https://tocfe-kansai.doorkeeper.jp/events/56745>`_
 
+* 4月25日（火）
+   * `DevOpsDays Tokyo 2017 <https://confengine.com/devopsdays-tokyo-2017>`_
+
 * 5月27日（土）
    * `オープンソースカンファレンス2017 Nagoya <http://www.ospn.jp/osc2017-nagoya/>`_
 
@@ -57,6 +54,9 @@
 
 * 7月15日（土）-16日（日）調整中
    * JSDG全国大会 in 姫路
+
+* 8月5日（土）-6日（日）
+   * みんなのサマーセミナー in 尼崎
 
 * 8月12日（土）
    * 西国街道シリーズ：西宮マッピングパーティ [参加予定]
