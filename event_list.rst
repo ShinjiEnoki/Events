@@ -4,18 +4,6 @@
 2017年
 ^^^^^^^
 
-* 2月22日（水）
-   * `TechLION vol.29　～ 多彩なキャリアを持つスターエンジニアたちがついに登壇！ ～ <https://techlion.doorkeeper.jp/events/56245>`_
-
-* 2月23日（木）
-   * `テスト設計コンテスト決勝 <http://aster.or.jp/business/contest/schedule.html#schedule3>`_ [参加] `懇親会 <http://www.kokuchpro.com/event/TDcontest17Final/>`_
-
-* 2月25日（土）
-   * `OSS Gate大阪ワークショップ2017-02-25 <https://oss-gate.doorkeeper.jp/events/56141>`_ [参加]
-
-* 2月25日（土）
-   * `セキュリティ・ミニキャンプ in 近畿 2017 （京都 ） 一般講座 <https://sites.google.com/cysec.cs.ritsumei.ac.jp/camp/>`_
-
 * 3月4日（土）
    * `インターナショナルオープンデータディ2017 in 京都 <https://opendatakyoto.connpass.com/event/51423/>`_ [参加]
 
@@ -27,6 +15,9 @@
 
 * 3月10日（金）-11（土） 
    * `オープンソースカンファレンス2017 Tokyo/Spring <http://www.ospn.jp/osc2017-spring/>`_ [参加]
+
+* 3月12日（日）
+   * `関東LibreOffice（以外も歓迎） HackFest(#9) <https://kantolibo.connpass.com/event/43814/>`_ [参加]
 
 * 3月17日（金）
    * `Security Days Spring 2017 <https://reg.f2ff.jp/public/application/add/523>`_

@@ -3,6 +3,11 @@
 
 2017年
 ^^^^^^
+* 2月25日（土）
+   * `OSS Gate大阪ワークショップ2017-02-25 <https://oss-gate.doorkeeper.jp/events/56141>`_
+
+* 2月23日（木）
+   * `テスト設計コンテスト決勝 <http://aster.or.jp/business/contest/schedule.html#schedule3>`_  `懇親会 <http://www.kokuchpro.com/event/TDcontest17Final/>`_
 
 * 2月18日（土）
    * `オープンデータソンin和歌山市 <http://wida.jp/2017/01/15/odtinwakayama/>`_
