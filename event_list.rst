@@ -19,6 +19,12 @@
 * 3月12日（日）
    * `関東LibreOffice（以外も歓迎） HackFest(#9) <https://kantolibo.connpass.com/event/43814/>`_ [参加]
 
+* 3月14日（火）
+   * `第3回「アジャイルな見積りと計画づくり」読書会 <https://shin-osaka-agile.connpass.com/event/51994/>`_ [参加]
+
+* 3月15日（水）
+   * LibreOfficeの日vol.38@JUSO Coworking
+
 * 3月17日（金）
    * `Security Days Spring 2017 <https://reg.f2ff.jp/public/application/add/523>`_
 
