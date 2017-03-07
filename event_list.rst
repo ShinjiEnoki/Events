@@ -4,14 +4,8 @@
 2017年
 ^^^^^^^
 
-* 3月4日（土）
-   * `インターナショナルオープンデータディ2017 in 京都 <https://opendatakyoto.connpass.com/event/51423/>`_ [参加]
-
-* 3月5日（日）
-   * ウィキペディアタウン、ファシリテーター養成講座 [参加]
-
 * 3月8日（水）
-   * `もくもくマッピング！ #04 <https://countries-romantic.connpass.com/event/51998/>`_
+   * `もくもくマッピング！ #04 <https://countries-romantic.connpass.com/event/51998/>`_ [参加]
 
 * 3月9日（木）
    * `3/9 東京TOCクラブ ~相手の心理的抵抗の壁を取り除くには~ <http://www.kokuchpro.com/event/89a3c84efb71f764aa9c1f978961e658/>`_
@@ -34,11 +28,24 @@
 * 3月18日（土）
    * `成功と失敗に学ぶシステム開発＠大阪 <http://sec.ipa.go.jp/seminar/20170318.html>`_
 
+* 3月18日（土）
+   * `OSC大阪実行委員会 2018年キックオフ飲み会 <https://connpass.com/event/52249/>`_
+
+
 * 3月19日（日）-20日（月）
    * jus拡大幹事会 [参加予定]
 
+* 3月21日（火）
+   * `企業のコミュニティ担当者交流会 #002 <https://communitan.connpass.com/event/52272/>`_
+
+* 3月22日（水）
+   * `安達賢二さん講演会！ <https://warai.connpass.com/event/52676/>`_ [参加]
+
 * 3月26日（日）
    * `TOC/TOCfEボツネタシンポジウム2017 <https://tocfe-kansai.doorkeeper.jp/events/56745>`_
+
+* 4月1日（土）
+   * `【西国街道#02】山崎蒸溜所と桜マッピングパーティ <https://countries-romantic.connpass.com/event/52292/>`_ [参加]
 
 * 4月25日（火）
    * `DevOpsDays Tokyo 2017 <https://confengine.com/devopsdays-tokyo-2017>`_
@@ -69,6 +76,9 @@
 
 * 8月12日（土）
    * 西国街道シリーズ：西宮マッピングパーティ [参加予定]
+
+* 8月18日（金）-20日（日）
+   * `State of the Map 2017 <http://wiki.openstreetmap.org/wiki/State_of_the_Map_2017>`_
 
 * 9月26日（火）
    * LibreOffice Conference コミュニティミーティング

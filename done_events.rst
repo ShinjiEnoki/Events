@@ -3,6 +3,13 @@
 
 2017年
 ^^^^^^
+
+* 3月5日（日）
+   * `ウィキペディアタウンサミット 2017 京都 <https://ja.wikipedia.org/wiki/Wikipedia:%E3%82%AA%E3%83%95%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/%E9%96%A2%E8%A5%BF/%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%82%BF%E3%82%A6%E3%83%B3%E3%82%B5%E3%83%9F%E3%83%83%E3%83%88_2017_%E4%BA%AC%E9%83%BD>`_
+
+* 3月4日（土）
+   * `インターナショナルオープンデータディ2017 in 京都 <https://opendatakyoto.connpass.com/event/51423/>`_
+
 * 2月25日（土）
    * `OSS Gate大阪ワークショップ2017-02-25 <https://oss-gate.doorkeeper.jp/events/56141>`_
 
