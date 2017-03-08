@@ -4,9 +4,6 @@
 2017年
 ^^^^^^^
 
-* 3月8日（水）
-   * `もくもくマッピング！ #04 <https://countries-romantic.connpass.com/event/51998/>`_ [参加]
-
 * 3月9日（木）
    * `3/9 東京TOCクラブ ~相手の心理的抵抗の壁を取り除くには~ <http://www.kokuchpro.com/event/89a3c84efb71f764aa9c1f978961e658/>`_
 
@@ -20,7 +17,7 @@
    * `第3回「アジャイルな見積りと計画づくり」読書会 <https://shin-osaka-agile.connpass.com/event/51994/>`_ [参加]
 
 * 3月15日（水）
-   * LibreOfficeの日vol.38@JUSO Coworking
+   * `LibreOfficeの日vol.38@JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/58403>`_ [参加]
 
 * 3月17日（金）
    * `Security Days Spring 2017 <https://reg.f2ff.jp/public/application/add/523>`_
@@ -36,7 +33,7 @@
    * jus拡大幹事会 [参加予定]
 
 * 3月21日（火）
-   * `企業のコミュニティ担当者交流会 #002 <https://communitan.connpass.com/event/52272/>`_
+   * `企業のコミュニティ担当者交流会 #002 <https://communitan.connpass.com/event/52272/>`_ [参加]
 
 * 3月22日（水）
    * `安達賢二さん講演会！ <https://warai.connpass.com/event/52676/>`_ [参加]
@@ -46,6 +43,9 @@
 
 * 4月1日（土）
    * `【西国街道#02】山崎蒸溜所と桜マッピングパーティ <https://countries-romantic.connpass.com/event/52292/>`_ [参加]
+
+* 4月23日（土）
+   * `第32回まっちゃ１３９勉強会 <http://www.matcha139.jp/workshop/32thworkshop>`_
 
 * 4月25日（火）
    * `DevOpsDays Tokyo 2017 <https://confengine.com/devopsdays-tokyo-2017>`_
