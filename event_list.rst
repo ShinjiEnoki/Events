@@ -28,12 +28,11 @@
 * 3月18日（土）
    * `OSC大阪実行委員会 2018年キックオフ飲み会 <https://connpass.com/event/52249/>`_
 
-
 * 3月19日（日）-20日（月）
    * jus拡大幹事会 [参加予定]
 
 * 3月21日（火）
-   * `企業のコミュニティ担当者交流会 #002 <https://communitan.connpass.com/event/52272/>`_ [参加]
+   * `企業のコミュニティ担当者交流会 #002 <https://communitan.connpass.com/event/52272/>`_ [抽選まち]
 
 * 3月22日（水）
    * `安達賢二さん講演会！ <https://warai.connpass.com/event/52676/>`_ [参加]
@@ -44,7 +43,10 @@
 * 4月1日（土）
    * `【西国街道#02】山崎蒸溜所と桜マッピングパーティ <https://countries-romantic.connpass.com/event/52292/>`_ [参加]
 
-* 4月23日（土）
+* 4月22日（土）
+   * OSS Gate関西 [参加予定]
+
+* 4月23日（日）
    * `第32回まっちゃ１３９勉強会 <http://www.matcha139.jp/workshop/32thworkshop>`_
 
 * 4月25日（火）
