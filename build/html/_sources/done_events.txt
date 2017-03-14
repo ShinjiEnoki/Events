@@ -4,6 +4,12 @@
 2017年
 ^^^^^^
 
+* 3月12日（日）
+   * `関東LibreOffice（以外も歓迎） HackFest(#9) <https://kantolibo.connpass.com/event/43814/>`_
+
+* 3月10日（金）-11（土） 
+   * `オープンソースカンファレンス2017 Tokyo/Spring <http://www.ospn.jp/osc2017-spring/>`_
+
 * 3月8日（水）
    * `もくもくマッピング！ #04 <https://countries-romantic.connpass.com/event/51998/>`_
 

@@ -4,15 +4,6 @@
 2017年
 ^^^^^^^
 
-* 3月9日（木）
-   * `3/9 東京TOCクラブ ~相手の心理的抵抗の壁を取り除くには~ <http://www.kokuchpro.com/event/89a3c84efb71f764aa9c1f978961e658/>`_
-
-* 3月10日（金）-11（土） 
-   * `オープンソースカンファレンス2017 Tokyo/Spring <http://www.ospn.jp/osc2017-spring/>`_ [参加]
-
-* 3月12日（日）
-   * `関東LibreOffice（以外も歓迎） HackFest(#9) <https://kantolibo.connpass.com/event/43814/>`_ [参加]
-
 * 3月14日（火）
    * `第3回「アジャイルな見積りと計画づくり」読書会 <https://shin-osaka-agile.connpass.com/event/51994/>`_ [参加]
 
@@ -51,6 +42,9 @@
 
 * 4月25日（火）
    * `DevOpsDays Tokyo 2017 <https://confengine.com/devopsdays-tokyo-2017>`_
+
+* 4月29日
+   * 第13回関西LibreOffice勉強会
 
 * 5月26日（金）
    * `派生開発カンファレンス2017 <http://affordd.jp/call_for_contributions_2017.shtml>`_
