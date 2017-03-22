@@ -4,6 +4,21 @@
 2017年
 ^^^^^^
 
+* 3月21日（火）
+   * `企業のコミュニティ担当者交流会 #002 <https://communitan.connpass.com/event/52272/>`_
+
+* 3月19日（日）-20日（月）
+   * jus拡大幹事会
+
+* 3月18日（土）
+   * `成功と失敗に学ぶシステム開発＠大阪 <http://sec.ipa.go.jp/seminar/20170318.html>`_
+
+* 3月15日（水）
+   * `LibreOfficeの日vol.38@JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/58403>`_
+
+* 3月14日（火）
+   * `第3回「アジャイルな見積りと計画づくり」読書会 <https://shin-osaka-agile.connpass.com/event/51994/>`_
+
 * 3月12日（日）
    * `関東LibreOffice（以外も歓迎） HackFest(#9) <https://kantolibo.connpass.com/event/43814/>`_
 
