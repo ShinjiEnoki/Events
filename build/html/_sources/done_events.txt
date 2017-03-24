@@ -4,6 +4,9 @@
 2017年
 ^^^^^^
 
+* 3月22日（水）
+   * `安達賢二さん講演会！ <https://warai.connpass.com/event/52676/>`_
+
 * 3月21日（火）
    * `企業のコミュニティ担当者交流会 #002 <https://communitan.connpass.com/event/52272/>`_
 
