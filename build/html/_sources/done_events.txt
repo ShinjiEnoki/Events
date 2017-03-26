@@ -4,6 +4,12 @@
 2017年
 ^^^^^^
 
+* 3月26日（日）
+   * `TOC/TOCfEボツネタシンポジウム2017 <https://tocfe-kansai.doorkeeper.jp/events/56745>`_  `【懇親会】TOC/TOCfEボツネタシンポジウム2017 <https://tocfe-kansai.doorkeeper.jp/events/57776>`_
+
+* 3月25日（土）
+   * `Redmine大阪 第16回勉強会 <https://redmine-osaka.connpass.com/event/50223/>`_
+
 * 3月22日（水）
    * `安達賢二さん講演会！ <https://warai.connpass.com/event/52676/>`_
 
