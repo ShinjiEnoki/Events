@@ -4,6 +4,12 @@
 2017年
 ^^^^^^
 
+* 3月29日（水）
+   * スクラム道関西第83回定例会
+
+* 3月28日（火）
+   * `第4回「アジャイルな見積りと計画づくり」読書会 <https://shin-osaka-agile.connpass.com/event/53387/>`_
+
 * 3月26日（日）
    * `TOC/TOCfEボツネタシンポジウム2017 <https://tocfe-kansai.doorkeeper.jp/events/56745>`_  `【懇親会】TOC/TOCfEボツネタシンポジウム2017 <https://tocfe-kansai.doorkeeper.jp/events/57776>`_
 

@@ -4,9 +4,6 @@
 2017年
 ^^^^^^^
 
-* 3月28日（火）
-   * `第4回「アジャイルな見積りと計画づくり」読書会 <https://shin-osaka-agile.connpass.com/event/53387/>`_ [参加]
-
 * 4月1日（土）
    * `【西国街道#02】山崎蒸溜所と桜マッピングパーティ <https://countries-romantic.connpass.com/event/52292/>`_ [参加]
 
