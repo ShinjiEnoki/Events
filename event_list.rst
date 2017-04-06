@@ -4,11 +4,8 @@
 2017年
 ^^^^^^^
 
-* 4月1日（土）
-   * `【西国街道#02】山崎蒸溜所と桜マッピングパーティ <https://countries-romantic.connpass.com/event/52292/>`_ [参加]
-
 * 4月9日（日）
-   * WARAI テスコン報告会 [参加]
+   * `テスト設計勉強会2017-04-09 <https://warai.connpass.com/event/54425/>`_ [参加]
 
 * 4月12日（水）
    * `JAWS DAYSに行きたくても行けなかった人に捧ぐ！AWSユーザーが教えてくれるAWSにまつわる最新事情（行った人もOKよ <https://jawsugosaka.doorkeeper.jp/events/58649>`_
@@ -19,10 +16,16 @@
 * 4月23日（日）
    * `第32回まっちゃ１３９勉強会 <http://www.matcha139.jp/workshop/32thworkshop>`_ [朝から参加]
 
+* 4月23日（日）
+   * `第 122 回関西 Debian 勉強会 <https://debianjp.connpass.com/event/54424/>`_
+
 * 4月25日（火）
    * `DevOpsDays Tokyo 2017 <https://confengine.com/devopsdays-tokyo-2017>`_
 
-* 4月29日
+* 4月27日（木）
+   * `京都アジャイル勉強会 アジャイルコーチング読書会 #1(全4回) <https://connpass.com/event/54772/>`_ [参加]
+
+* 4月29日（土）
    * 第14回関西LibreOffice勉強会 [参加予定]
 
 * 5月26日（金）
