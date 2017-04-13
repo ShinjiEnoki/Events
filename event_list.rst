@@ -4,11 +4,11 @@
 2017年
 ^^^^^^^
 
-* 4月9日（日）
-   * `テスト設計勉強会2017-04-09 <https://warai.connpass.com/event/54425/>`_ [参加]
+* 4月16日（日）
+   * KOF 2017 キックオフミーティング
 
-* 4月12日（水）
-   * `JAWS DAYSに行きたくても行けなかった人に捧ぐ！AWSユーザーが教えてくれるAWSにまつわる最新事情（行った人もOKよ <https://jawsugosaka.doorkeeper.jp/events/58649>`_
+* 4月18日（月）
+   * 豊中・ウィキペディアタウンなどの説明ミーティング
 
 * 4月22日（土）
    * `OSS Gate大阪ワークショップ2017-04-22 <https://oss-gate.doorkeeper.jp/events/58579>`_ [参加]
@@ -26,7 +26,7 @@
    * `京都アジャイル勉強会 アジャイルコーチング読書会 #1(全4回) <https://connpass.com/event/54772/>`_ [参加]
 
 * 4月29日（土）
-   * 第14回関西LibreOffice勉強会 [参加予定]
+   * `第14回関西LibreOffice勉強会 <https://connpass.com/event/53960/>`_ [参加]
 
 * 5月26日（金）
    * `派生開発カンファレンス2017 <http://affordd.jp/call_for_contributions_2017.shtml>`_

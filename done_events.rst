@@ -4,6 +4,9 @@
 2017年
 ^^^^^^
 
+* 4月9日（日）
+   * `テスト設計勉強会2017-04-09 <https://warai.connpass.com/event/54425/>`_
+
 * 4月1日（土）
    * `【西国街道#02】山崎蒸溜所と桜マッピングパーティ <https://countries-romantic.connpass.com/event/52292/>`_
 
