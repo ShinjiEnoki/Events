@@ -19,6 +19,12 @@
 * 5月13日（土）
    * `オープンセミナー2017@岡山 <https://oso.connpass.com/event/53811/>`_
 
+* 5月17日（水）
+   * `もくもくマッピング！ #06 <https://countries-romantic.connpass.com/event/56121/>`_ [参加]
+
+* 5月17日（水）
+   * LibreOfficeの日 [参加]
+
 * 5月20日（土）
    * jus拡大幹事会 [参加]
 
