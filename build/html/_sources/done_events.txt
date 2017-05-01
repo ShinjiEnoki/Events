@@ -4,6 +4,39 @@
 2017年
 ^^^^^^
 
+* 4月29日（土）
+   * `第14回関西LibreOffice勉強会 <https://connpass.com/event/53960/>`_
+
+* 4月27日（木）
+   * `京都アジャイル勉強会 アジャイルコーチング読書会 #1(全4回) <https://connpass.com/event/54772/>`_
+
+* 4月26日（水）
+   * スクラム道関西 第85回定例会
+
+* 4月25日（火）
+   * `第5回「アジャイルな見積りと計画づくり」読書会 <https://shin-osaka-agile.connpass.com/event/55365/>`_
+
+* 4月23日（日）
+   * `第32回まっちゃ１３９勉強会 <http://www.matcha139.jp/workshop/32thworkshop>`_
+
+* 4月22日（土）
+   * `OSS Gate大阪ワークショップ2017-04-22 <https://oss-gate.doorkeeper.jp/events/58579>`_
+
+* 4月20日（木）
+   * Code for Kobe定例会27th
+
+* 4月19日（水）
+   * `もくもくマッピング！ #05  <https://countries-romantic.connpass.com/event/53971/>`_
+
+* 4月19日（水）
+   * `LibreOfficeの日 vol.39 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/59306>`_
+
+* 4月18日（火）
+   * 豊中市岡町図書館・ウィキペディアタウンなどの説明ミーティング
+
+* 4月16日（日）
+   * KOF 2017 キックオフミーティング
+
 * 4月9日（日）
    * `テスト設計勉強会2017-04-09 <https://warai.connpass.com/event/54425/>`_
 

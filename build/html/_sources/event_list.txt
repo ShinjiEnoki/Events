@@ -4,41 +4,53 @@
 2017年
 ^^^^^^^
 
-* 4月16日（日）
-   * KOF 2017 キックオフミーティング
+* 5月4日（木）
+   * `関西LibreOffice HackFest 2017-05-04 <https://connpass.com/event/56383/>`_ [参加]
 
-* 4月18日（月）
-   * 豊中・ウィキペディアタウンなどの説明ミーティング
+* 5月5日（金）
+   * 岡町オープンデータソン下見
 
-* 4月22日（土）
-   * `OSS Gate大阪ワークショップ2017-04-22 <https://oss-gate.doorkeeper.jp/events/58579>`_ [参加]
+* 5月6日（土）
+   * `LILO&東海道らぐオフラインミーティング 2017/05/06 <https://lilo.connpass.com/event/55003/>`_ [参加]
 
-* 4月23日（日）
-   * `第32回まっちゃ１３９勉強会 <http://www.matcha139.jp/workshop/32thworkshop>`_ [朝から参加]
+* 5月13日（土）
+   * WARAI テスト設計勉強会
 
-* 4月23日（日）
-   * `第 122 回関西 Debian 勉強会 <https://debianjp.connpass.com/event/54424/>`_
+* 5月13日（土）
+   * `オープンセミナー2017@岡山 <https://oso.connpass.com/event/53811/>`_
 
-* 4月25日（火）
-   * `DevOpsDays Tokyo 2017 <https://confengine.com/devopsdays-tokyo-2017>`_
+* 5月20日（土）
+   * jus拡大幹事会 [参加]
 
-* 4月27日（木）
-   * `京都アジャイル勉強会 アジャイルコーチング読書会 #1(全4回) <https://connpass.com/event/54772/>`_ [参加]
+* 5月20日（土）
+   * `Python Boot Camp in 神戸 <https://pyconjp.connpass.com/event/55110/>`_
 
-* 4月29日（土）
-   * `第14回関西LibreOffice勉強会 <https://connpass.com/event/53960/>`_ [参加]
+* 5月20日（土）
+   * `越境アジャイル勉強会 - RDRA ☓ DDD ☓ Agile - <https://tagile.doorkeeper.jp/events/59757>`_
 
 * 5月26日（金）
    * `派生開発カンファレンス2017 <http://affordd.jp/call_for_contributions_2017.shtml>`_
 
 * 5月27日（土）
-   * `オープンソースカンファレンス2017 Nagoya <http://www.ospn.jp/osc2017-nagoya/>`_ [参加予定]
+   * `オープンソースカンファレンス2017 Nagoya <http://www.ospn.jp/osc2017-nagoya/>`_ [参加]
 
 * 5月27日（土）
    * 関西Ruby会議
 
+* 5月27日（土）
+   * `OSS Gate大阪ワークショップ2017-05-27 <https://oss-gate.doorkeeper.jp/events/59634>`_
+
+* 6月10日（土）？
+   * アジャイルジャパン大阪サテライト
+
+* 6月17日（土）
+   * `アジャイルジャパン京都サテライト <https://connpass.com/event/55728/>`_ [参加]
+
 * 6月17日（土）
    * `オープンソースカンファレンス2017 Okinawa <http://www.ospn.jp/osc2017-okinawa/>`_
+
+* 6月18日（日）？
+   * 京都オープンデータソン
 
 * 6月23日（金）
    * JaSST関西 [参加予定]
