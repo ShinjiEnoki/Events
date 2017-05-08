@@ -4,6 +4,12 @@
 2017年
 ^^^^^^
 
+* 5月6日（土）
+   * `LILO&東海道らぐオフラインミーティング 2017/05/06 <https://lilo.connpass.com/event/55003/>`_
+
+* 5月4日（木）
+   * `関西LibreOffice HackFest 2017-05-04 <https://connpass.com/event/56383/>`_
+
 * 4月29日（土）
    * `第14回関西LibreOffice勉強会 <https://connpass.com/event/53960/>`_
 
