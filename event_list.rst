@@ -37,6 +37,9 @@
 * 5月26日（金）
    * `派生開発カンファレンス2017 <http://affordd.jp/call_for_contributions_2017.shtml>`_
 
+* 5月26日（金）
+   * `第6回「アジャイルな見積りと計画づくり」読書会 <https://shin-osaka-agile.connpass.com/event/56780/>`_
+
 * 5月27日（土）
    * `オープンソースカンファレンス2017 Nagoya <http://www.ospn.jp/osc2017-nagoya/>`_ [参加]
 
@@ -90,6 +93,9 @@
 
 * 8月18日（金）-20日（日）
    * `State of the Map 2017 <http://wiki.openstreetmap.org/wiki/State_of_the_Map_2017>`_
+
+* 8月19日（土）-20（日）
+   * Open Developers Conference
 
 * 9月26日（火）
    * LibreOffice Conference コミュニティミーティング [参加予定]
