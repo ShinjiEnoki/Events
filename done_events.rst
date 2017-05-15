@@ -4,6 +4,15 @@
 2017年
 ^^^^^^
 
+* 5月13日（土）
+   * `WARAI テスト座談会 <https://connpass.com/event/56160/>`_
+
+* 5月13日（土）
+   * `アジャイルテスト勉強会 2017-05-13 <https://warai.connpass.com/event/56725/>`_
+
+* 5月12日（金）
+   * `京都アジャイル勉強会 アジャイルコーチング読書会 #2 <https://connpass.com/event/56474/>`_
+
 * 5月6日（土）
    * `LILO&東海道らぐオフラインミーティング 2017/05/06 <https://lilo.connpass.com/event/55003/>`_
 
