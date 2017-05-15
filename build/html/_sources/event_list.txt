@@ -10,6 +10,12 @@
 * 5月17日（水）
    * `LibreOfficeの日 vol.40 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/60557>`_ [参加]
 
+* 5月17日（水）
+   * `いろいろ初心者もくもく勉強会の日 in JUSO Coworking 2017-05-17 <https://saku-love.doorkeeper.jp/events/60292>`_
+
+* 5月17日（水）
+   * `Google I/O Extended 2017 Osaka hosted by GDG Kyoto <https://gdgkyoto.connpass.com/event/52947/>`_ 
+
 * 5月18日（木）
    * Code for Kobe定例会28th 
 
