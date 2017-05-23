@@ -4,6 +4,24 @@
 2017年
 ^^^^^^
 
+* 5月20日（土）
+   * jus拡大幹事会
+
+* 5月19日（金）
+   * `第5回 セキュリティ共有勉強会 <https://intra-security.connpass.com/event/55812/>`_
+
+* 5月17日（水）
+   * `Google I/O Extended 2017 Osaka hosted by GDG Kyoto <https://gdgkyoto.connpass.com/event/52947/>`_ 
+
+* 5月17日（水）
+   * `いろいろ初心者もくもく勉強会の日 in JUSO Coworking 2017-05-17 <https://saku-love.doorkeeper.jp/events/60292>`_
+
+* 5月17日（水）
+   * `LibreOfficeの日 vol.40 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/60557>`_
+
+* 5月17日（水）
+   * `もくもくマッピング！ #06 <https://countries-romantic.connpass.com/event/56121/>`_
+
 * 5月13日（土）
    * `WARAI テスト座談会 <https://connpass.com/event/56160/>`_
 
