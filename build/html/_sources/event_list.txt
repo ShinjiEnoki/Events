@@ -119,7 +119,16 @@
 * 9月27日（水）-29日（金）
    * LibreOffice Conference 2017 in Rome [参加予定]
 
+* 10月7日（土）
+   * オープンソースカンファレンス2017 Fukuoka
+
+* 10月21日（土）-22日（日）
+   * LibreOffice mini conf / openSUSE Asia.Summit（仮）
+
 * 11月10日（金）-11日（土）
    * `関西オープンフォーラム 2017 <https://k-of.jp/>`_
+
+* 11月19日（日）
+   * オープンソースカンファレンス2017 Hiroshima
 
 
