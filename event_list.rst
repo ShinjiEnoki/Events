@@ -4,6 +4,8 @@
 2017年
 ^^^^^^^
 
+* 5月26日（金）
+   * `名古屋アジャイル移動図書館「技術書ノンジャンル」ブックトーク会 <https://nagoyaagile.connpass.com/event/57577/>`_ [参加]
 
 * 5月26日（金）
    * `派生開発カンファレンス2017 <http://affordd.jp/call_for_contributions_2017.shtml>`_
@@ -34,6 +36,9 @@
 
 * 6月10日（土）？
    * アジャイルジャパン大阪サテライト
+
+* 6月10日（土）
+   * `【西国街道#05・初心者向け】万博探索マッピングパーティ <https://countries-romantic.connpass.com/event/57910/>`_
 
 * 6月12日（月）
    * `TOCfE関西 <https://tocfe-kansai.doorkeeper.jp/events/60684>`_
@@ -69,7 +74,7 @@
    * `KIIS サイバーセキュリティセミナー in 神戸 <https://secure.kiis.or.jp/cybersecurity/170630minicamp/>`_
 
 * 7月1日（土）
-   * TDDBC大阪4.0 [参加検討]
+   * `TDDBC大阪4.0 <http://www.kokuchpro.com/event/tddbcosaka4/>`_ [参加検討]
 
 * 7月8日（土）
    * 西国街道シリーズ：岡町オープンデータソン [参加予定]
