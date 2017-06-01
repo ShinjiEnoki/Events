@@ -4,6 +4,18 @@
 2017年
 ^^^^^^
 
+* 5月31日（水）
+   * `智美塾 関西サテライト 2017-05-31 <https://warai.connpass.com/event/58347/>`_
+
+* 5月28日（日）
+   * `名古屋 LibreOffice HackFest 2017-05-28 <https://libojapan.connpass.com/event/56936/>`_
+
+* 5月27日（土）
+   * `オープンソースカンファレンス2017 Nagoya <http://www.ospn.jp/osc2017-nagoya/>`_
+
+* 5月26日（金）
+   * `名古屋アジャイル移動図書館「技術書ノンジャンル」ブックトーク会 <https://nagoyaagile.connpass.com/event/57577/>`_
+
 * 5月20日（土）
    * jus拡大幹事会
 

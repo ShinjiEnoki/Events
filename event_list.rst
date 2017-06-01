@@ -4,44 +4,26 @@
 2017年
 ^^^^^^^
 
-* 5月26日（金）
-   * `名古屋アジャイル移動図書館「技術書ノンジャンル」ブックトーク会 <https://nagoyaagile.connpass.com/event/57577/>`_ [参加]
-
-* 5月26日（金）
-   * `派生開発カンファレンス2017 <http://affordd.jp/call_for_contributions_2017.shtml>`_
-
-* 5月26日（金）
-   * `第6回「アジャイルな見積りと計画づくり」読書会 <https://shin-osaka-agile.connpass.com/event/56780/>`_
-
-* 5月26日（金）
-   * `京都アジャイル勉強会 アジャイルコーチング読書会 #3 <https://connpass.com/event/57367/>`_
-
-* 5月27日（土）
-   * `オープンソースカンファレンス2017 Nagoya <http://www.ospn.jp/osc2017-nagoya/>`_ [参加]
-
-* 5月27日（土）
-   * 関西Ruby会議
-
-* 5月27日（土）
-   * `OSS Gate大阪ワークショップ2017-05-27 <https://oss-gate.doorkeeper.jp/events/59634>`_
-
-* 5月28日（日）
-   * `名古屋 LibreOffice HackFest 2017-05-28 <https://libojapan.connpass.com/event/56936/>`_ [参加]
-
 * 6月2日（金）
    * `オープンLT大会＠大阪 <https://ospn.connpass.com/event/56979/>`_ [参加]
 
 * 6月4日（日）
    * KOFミーティング
 
+* 6月6日（火）
+   *  `JP_Stripes (Stripe ユーザーグループ）in KOBE キックオフ <http://eventregist.com/e/JP_Stripes_Kobe_Vol0>`_
+
 * 6月10日（土）？
-   * アジャイルジャパン大阪サテライト
+   * `アジャイルジャパン大阪サテライト <https://agilejapan-osaka.connpass.com/event/54983/>`_
 
 * 6月10日（土）
    * `【西国街道#05・初心者向け】万博探索マッピングパーティ <https://countries-romantic.connpass.com/event/57910/>`_
 
 * 6月12日（月）
    * `TOCfE関西 <https://tocfe-kansai.doorkeeper.jp/events/60684>`_
+
+* 6月14日（水）
+   * `ng-kyoto Angular Meetup #6 with core team <ng-kyoto Angular Meetup #6 with core team >`_
 
 * 6月15日（木）
    * `デジタル・フォレンジックにおける「証拠保全ガイドライン」について <http://www.kyoto-su.ac.jp/events/20170615_869_dejitaru.html>`_
@@ -79,11 +61,17 @@
 * 7月8日（土）
    * 西国街道シリーズ：岡町オープンデータソン [参加予定]
 
+* 7月8日（土）
+   * 日本UNIXユーザ会幹事会
+
 * 7月14日（金）-15日（土）
    * `オープンソースカンファレンス2017 Hokkaido <http://www.ospn.jp/osc2017-do/>`_
 
 * 7月15日（土）-16日（日）調整中
    * JSDG全国大会 in 姫路
+
+* 7月20日（木）-21日（金）
+   * `OpenStack Days Tokyo 2017 <http://eventregist.com/e/Mh2mA12Furmp>`_
 
 * 7月22日（土）
    * 日本UNIXユーザ会総会 [参加]
