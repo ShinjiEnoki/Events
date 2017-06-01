@@ -13,7 +13,7 @@
 * 6月6日（火）
    *  `JP_Stripes (Stripe ユーザーグループ）in KOBE キックオフ <http://eventregist.com/e/JP_Stripes_Kobe_Vol0>`_
 
-* 6月10日（土）？
+* 6月10日（土）
    * `アジャイルジャパン大阪サテライト <https://agilejapan-osaka.connpass.com/event/54983/>`_
 
 * 6月10日（土）
@@ -23,7 +23,7 @@
    * `TOCfE関西 <https://tocfe-kansai.doorkeeper.jp/events/60684>`_
 
 * 6月14日（水）
-   * `ng-kyoto Angular Meetup #6 with core team <ng-kyoto Angular Meetup #6 with core team >`_
+   * `ng-kyoto Angular Meetup #6 with core team <https://ng-kyoto.connpass.com/event/57283/>`_
 
 * 6月15日（木）
    * `デジタル・フォレンジックにおける「証拠保全ガイドライン」について <http://www.kyoto-su.ac.jp/events/20170615_869_dejitaru.html>`_
@@ -61,8 +61,8 @@
 * 7月8日（土）
    * 西国街道シリーズ：岡町オープンデータソン [参加予定]
 
-* 7月8日（土）
-   * 日本UNIXユーザ会幹事会
+* 7月9日（日）
+   * 日本UNIXユーザ会拡大幹事会
 
 * 7月14日（金）-15日（土）
    * `オープンソースカンファレンス2017 Hokkaido <http://www.ospn.jp/osc2017-do/>`_
