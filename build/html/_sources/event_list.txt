@@ -13,6 +13,9 @@
 * 6月6日（火）
    *  `JP_Stripes (Stripe ユーザーグループ）in KOBE キックオフ <http://eventregist.com/e/JP_Stripes_Kobe_Vol0>`_
 
+* 6月9日（金）
+   * `京都アジャイル勉強会 アジャイルコーチング読書会 #4 <https://connpass.com/event/58899/>`_
+
 * 6月10日（土）
    * `アジャイルジャパン大阪サテライト <https://agilejapan-osaka.connpass.com/event/54983/>`_
 
