@@ -4,20 +4,11 @@
 2017年
 ^^^^^^^
 
-* 6月2日（金）
-   * `オープンLT大会＠大阪 <https://ospn.connpass.com/event/56979/>`_ [参加]
-
-* 6月4日（日）
-   * KOFミーティング
-
-* 6月6日（火）
-   *  `JP_Stripes (Stripe ユーザーグループ）in KOBE キックオフ <http://eventregist.com/e/JP_Stripes_Kobe_Vol0>`_
-
 * 6月9日（金）
-   * `京都アジャイル勉強会 アジャイルコーチング読書会 #4 <https://connpass.com/event/58899/>`_
+   * `京都アジャイル勉強会 アジャイルコーチング読書会 #4 <https://connpass.com/event/58899/>`_ [参加]
 
 * 6月10日（土）
-   * `アジャイルジャパン大阪サテライト <https://agilejapan-osaka.connpass.com/event/54983/>`_
+   * `アジャイルジャパン大阪サテライト <https://agilejapan-osaka.connpass.com/event/54983/>`_ 
 
 * 6月10日（土）
    * `【西国街道#05・初心者向け】万博探索マッピングパーティ <https://countries-romantic.connpass.com/event/57910/>`_
@@ -43,6 +34,9 @@
 * 6月18日（日）
    * `オープンデータソン2017 in 宇治 vol.1～日本書紀ゆかりの菟道稚郎子の足跡を訪ねて～ <https://opendatakyoto.connpass.com/event/57676/>`_ [参加]
 
+* 6月18日（日）
+   * `Debian 9 "Stretch" リリースパーティ in 関西 <https://debianjp.connpass.com/event/59443/>`_
+
 * 6月21日（水）
    * LibreOfficeの日
 
@@ -53,19 +47,19 @@
    * `JaSST'17 Kansai <http://www.jasst.jp/symposium/jasst17kansai.html>`_ [参加予定]
 
 * 6月24日（土）
-   * WARAI
+   * `VSTePのファーストステップ～関西出張版～ <https://warai.connpass.com/event/58996/>`_ [参加]
 
 * 6月30日（金）
    * `KIIS サイバーセキュリティセミナー in 神戸 <https://secure.kiis.or.jp/cybersecurity/170630minicamp/>`_
 
 * 7月1日（土）
-   * `TDDBC大阪4.0 <http://www.kokuchpro.com/event/tddbcosaka4/>`_ [参加検討]
+   * `TDDBC大阪4.0 <http://www.kokuchpro.com/event/tddbcosaka4/>`_ [参加]
 
 * 7月8日（土）
    * 西国街道シリーズ：岡町オープンデータソン [参加予定]
 
 * 7月9日（日）
-   * 日本UNIXユーザ会拡大幹事会
+   * 日本UNIXユーザ会拡大幹事会 [参加予定]
 
 * 7月14日（金）-15日（土）
    * `オープンソースカンファレンス2017 Hokkaido <http://www.ospn.jp/osc2017-do/>`_

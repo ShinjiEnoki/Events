@@ -4,6 +4,12 @@
 2017年
 ^^^^^^
 
+* 6月4日（日）
+   * KOFミーティング
+
+* 6月2日（金）
+   * `オープンLT大会＠大阪 <https://ospn.connpass.com/event/56979/>`_
+
 * 5月31日（水）
    * `智美塾 関西サテライト 2017-05-31 <https://warai.connpass.com/event/58347/>`_
 
