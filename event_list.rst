@@ -4,8 +4,8 @@
 2017年
 ^^^^^^^
 
-* 6月9日（金）
-   * `京都アジャイル勉強会 アジャイルコーチング読書会 #4 <https://connpass.com/event/58899/>`_ [参加]
+* 6月10日（土）
+   * `関西LibreOffice HackFest 2017-06-10 <https://connpass.com/event/59483/>`_
 
 * 6月10日（土）
    * `アジャイルジャパン大阪サテライト <https://agilejapan-osaka.connpass.com/event/54983/>`_ 
