@@ -4,6 +4,9 @@
 2017年
 ^^^^^^
 
+* 6月10日（土）
+   * `関西LibreOffice HackFest 2017-06-10 <https://connpass.com/event/59483/>`_
+
 * 6月9日（金）
    * `京都アジャイル勉強会 アジャイルコーチング読書会 #4 <https://connpass.com/event/58899/>`_
 

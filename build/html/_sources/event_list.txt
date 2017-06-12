@@ -4,18 +4,6 @@
 2017年
 ^^^^^^^
 
-* 6月10日（土）
-   * `関西LibreOffice HackFest 2017-06-10 <https://connpass.com/event/59483/>`_
-
-* 6月10日（土）
-   * `アジャイルジャパン大阪サテライト <https://agilejapan-osaka.connpass.com/event/54983/>`_ 
-
-* 6月10日（土）
-   * `【西国街道#05・初心者向け】万博探索マッピングパーティ <https://countries-romantic.connpass.com/event/57910/>`_
-
-* 6月12日（月）
-   * `TOCfE関西 <https://tocfe-kansai.doorkeeper.jp/events/60684>`_
-
 * 6月14日（水）
    * `ng-kyoto Angular Meetup #6 with core team <https://ng-kyoto.connpass.com/event/57283/>`_
 
@@ -44,7 +32,10 @@
    * `京都産業大学 情報理工学部 開設シンポジウム <https://ksu-ise.connpass.com/event/57496/>`_
 
 * 6月23日（金）
-   * `JaSST'17 Kansai <http://www.jasst.jp/symposium/jasst17kansai.html>`_ [参加予定]
+   * `JaSST'17 Kansai <http://www.jasst.jp/symposium/jasst17kansai.html>`_ [参加]
+
+* 6月23日（金）
+   * `JaSST’17 関西 情報交換会 夜の部 <http://www.kokuchpro.com/event/4a52f37e428d406dd7999140f0784f5b/>`_ [参加]
 
 * 6月24日（土）
    * `VSTePのファーストステップ～関西出張版～ <https://warai.connpass.com/event/58996/>`_ [参加]
