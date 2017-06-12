@@ -55,6 +55,9 @@
 * 7月14日（金）-15日（土）
    * `オープンソースカンファレンス2017 Hokkaido <http://www.ospn.jp/osc2017-do/>`_
 
+* 7月14日（金）
+   * `astah関西 第1回勉強会 <https://astah-kansai.connpass.com/event/59606/>`_
+
 * 7月15日（土）-16日（日）調整中
    * JSDG全国大会 in 姫路
 
