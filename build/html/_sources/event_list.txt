@@ -28,6 +28,9 @@
 * 6月21日（水）
    * LibreOfficeの日
 
+* 6月21日（水）
+   * `もくもくマッピング！ #07 <https://countries-romantic.connpass.com/event/59932/>`_ [参加]
+
 * 6月23日（金）
    * `京都産業大学 情報理工学部 開設シンポジウム <https://ksu-ise.connpass.com/event/57496/>`_
 
