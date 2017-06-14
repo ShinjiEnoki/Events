@@ -40,6 +40,9 @@
 * 6月24日（土）
    * `VSTePのファーストステップ～関西出張版～ <https://warai.connpass.com/event/58996/>`_ [参加]
 
+6月27日（火）
+   * `第7回「アジャイルな見積りと計画づくり」読書会 <https://shin-osaka-agile.connpass.com/event/59796/>`_ [参加]
+
 * 6月30日（金）
    * `KIIS サイバーセキュリティセミナー in 神戸 <https://secure.kiis.or.jp/cybersecurity/170630minicamp/>`_
 
