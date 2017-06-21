@@ -4,32 +4,8 @@
 2017年
 ^^^^^^^
 
-* 6月14日（水）
-   * `ng-kyoto Angular Meetup #6 with core team <https://ng-kyoto.connpass.com/event/57283/>`_
-
-* 6月15日（木）
-   * `デジタル・フォレンジックにおける「証拠保全ガイドライン」について <http://www.kyoto-su.ac.jp/events/20170615_869_dejitaru.html>`_
-
-* 6月16日（金）
-   * `第3回 ITアーキテクト入門セミナー 2017 in 大阪 <https://iasajapan.doorkeeper.jp/events/59977>`_ [参加]
-
-* 6月17日（土）
-   * `アジャイルジャパン京都サテライト <https://connpass.com/event/55728/>`_ [参加]
-
-* 6月17日（土）
-   * `オープンソースカンファレンス2017 Okinawa <http://www.ospn.jp/osc2017-okinawa/>`_
-
-* 6月18日（日）
-   * `オープンデータソン2017 in 宇治 vol.1～日本書紀ゆかりの菟道稚郎子の足跡を訪ねて～ <https://opendatakyoto.connpass.com/event/57676/>`_ [参加]
-
-* 6月18日（日）
-   * `Debian 9 "Stretch" リリースパーティ in 関西 <https://debianjp.connpass.com/event/59443/>`_
-
-* 6月21日（水）
-   * LibreOfficeの日
-
-* 6月21日（水）
-   * `もくもくマッピング！ #07 <https://countries-romantic.connpass.com/event/59932/>`_ [参加]
+* 6月24日（木）
+   * `体験版！未来予想型チーム運営ワークショップ（SaPIDTOC） <https://tocfe-kansai.doorkeeper.jp/events/60990>`_ [参加]
 
 * 6月23日（金）
    * `京都産業大学 情報理工学部 開設シンポジウム <https://ksu-ise.connpass.com/event/57496/>`_
@@ -43,7 +19,7 @@
 * 6月24日（土）
    * `VSTePのファーストステップ～関西出張版～ <https://warai.connpass.com/event/58996/>`_ [参加]
 
-6月27日（火）
+* 6月27日（火）
    * `第7回「アジャイルな見積りと計画づくり」読書会 <https://shin-osaka-agile.connpass.com/event/59796/>`_ [参加]
 
 * 6月30日（金）
@@ -64,7 +40,7 @@
 * 7月14日（金）
    * `astah関西 第1回勉強会 <https://astah-kansai.connpass.com/event/59606/>`_
 
-* 7月15日（土）-16日（日）調整中
+* 7月15日（土）-16日（日）
    * JSDG全国大会 in 姫路
 
 * 7月20日（木）-21日（金）
@@ -89,7 +65,7 @@
    * みんなのサマーセミナー in 尼崎
 
 * 8月18日（金）-20日（日）
-   * `State of the Map 2017 <http://wiki.openstreetmap.org/wiki/State_of_the_Map_2017>`_ [参加検討]
+   * `State of the Map 2017 <http://wiki.openstreetmap.org/wiki/State_of_the_Map_2017>`_ [参加]
 
 * 8月19日（土）-20（日）
    * Open Developers Conference

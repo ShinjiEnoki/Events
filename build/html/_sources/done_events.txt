@@ -4,6 +4,27 @@
 2017年
 ^^^^^^
 
+* 6月21日（水）
+   * `LibreOfficeの日 vol.41 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/61876>`_
+
+* 6月21日（水）
+   * `もくもくマッピング！ #07 <https://countries-romantic.connpass.com/event/59932/>`_
+
+* 6月18日（日）
+   * `オープンデータソン2017 in 宇治 vol.1～日本書紀ゆかりの菟道稚郎子の足跡を訪ねて～ <https://opendatakyoto.connpass.com/event/57676/>`_
+
+* 6月17日（土）
+   * `アジャイルジャパン京都サテライト <https://connpass.com/event/55728/>`_
+
+* 6月16日（金）
+   * `第3回 ITアーキテクト入門セミナー 2017 in 大阪 <https://iasajapan.doorkeeper.jp/events/59977>`_
+
+* 6月15日（木）
+   * Code for Kobe定例会2017-06
+
+* 6月14日（水）
+   * スクラム道関西第88回定例会
+
 * 6月10日（土）
    * `関西LibreOffice HackFest 2017-06-10 <https://connpass.com/event/59483/>`_
 
