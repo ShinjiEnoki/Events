@@ -906,7 +906,7 @@
    * `京都アジャイル勉強会 エッセンシャルスクラム読書会 #7 <http://connpass.com/event/10871/>`_
 
 2014年
-------
+^^^^^^
 
 * 12月30日（火）
    * `関西でのオープンデータ活動情報収集ミーティング <https://www.facebook.com/events/1024720600887945>`_
@@ -1327,7 +1327,7 @@
    * `第13回京都ＤＤＤ読書会 <http://connpass.com/event/4496/>`_
 
 2013年
-------
+^^^^^^
 
 * 12月21日（土）
    * `関東LibreOfficeハッカソン(#1) <http://connpass.com/event/3866/>`_
@@ -1774,7 +1774,7 @@
    * `第1回京都ＤＤＤワークショップ <http://connpass.com/event/1572/>`_
 
 2012年
-------
+^^^^^^
 
 * 12月24日（月）
    * `第1回 関西著作権・ライセンス勉強会 <http://atnd.org/event/E0011627>`_
@@ -2242,7 +2242,7 @@
    * `アジャイルサムライ読書会in京都 第五回 <http://kokucheese.com/event/index/24381/>`_
 
 2011年
-------
+^^^^^^
 
 * 12月30日（金）
    * `第5回ワールドカフェ読書会  <http://management-souken.co.jp/2011/11/1221/>`_
@@ -2520,7 +2520,7 @@
    * 神戸ITフェス/OSC-kobe・スタッフミーティング
 
 2010年
-------
+^^^^^^
 
 * 12月29日（水）
    * `2010年* 12月度LILO Monthly Seminar＆忘年会 <http://lilo.linux.or.jp/xoops/modules/eguide/event.php?eid=24>`_ （大阪）
@@ -2691,7 +2691,7 @@
    * `JSDG・関西ミニ研修会＆新年会 <http://www.jsdg.org/public/contents/seminar.html#kansai100109>`_ （大阪）
 
 2009年
-------
+^^^^^^
 
 * 12月30日（水）
    * `2009年12月度LILO Monthly Seminar <http://lilo.linux.or.jp/xoops/modules/eguide/event.php?eid=22>`_ （大阪）
@@ -2847,7 +2847,7 @@
    * `第7回セキュメロ <http://www.cmuj.jp/090110workshop/index.html>`_ （神戸）
 
 2008年
-------
+^^^^^^
 
 * 12月27日（土）
    * `2008年12月度 LILO Monthly Seminarと忘年会 <http://lilo.linux.or.jp/xoops/modules/eguide/event.php?eid=20>`_ （大阪）（ `12/27メモ <http://animemo.seesaa.net/article/111992044.html>`_ ）
@@ -3116,7 +3116,7 @@
    * JSDG関西新年会（大阪）
 
 2007年
-------
+^^^^^^
 
 * 12月27日（木）
    * `LILO2007年12月度 LILO Monthly Seminar <http://lilo.linux.or.jp/xoops/modules/eguide/event.php?eid=17>`_ と `忘年会 <htt//lilo.linux.or.jp/xoops/modules/eguide/event.php?eid=16>`_
@@ -3621,7 +3621,7 @@
    * JSDG関西新年会(2007)
 
 2006年
-------
+^^^^^^
 
 * 12月26日（火）
    * 岡山忘年会(2006)
@@ -3913,7 +3913,7 @@
 
 
 2005年
-------
+^^^^^^
 
 * 12月19日（月）～20日（火）
    * `第2回 デジタル・フォレンジック・コミュニティ2005 in TOKYO  <http://www.digitalforensic.jp/2005Work.html>`_

@@ -28,6 +28,9 @@
 * 7月1日（土）
    * `TDDBC大阪4.0 <http://www.kokuchpro.com/event/tddbcosaka4/>`_ [参加]
 
+* 7月2日（日）
+   * `第8回 CT3 ～ Casual Test Talk in Tokai ～ <http://kokucheese.com/event/index/475474/>`_ [参加]
+
 * 7月8日（土）
    * 西国街道シリーズ：岡町オープンデータソン [参加予定]
 
@@ -57,6 +60,11 @@
 
 * 8月4日（金）-5日（土）
    * `オープンソースカンファレンス2017 Kyoto <https://www.ospn.jp/osc2017-kyoto/>`_ [参加予定]
+
+* 8月4日（金）-5日（土）
+   * `二夜限りのギークハウス in 京都 2017 <https://atnd.org/events/88929>`_ [参加]
+
+* 8月4日（金）-5日（土）
 
 * 8月5日（土）-6日（日）
    * `COSCUP <http://coscup.org/>`_
