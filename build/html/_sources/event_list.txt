@@ -64,13 +64,14 @@
 * 8月4日（金）-5日（土）
    * `二夜限りのギークハウス in 京都 2017 <https://atnd.org/events/88929>`_ [参加]
 
-* 8月4日（金）-5日（土）
-
 * 8月5日（土）-6日（日）
    * `COSCUP <http://coscup.org/>`_
 
 * 8月5日（土）-6日（日）
    * みんなのサマーセミナー in 尼崎
+
+* 8月11日（金）-14日（月）
+   `教育のためのTOC国際認定プログラム　2017年夏 <http://peatix.com/event/245309>`_
 
 * 8月18日（金）-20日（日）
    * `State of the Map 2017 <http://wiki.openstreetmap.org/wiki/State_of_the_Map_2017>`_ [参加]
@@ -90,11 +91,12 @@
 * 9月26日（火）
    * LibreOffice Conference コミュニティミーティング [参加予定]
 
-* 9月27日（水）-29日（金）
-   * LibreOffice Conference 2017 in Rome [参加予定]
 
 * 10月7日（土）
    * オープンソースカンファレンス2017 Fukuoka
+
+* 10月11日（水）-13日（金）
+   * LibreOffice Conference 2017 in Rome [参加予定]
 
 * 10月21日（土）-22日（日）
    * LibreOffice mini conf / openSUSE Asia.Summit（仮）
