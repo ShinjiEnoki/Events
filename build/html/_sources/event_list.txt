@@ -37,6 +37,16 @@
 * 7月22日（土）
    * `ITコミュニティの運営を考える 〜日本UNIXユーザ会2017年度総会併設勉強会〜 <https://eventdots.jp/event/622302>`_ [参加]
 
+* 7月23日（日）
+   * `オープンデータソン2017 in 宇治 vol.2 <https://opendatakyoto.connpass.com/event/60428/>`_
+
+* 7月24日（月）
+   * `第7回自治体オープンデータ推進協議会（関西会議） <http://peatix.com/event/279257>`_
+
+* 7月29日（土）
+   * 伊丹オープンデータソン [参加予定]
+   * `第7回自治体オープンデータ推進協議会（関西会議） <http://peatix.com/event/279257>`_
+
 * 7月29日（土）
    * 伊丹オープンデータソン [参加予定]
 
@@ -78,6 +88,9 @@
 
 * 10月11日（水）-13日（金）
    * LibreOffice Conference 2017 in Rome [参加予定]
+
+* 10月14日（土）
+   * OSC島根
 
 * 10月21日（土）-22日（日）
    * LibreOffice mini conf / openSUSE Asia.Summit（仮）
