@@ -4,27 +4,6 @@
 2017年
 ^^^^^^^
 
-* 6月24日（木）
-   * `体験版！未来予想型チーム運営ワークショップ（SaPIDTOC） <https://tocfe-kansai.doorkeeper.jp/events/60990>`_ [参加]
-
-* 6月23日（金）
-   * `京都産業大学 情報理工学部 開設シンポジウム <https://ksu-ise.connpass.com/event/57496/>`_
-
-* 6月23日（金）
-   * `JaSST'17 Kansai <http://www.jasst.jp/symposium/jasst17kansai.html>`_ [参加]
-
-* 6月23日（金）
-   * `JaSST’17 関西 情報交換会 夜の部 <http://www.kokuchpro.com/event/4a52f37e428d406dd7999140f0784f5b/>`_ [参加]
-
-* 6月24日（土）
-   * `VSTePのファーストステップ～関西出張版～ <https://warai.connpass.com/event/58996/>`_ [参加]
-
-* 6月27日（火）
-   * `第7回「アジャイルな見積りと計画づくり」読書会 <https://shin-osaka-agile.connpass.com/event/59796/>`_ [参加]
-
-* 6月30日（金）
-   * `KIIS サイバーセキュリティセミナー in 神戸 <https://secure.kiis.or.jp/cybersecurity/170630minicamp/>`_
-
 * 7月1日（土）
    * `TDDBC大阪4.0 <http://www.kokuchpro.com/event/tddbcosaka4/>`_ [参加]
 
@@ -43,8 +22,11 @@
 * 7月14日（金）
    * `astah関西 第1回勉強会 <https://astah-kansai.connpass.com/event/59606/>`_
 
+* 7月14日（金）
+   * `第135回PMAJ関西例会 「実践！なぜなぜ5回（階）」 <http://www.pmaj.or.jp/seminar/kansai/A_20170714.html>`_
+
 * 7月15日（土）-16日（日）
-   * JSDG全国大会 in 姫路
+   * JSDG全国大会 in 姫路 [参加]
 
 * 7月20日（木）-21日（金）
    * `OpenStack Days Tokyo 2017 <http://eventregist.com/e/Mh2mA12Furmp>`_
@@ -88,12 +70,11 @@
 * 9月16日（土）
    * 西国街道マッピング@西宮 [参加予定]
 
-* 9月26日（火）
-   * LibreOffice Conference コミュニティミーティング [参加予定]
-
-
 * 10月7日（土）
    * オープンソースカンファレンス2017 Fukuoka
+
+* 10月10日（火）
+   * LibreOffice Conference コミュニティミーティング [参加予定]
 
 * 10月11日（水）-13日（金）
    * LibreOffice Conference 2017 in Rome [参加予定]

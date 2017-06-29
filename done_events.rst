@@ -4,6 +4,21 @@
 2017年
 ^^^^^^
 
+* 6月27日（火）
+   * `第7回「アジャイルな見積りと計画づくり」読書会 <https://shin-osaka-agile.connpass.com/event/59796/>`_
+
+* 6月24日（土）
+   * `VSTePのファーストステップ～関西出張版～ <https://warai.connpass.com/event/58996/>`_
+
+* 6月23日（金）
+   * `JaSST’17 関西 情報交換会 夜の部 <http://www.kokuchpro.com/event/4a52f37e428d406dd7999140f0784f5b/>`_
+
+* 6月23日（金）
+   * `JaSST'17 Kansai <http://www.jasst.jp/symposium/jasst17kansai.html>`_
+
+* 6月24日（木）
+   * `体験版！未来予想型チーム運営ワークショップ（SaPIDTOC） <https://tocfe-kansai.doorkeeper.jp/events/60990>`_
+
 * 6月21日（水）
    * `LibreOfficeの日 vol.41 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/61876>`_
 
