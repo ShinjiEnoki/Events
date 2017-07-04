@@ -4,6 +4,12 @@
 2017年
 ^^^^^^
 
+* 7月2日（日）
+   * `第8回 CT3 ～ Casual Test Talk in Tokai ～ <http://kokucheese.com/event/index/475474/>`_
+
+* 7月1日（土）
+   * `TDDBC大阪4.0 <http://www.kokuchpro.com/event/tddbcosaka4/>`_
+
 * 6月27日（火）
    * `第7回「アジャイルな見積りと計画づくり」読書会 <https://shin-osaka-agile.connpass.com/event/59796/>`_
 

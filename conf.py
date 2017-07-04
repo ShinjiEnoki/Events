@@ -41,8 +41,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'events'
-copyright = u'2012-2014, Shinji Enoki'
+project = u'Event List'
+copyright = u'2012-2017, Shinji Enoki'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
