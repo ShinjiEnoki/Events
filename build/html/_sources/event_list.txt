@@ -10,6 +10,9 @@
 * 7月9日（日）
    * 日本UNIXユーザ会拡大幹事会 [参加予定]
 
+* 7月11日（月）
+   * `ユーザーストーリー入門 ～スクラムにおける要求の考案過程や利害関係者の調整に役立つ"Discover to Deliver"～ [POStudy ナイトセミナー] <https://postudy.doorkeeper.jp/events/61115>`_ [参加]
+
 * 7月14日（金）-15日（土）
    * `オープンソースカンファレンス2017 Hokkaido <http://www.ospn.jp/osc2017-do/>`_
 
