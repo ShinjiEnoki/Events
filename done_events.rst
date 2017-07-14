@@ -4,6 +4,21 @@
 2017年
 ^^^^^^
 
+* 7月15日（土）-16日（日）
+   * `JSDG2017全国大会 in 姫路 <http://www.jsdg.org/general/contents/conference/18zenkoku/top.html>`_
+
+* 7月14日（金）
+   * `astah関西 第1回勉強会 <https://astah-kansai.connpass.com/event/59606/>`_
+
+* 7月11日（月）
+   * `ユーザーストーリー入門 ～スクラムにおける要求の考案過程や利害関係者の調整に役立つ"Discover to Deliver"～ [POStudy ナイトセミナー] <https://postudy.doorkeeper.jp/events/61115>`_
+
+* 7月9日（日）
+   * 日本UNIXユーザ会拡大幹事会
+
+* 7月8日（土）
+   * `豊中市立図書館 とよ散歩～ウィキペディアタウン in 豊中～, 第10回諸国・浪漫マッピングパーティー <http://www.lib.toyonaka.osaka.jp/information/okamachi/archives-hokusetsu/archives_2017_1.html>`_
+
 * 7月2日（日）
    * `第8回 CT3 ～ Casual Test Talk in Tokai ～ <http://kokucheese.com/event/index/475474/>`_
 
