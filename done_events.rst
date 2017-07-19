@@ -4,6 +4,12 @@
 2017年
 ^^^^^^
 
+* 7月19日（水）
+   * `LibreOfficeの日 vol.42@JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/62632>`_
+
+* 7月18日（火）
+   * `Wikipedia日本語版の「オープンサイエンス」をみんなで編集してみよう！ <http://kyoto-open.science/?p=296>`_
+
 * 7月15日（土）-16日（日）
    * `JSDG2017全国大会 in 姫路 <http://www.jsdg.org/general/contents/conference/18zenkoku/top.html>`_
 

@@ -4,12 +4,6 @@
 2017年
 ^^^^^^^
 
-* 7月18日（火）
-   * `Wikipedia日本語版の「オープンサイエンス」をみんなで編集してみよう！ <http://kyoto-open.science/?p=296>`_ [参加]
-
-* 7月19日（水）
-   * `LibreOfficeの日 vol.42@JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/62632>`_
-
 * 7月20日（木）-21日（金）
    * `OpenStack Days Tokyo 2017 <http://eventregist.com/e/Mh2mA12Furmp>`_ [参加]
 
@@ -64,11 +58,20 @@
 * 8月21月（月）
    * `カンファレンスカメラマンカンファレンス <https://connpass.com/event/62150/>`_
 
+* 8月26月（土）
+   * `Redmine大阪　第17回勉強会 <https://redmine-osaka.connpass.com/event/61856/>`_
+
 * 9月7日-8日（金）
    * `国際フロンティア産業メッセ2017 <https://www.kobemesse.com/>`_ [参加予定]
 
+* 9月8日（金）
+   * `Developers Summit 2017 KANSAI <http://event.shoeisha.jp/devsumi/20170908/>`_
+
 * 9月9日（土）-10日（日）
    * `オープンソースカンファレンス2017 Tokyo/Fall <https://www.ospn.jp/osc2017-fall/>`_ [参加予定]
+
+* 9月15日（金）
+   * `エンタープライズデータHUBセミナー <http://www.it-innovation.co.jp/2017/06/23-190330/>`_ [参加]
 
 * 9月16日（土）
    * 西国街道マッピング@西宮 [参加予定]
