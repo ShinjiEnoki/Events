@@ -4,6 +4,18 @@
 2017年
 ^^^^^^
 
+* 7月23日（日）
+   * `オープンデータソン2017 in 宇治 vol.2 <https://opendatakyoto.connpass.com/event/60428/>`_
+
+* 7月22日（土）
+   * 日本UNIXユーザ会総会
+
+* 7月22日（土）
+   * `ITコミュニティの運営を考える 〜日本UNIXユーザ会2017年度総会併設勉強会〜 <https://eventdots.jp/event/622302>`_
+
+* 7月20日（木）-21日（金）
+   * `OpenStack Days Tokyo 2017 <http://eventregist.com/e/Mh2mA12Furmp>`_
+
 * 7月19日（水）
    * `LibreOfficeの日 vol.42@JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/62632>`_
 

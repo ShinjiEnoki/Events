@@ -4,21 +4,6 @@
 2017年
 ^^^^^^^
 
-* 7月20日（木）-21日（金）
-   * `OpenStack Days Tokyo 2017 <http://eventregist.com/e/Mh2mA12Furmp>`_ [参加]
-
-* 7月22日（土）
-   * 日本UNIXユーザ会総会 [参加]
-
-* 7月22日（土）
-   * `ITコミュニティの運営を考える 〜日本UNIXユーザ会2017年度総会併設勉強会〜 <https://eventdots.jp/event/622302>`_ [参加]
-
-* 7月23日（日）
-   * `オープンデータソン2017 in 宇治 vol.2 <https://opendatakyoto.connpass.com/event/60428/>`_
-
-* 7月24日（月）
-   * `第7回自治体オープンデータ推進協議会（関西会議） <http://peatix.com/event/279257>`_
-
 * 7月25日（火）
    * 智美塾関西サテライト [参加予定]
 
@@ -42,6 +27,10 @@
 
 * 8月5日（土）-6日（日）
    * みんなのサマーセミナー in 尼崎
+
+* 8月8日（火）
+   * `MonotaRO TechTalk #5「Docker」 <http://www.kokuchpro.com/event/monotarotech5/>`_
+
 
 * 8月11日（金）-14日（月）
    `教育のためのTOC国際認定プログラム　2017年夏 <http://peatix.com/event/245309>`_ [参加]
