@@ -4,14 +4,8 @@
 2017年
 ^^^^^^^
 
-* 7月25日（火）
-   * 智美塾関西サテライト [参加予定]
-
-* 7月25日（火）
-   * `第1回「エラスティックリーダーシップ」読書会 <https://shin-osaka-agile.connpass.com/event/61928/>`_
-
 * 7月29日（土）
-   * 伊丹オープンデータソン [参加予定]
+   * 伊丹オープンデータソン [参加]
 
 * 7月30日（日）
    * `jus ELFとDWARF勉強会 <https://techplay.jp/event/626491>`_ [参加]
@@ -28,12 +22,14 @@
 * 8月5日（土）-6日（日）
    * みんなのサマーセミナー in 尼崎
 
+* 8月6日
+   * `openSUSE Leap 42.3 Release Party Kyoto & もくもく会 <https://opensuseja.connpass.com/event/62902/>`_
+
 * 8月8日（火）
    * `MonotaRO TechTalk #5「Docker」 <http://www.kokuchpro.com/event/monotarotech5/>`_
 
-
 * 8月11日（金）-14日（月）
-   `教育のためのTOC国際認定プログラム　2017年夏 <http://peatix.com/event/245309>`_ [参加]
+   * `教育のためのTOC国際認定プログラム　2017年夏 <http://peatix.com/event/245309>`_ [参加]
 
 * 8月16日（水）
    * LibreOfficeの日 @ JUSO Coworking
@@ -49,6 +45,9 @@
 
 * 8月26月（土）
    * `Redmine大阪　第17回勉強会 <https://redmine-osaka.connpass.com/event/61856/>`_
+
+* 9月1日（金）
+   * `知って得するZBX導入から運用までの手順と注意点 <https://osslabo.doorkeeper.jp/events/63346>`_
 
 * 9月7日-8日（金）
    * `国際フロンティア産業メッセ2017 <https://www.kobemesse.com/>`_ [参加予定]
