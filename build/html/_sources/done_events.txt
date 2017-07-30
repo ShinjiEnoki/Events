@@ -4,6 +4,12 @@
 2017年
 ^^^^^^
 
+* 7月30日（日）
+   * `jus ELFとDWARF勉強会 <https://techplay.jp/event/626491>`_
+
+* 7月29日（土）
+   * `オープンデータソンin伊丹「有岡城惣構」 <http://itami-city.jp/public_info/?pid=20937>`_ 
+
 * 7月25日（火）
    * 智美塾関西サテライト
 
