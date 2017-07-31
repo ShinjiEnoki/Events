@@ -25,9 +25,6 @@
 * 8月11日（金）-14日（月）
    * `教育のためのTOC国際認定プログラム　2017年夏 <http://peatix.com/event/245309>`_ [参加]
 
-* 8月16日（水）
-   * `LibreOfficeの日vol.43 @ JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/63516>`_ [参加]
-
 * 8月18日（金）-20日（日）
    * `State of the Map 2017 <http://wiki.openstreetmap.org/wiki/State_of_the_Map_2017>`_ [参加]
 
@@ -36,6 +33,9 @@
 
 * 8月21月（月）
    * `カンファレンスカメラマンカンファレンス <https://connpass.com/event/62150/>`_
+
+* 8月23日（水）
+   * `LibreOfficeの日vol.43 @ JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/63516>`_ [参加]
 
 * 8月26月（土）
    * `Redmine大阪　第17回勉強会 <https://redmine-osaka.connpass.com/event/61856/>`_
