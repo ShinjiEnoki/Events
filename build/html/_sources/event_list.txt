@@ -26,7 +26,7 @@
    * `教育のためのTOC国際認定プログラム　2017年夏 <http://peatix.com/event/245309>`_ [参加]
 
 * 8月16日（水）
-   * LibreOfficeの日 @ JUSO Coworking
+   * `LibreOfficeの日vol.43 @ JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/63516>`_ [参加]
 
 * 8月18日（金）-20日（日）
    * `State of the Map 2017 <http://wiki.openstreetmap.org/wiki/State_of_the_Map_2017>`_ [参加]
