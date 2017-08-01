@@ -20,7 +20,10 @@
    * `openSUSE Leap 42.3 Release Party Kyoto & もくもく会 <https://opensuseja.connpass.com/event/62902/>`_
 
 * 8月8日（火）
-   * `MonotaRO TechTalk #5「Docker」 <http://www.kokuchpro.com/event/monotarotech5/>`_
+   * `MonotaRO TechTalk #5「Docker」 <http://www.kokuchpro.com/event/monotarotech5/>`_ [参加]
+
+* 8月9日（水）
+   * `DDD.rb #14 Redux で気軽に始める テスト駆動開発 <https://dddrb.doorkeeper.jp/events/63433>`_
 
 * 8月11日（金）-14日（月）
    * `教育のためのTOC国際認定プログラム　2017年夏 <http://peatix.com/event/245309>`_ [参加]
@@ -40,6 +43,12 @@
 * 8月26月（土）
    * `Redmine大阪　第17回勉強会 <https://redmine-osaka.connpass.com/event/61856/>`_
 
+* 8月26月（土）
+   * `オープンデータソン2017 in 宇治 vol.3 <https://opendatakyoto.connpass.com/event/63564/>`_
+
+* 8月27月（日）
+   * LILO & 東海道らぐオフラインミーティング
+
 * 9月1日（金）
    * `知って得するZBX導入から運用までの手順と注意点 <https://osslabo.doorkeeper.jp/events/63346>`_
 
@@ -57,6 +66,9 @@
 
 * 9月16日（土）
    * 西国街道マッピング@西宮 [参加予定]
+
+* 9月16日
+   * `XP祭り2017 <http://xpjug.com/xp2017/>`_
 
 * 10月7日（土）
    * `オープンソースカンファレンス2017 Fukuoka <https://www.ospn.jp/osc2017-fukuoka/>`_
