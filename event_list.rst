@@ -23,10 +23,10 @@
    * `Redmine大阪　第17回勉強会 <https://redmine-osaka.connpass.com/event/61856/>`_
 
 * 8月26月（土）
-   * `オープンデータソン2017 in 宇治 vol.3 <https://opendatakyoto.connpass.com/event/63564/>`_
+   * `オープンデータソン2017 in 宇治 vol.3 <https://opendatakyoto.connpass.com/event/63564/>`_ [参加]
 
 * 8月27月（日）
-   * LILO & 東海道らぐオフラインミーティング
+   * `LILO&東海道らぐオフラインミーティング 2017/08/27 <https://lilo.connpass.com/event/64381/>`_ [参加]
 
 * 9月1日（金）
    * `知って得するZBX導入から運用までの手順と注意点 <https://osslabo.doorkeeper.jp/events/63346>`_
