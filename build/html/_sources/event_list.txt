@@ -4,27 +4,6 @@
 2017年
 ^^^^^^^
 
-* 8月4日（金）-5日（土）
-   * `オープンソースカンファレンス2017 Kyoto <https://www.ospn.jp/osc2017-kyoto/>`_ [参加予定]
-
-* 8月4日（金）-5日（土）
-   * `二夜限りのギークハウス in 京都 2017 <https://atnd.org/events/88929>`_ [参加]
-
-* 8月5日（土）-6日（日）
-   * `COSCUP <http://coscup.org/>`_
-
-* 8月5日（土）-6日（日）
-   * みんなのサマーセミナー in 尼崎
-
-* 8月6日
-   * `openSUSE Leap 42.3 Release Party Kyoto & もくもく会 <https://opensuseja.connpass.com/event/62902/>`_
-
-* 8月8日（火）
-   * `MonotaRO TechTalk #5「Docker」 <http://www.kokuchpro.com/event/monotarotech5/>`_ [参加]
-
-* 8月9日（水）
-   * `DDD.rb #14 Redux で気軽に始める テスト駆動開発 <https://dddrb.doorkeeper.jp/events/63433>`_
-
 * 8月11日（金）-14日（月）
    * `教育のためのTOC国際認定プログラム　2017年夏 <http://peatix.com/event/245309>`_ [参加]
 

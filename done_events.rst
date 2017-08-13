@@ -4,6 +4,18 @@
 2017年
 ^^^^^^
 
+* 8月8日（火）
+   * `MonotaRO TechTalk #5「Docker」 <http://www.kokuchpro.com/event/monotarotech5/>`_
+
+* 8月6日
+   * `openSUSE Leap 42.3 Release Party Kyoto & もくもく会 <https://opensuseja.connpass.com/event/62902/>`_
+
+* 8月4日（金）-5日（土）
+   * `二夜限りのギークハウス in 京都 2017 <https://atnd.org/events/88929>`_
+
+* 8月4日（金）-5日（土）
+   * `オープンソースカンファレンス2017 Kyoto <https://www.ospn.jp/osc2017-kyoto/>`_
+
 * 7月30日（日）
    * `jus ELFとDWARF勉強会 <https://techplay.jp/event/626491>`_
 
