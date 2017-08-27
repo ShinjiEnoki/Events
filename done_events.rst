@@ -4,6 +4,24 @@
 2017年
 ^^^^^^
 
+* 8月27月（日）
+   * `LILO&東海道らぐオフラインミーティング 2017/08/27 <https://lilo.connpass.com/event/64381/>`_
+
+* 8月26月（土）
+   * `オープンデータソン2017 in 宇治 vol.3 <https://opendatakyoto.connpass.com/event/63564/>`_
+
+* 8月23日（水）
+   * `LibreOfficeの日vol.43 @ JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/63516>`_
+
+* 8月22日（火）
+   * `第2回「エラスティックリーダーシップ」読書会 <https://shin-osaka-agile.connpass.com/event/63881/>`_
+
+* 8月18日（金）-20日（日）
+   * `State of the Map 2017 <http://wiki.openstreetmap.org/wiki/State_of_the_Map_2017>`_
+
+* 8月11日（金）-14日（月）
+   * `教育のためのTOC国際認定プログラム　2017年夏 <http://peatix.com/event/245309>`_
+
 * 8月8日（火）
    * `MonotaRO TechTalk #5「Docker」 <http://www.kokuchpro.com/event/monotarotech5/>`_
 
@@ -66,6 +84,9 @@
 
 * 6月27日（火）
    * `第7回「アジャイルな見積りと計画づくり」読書会 <https://shin-osaka-agile.connpass.com/event/59796/>`_
+
+* 6月26日（月）
+   * 智美塾関西サテライト
 
 * 6月24日（土）
    * `VSTePのファーストステップ～関西出張版～ <https://warai.connpass.com/event/58996/>`_

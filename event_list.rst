@@ -4,30 +4,6 @@
 2017年
 ^^^^^^^
 
-* 8月11日（金）-14日（月）
-   * `教育のためのTOC国際認定プログラム　2017年夏 <http://peatix.com/event/245309>`_ [参加]
-
-* 8月18日（金）-20日（日）
-   * `State of the Map 2017 <http://wiki.openstreetmap.org/wiki/State_of_the_Map_2017>`_ [参加]
-
-* 8月19日（土）-20（日）
-   * `オープンデベロッパーズカンファレンス2017 Tokyo <https://www.ospn.jp/odc2017/>`_
-
-* 8月21月（月）
-   * `カンファレンスカメラマンカンファレンス <https://connpass.com/event/62150/>`_
-
-* 8月23日（水）
-   * `LibreOfficeの日vol.43 @ JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/63516>`_ [参加]
-
-* 8月26月（土）
-   * `Redmine大阪　第17回勉強会 <https://redmine-osaka.connpass.com/event/61856/>`_
-
-* 8月26月（土）
-   * `オープンデータソン2017 in 宇治 vol.3 <https://opendatakyoto.connpass.com/event/63564/>`_ [参加]
-
-* 8月27月（日）
-   * `LILO&東海道らぐオフラインミーティング 2017/08/27 <https://lilo.connpass.com/event/64381/>`_ [参加]
-
 * 9月1日（金）
    * `知って得するZBX導入から運用までの手順と注意点 <https://osslabo.doorkeeper.jp/events/63346>`_
 
@@ -38,16 +14,25 @@
    * `Developers Summit 2017 KANSAI <http://event.shoeisha.jp/devsumi/20170908/>`_
 
 * 9月9日（土）-10日（日）
-   * `オープンソースカンファレンス2017 Tokyo/Fall <https://www.ospn.jp/osc2017-fall/>`_ [参加予定]
+   * `オープンソースカンファレンス2017 Tokyo/Fall <https://www.ospn.jp/osc2017-fall/>`_ [参加]
 
 * 9月15日（金）
    * `エンタープライズデータHUBセミナー <http://www.it-innovation.co.jp/2017/06/23-190330/>`_ [参加]
 
 * 9月16日（土）
-   * 西国街道マッピング@西宮 [参加予定]
+   * `【西国街道#09・最終回】西宮郷・酒蔵マッピングパーティ <https://countries-romantic.connpass.com/event/64338/>`_ [参加]
 
-* 9月16日
+* 9月16日（土）
    * `XP祭り2017 <http://xpjug.com/xp2017/>`_
+
+* 9月22日（金）
+   * `Code for Japan Summit 2017前夜祭 <https://www.facebook.com/events/1450893284978863/>`_
+
+* 9月23日（土）-24日（日）
+   * `Code for Japan Summit 2017 <https://summit2017.code4japan.org/>`_
+
+* 10月1日（日）
+   * `Scrum Boot Camp OSAKA in October 2017 <https://scrumdo-kansai.connpass.com/event/64750/>`_
 
 * 10月7日（土）
    * `オープンソースカンファレンス2017 Fukuoka <https://www.ospn.jp/osc2017-fukuoka/>`_
@@ -75,4 +60,7 @@
 
 * 1月26日（金）-27日（土）
    * `オープンソースカンファレンス2018 Osaka <https://www.ospn.jp/osc2018-osaka/>`_ [参加予定]
+
+
+
 
