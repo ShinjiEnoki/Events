@@ -4,8 +4,6 @@
 2017年
 ^^^^^^^
 
-* 9月1日（金）
-   * `知って得するZBX導入から運用までの手順と注意点 <https://osslabo.doorkeeper.jp/events/63346>`_
 
 * 9月7日-8日（金）
    * `国際フロンティア産業メッセ2017 <https://www.kobemesse.com/>`_ [参加予定]
@@ -16,6 +14,9 @@
 * 9月9日（土）-10日（日）
    * `オープンソースカンファレンス2017 Tokyo/Fall <https://www.ospn.jp/osc2017-fall/>`_ [参加]
 
+* 9月11日（月）
+   * 智美塾関西サテライト [参加予定]
+
 * 9月15日（金）
    * `エンタープライズデータHUBセミナー <http://www.it-innovation.co.jp/2017/06/23-190330/>`_ [参加]
 
@@ -25,11 +26,17 @@
 * 9月16日（土）
    * `XP祭り2017 <http://xpjug.com/xp2017/>`_
 
+* 9月17日（日）
+   * jus拡大幹事会 [参加]
+
 * 9月22日（金）
    * `Code for Japan Summit 2017前夜祭 <https://www.facebook.com/events/1450893284978863/>`_
 
 * 9月23日（土）-24日（日）
    * `Code for Japan Summit 2017 <https://summit2017.code4japan.org/>`_
+
+* 9月30日（土）
+   * `オープンデータソン2017 in 宇治 vol.4  <https://opendatakyoto.connpass.com/event/65842/>`_ [参加]
 
 * 10月1日（日）
    * `Scrum Boot Camp OSAKA in October 2017 <https://scrumdo-kansai.connpass.com/event/64750/>`_
