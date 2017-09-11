@@ -4,18 +4,8 @@
 2017年
 ^^^^^^^
 
-
-* 9月7日-8日（金）
-   * `国際フロンティア産業メッセ2017 <https://www.kobemesse.com/>`_ [参加予定]
-
-* 9月8日（金）
-   * `Developers Summit 2017 KANSAI <http://event.shoeisha.jp/devsumi/20170908/>`_
-
-* 9月9日（土）-10日（日）
-   * `オープンソースカンファレンス2017 Tokyo/Fall <https://www.ospn.jp/osc2017-fall/>`_ [参加]
-
-* 9月11日（月）
-   * 智美塾関西サテライト [参加予定]
+* 9月14日（木）
+   * ベンチャー開発本輪読会 #1 [参加]
 
 * 9月15日（金）
    * `エンタープライズデータHUBセミナー <http://www.it-innovation.co.jp/2017/06/23-190330/>`_ [参加]
@@ -26,14 +16,14 @@
 * 9月16日（土）
    * `XP祭り2017 <http://xpjug.com/xp2017/>`_
 
-* 9月17日（日）
+* 9月18日（月）
    * jus拡大幹事会 [参加]
 
 * 9月22日（金）
    * `Code for Japan Summit 2017前夜祭 <https://www.facebook.com/events/1450893284978863/>`_
 
 * 9月23日（土）-24日（日）
-   * `Code for Japan Summit 2017 <https://summit2017.code4japan.org/>`_
+   * `Code for Japan Summit 2017 <https://summit2017.code4japan.org/>`_ [参加]
 
 * 9月30日（土）
    * `オープンデータソン2017 in 宇治 vol.4  <https://opendatakyoto.connpass.com/event/65842/>`_ [参加]
@@ -48,7 +38,7 @@
    * LibreOffice Conference コミュニティミーティング [参加予定]
 
 * 10月11日（水）-13日（金）
-   * `LibreOffice Conference 2017 in Rome <http://libocon.org/>`_ [参加予定]
+   * `LibreOffice Conference 2017 in Rome <http://libocon.org/>`_ [参加]
 
 * 10月14日（土）
    * `オープンソースカンファレンス2017 Shimane <https://www.ospn.jp/osc2017-shimane/>`_
@@ -60,7 +50,14 @@
    * `関西オープンフォーラム 2017 <https://k-of.jp/>`_ [参加予定]
 
 * 11月19日（日）
-   * `オープンソースカンファレンス2017 Hiroshima <https://www.ospn.jp/osc2017-hiroshima/>`_
+   * `オープンソースカンファレンス2017 Hiroshima <https://www.ospn.jp/osc2017-hiroshima/>`_ [参加予定]
+
+* 12月2日（土）
+   * JISTA関西オープンフォーラム [参加予定]
+
+* 12月8日（金）？
+   * JaSST 東海 / テスコン予選 [参加予定]
+
 
 2018年
 ^^^^^^^
