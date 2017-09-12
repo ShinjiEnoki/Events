@@ -4,6 +4,10 @@
 2017年
 ^^^^^^^
 
+
+* 9月13日（火）
+   * `第3回「エラスティックリーダーシップ」読書会 <https://shin-osaka-agile.connpass.com/event/65269/>`_
+
 * 9月14日（木）
    * ベンチャー開発本輪読会 #1 [参加]
 
@@ -19,11 +23,17 @@
 * 9月18日（月）
    * jus拡大幹事会 [参加]
 
+* 9月20日（水）
+   * `LibreOfficeの日 vol.44 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/64811>`_ [参加]
+
 * 9月22日（金）
    * `Code for Japan Summit 2017前夜祭 <https://www.facebook.com/events/1450893284978863/>`_
 
 * 9月23日（土）-24日（日）
    * `Code for Japan Summit 2017 <https://summit2017.code4japan.org/>`_ [参加]
+
+* 9月27日（水）
+   * `スモール・リーダーシップ読書会 #1 <https://nishinaka-agile.connpass.com/event/66852/>`_
 
 * 9月30日（土）
    * `オープンデータソン2017 in 宇治 vol.4  <https://opendatakyoto.connpass.com/event/65842/>`_ [参加]
