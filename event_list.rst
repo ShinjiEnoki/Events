@@ -5,15 +5,6 @@
 ^^^^^^^
 
 
-* 9月13日（火）
-   * `第3回「エラスティックリーダーシップ」読書会 <https://shin-osaka-agile.connpass.com/event/65269/>`_
-
-* 9月14日（木）
-   * ベンチャー開発本輪読会 #1 [参加]
-
-* 9月15日（金）
-   * `エンタープライズデータHUBセミナー <http://www.it-innovation.co.jp/2017/06/23-190330/>`_ [参加]
-
 * 9月16日（土）
    * `【西国街道#09・最終回】西宮郷・酒蔵マッピングパーティ <https://countries-romantic.connpass.com/event/64338/>`_ [参加]
 
@@ -28,6 +19,9 @@
 
 * 9月22日（金）
    * `Code for Japan Summit 2017前夜祭 <https://www.facebook.com/events/1450893284978863/>`_
+
+* 9月22日（金）
+   * 前日準備 18:00しあわせの村
 
 * 9月23日（土）-24日（日）
    * `Code for Japan Summit 2017 <https://summit2017.code4japan.org/>`_ [参加]
@@ -53,13 +47,28 @@
 * 10月14日（土）
    * `オープンソースカンファレンス2017 Shimane <https://www.ospn.jp/osc2017-shimane/>`_
 
+* 10月18日（水）
+   * `京アジャ・ビブリオバトル <https://connpass.com/event/67256/>`_
+
+* 10月20日（金）
+   * openSUSE asia summit 前日準備　
+
 * 10月21日（土）-22日（日）
    * LibreOffice mini conf / `openSUSE.Asia Summit 2017 Tokyo, Japan <https://news.opensuse.org/2017/06/30/opensuse-asia-summit-2017-tokyo-japan/>`_ [参加予定]
 
 * 11月10日（金）-11日（土）
    * `関西オープンフォーラム 2017 <https://k-of.jp/>`_ [参加予定]
 
-* 11月19日（日）
+* 11月13日（月）
+   * `【大阪開催】失敗したマイグレーションから学ぶ「設計の極意」 <https://products.sint.co.jp/obdz/seminar/sn20171113>`_
+
+* 11月18日（土）
+   * `OSS Gate大阪ワークショップ2017-11-18 <https://oss-gate.doorkeeper.jp/events/65122>`_ [参加]
+
+* 11月25日（土）
+   * OSCサミット2017 [参加予定]
+
+* 11月26日（日）
    * `オープンソースカンファレンス2017 Hiroshima <https://www.ospn.jp/osc2017-hiroshima/>`_ [参加予定]
 
 * 12月2日（土）
