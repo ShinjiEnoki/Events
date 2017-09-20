@@ -5,18 +5,6 @@
 ^^^^^^^
 
 
-* 9月16日（土）
-   * `【西国街道#09・最終回】西宮郷・酒蔵マッピングパーティ <https://countries-romantic.connpass.com/event/64338/>`_ [参加]
-
-* 9月16日（土）
-   * `XP祭り2017 <http://xpjug.com/xp2017/>`_
-
-* 9月18日（月）
-   * jus拡大幹事会 [参加]
-
-* 9月20日（水）
-   * `LibreOfficeの日 vol.44 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/64811>`_ [参加]
-
 * 9月22日（金）
    * `Code for Japan Summit 2017前夜祭 <https://www.facebook.com/events/1450893284978863/>`_
 
@@ -27,7 +15,7 @@
    * `Code for Japan Summit 2017 <https://summit2017.code4japan.org/>`_ [参加]
 
 * 9月27日（水）
-   * `スモール・リーダーシップ読書会 #1 <https://nishinaka-agile.connpass.com/event/66852/>`_
+   * `スモール・リーダーシップ読書会 #1 <https://nishinaka-agile.connpass.com/event/66852/>`_ [参加]
 
 * 9月30日（土）
    * `オープンデータソン2017 in 宇治 vol.4  <https://opendatakyoto.connpass.com/event/65842/>`_ [参加]
@@ -61,6 +49,9 @@
 
 * 11月13日（月）
    * `【大阪開催】失敗したマイグレーションから学ぶ「設計の極意」 <https://products.sint.co.jp/obdz/seminar/sn20171113>`_
+
+* 11月14（火）日-15日（水）
+   * `Product Manager Conference 2017 <http://2017.pmconf.jp/>`_
 
 * 11月18日（土）
    * `OSS Gate大阪ワークショップ2017-11-18 <https://oss-gate.doorkeeper.jp/events/65122>`_ [参加]

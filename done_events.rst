@@ -4,6 +4,15 @@
 2017年
 ^^^^^^
 
+* 9月20日（水）
+   * `LibreOfficeの日 vol.44 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/64811>`_ [参加]
+
+* 9月18日（月）
+   * jus拡大幹事会 [参加]
+
+* 9月16日（土）
+   * `【西国街道#09・最終回】西宮郷・酒蔵マッピングパーティ <https://countries-romantic.connpass.com/event/64338/>`_
+
 * 9月14日（木）
    * ベンチャー開発本輪読会 #1
 
