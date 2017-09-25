@@ -4,8 +4,11 @@
 2017年
 ^^^^^^
 
+* 9月23日（土）-24日（日）
+   * `Code for Japan Summit 2017 <https://summit2017.code4japan.org/>`_
+
 * 9月20日（水）
-   * `LibreOfficeの日 vol.44 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/64811>`_ [参加]
+   * `LibreOfficeの日 vol.44 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/64811>`_
 
 * 9月18日（月）
    * jus拡大幹事会 [参加]

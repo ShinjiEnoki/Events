@@ -4,16 +4,6 @@
 2017年
 ^^^^^^^
 
-
-* 9月22日（金）
-   * `Code for Japan Summit 2017前夜祭 <https://www.facebook.com/events/1450893284978863/>`_
-
-* 9月22日（金）
-   * 前日準備 18:00しあわせの村
-
-* 9月23日（土）-24日（日）
-   * `Code for Japan Summit 2017 <https://summit2017.code4japan.org/>`_ [参加]
-
 * 9月27日（水）
    * `スモール・リーダーシップ読書会 #1 <https://nishinaka-agile.connpass.com/event/66852/>`_ [参加]
 
@@ -42,7 +32,7 @@
    * openSUSE asia summit 前日準備　
 
 * 10月21日（土）-22日（日）
-   * LibreOffice mini conf / `openSUSE.Asia Summit 2017 Tokyo, Japan <https://news.opensuse.org/2017/06/30/opensuse-asia-summit-2017-tokyo-japan/>`_ [参加予定]
+   * LibreOffice mini conf / `openSUSE.Asia Summit 2017 Tokyo, Japan <https://events.opensuse.org/conference/summitasia17>`_ [参加予定]
 
 * 11月10日（金）-11日（土）
    * `関西オープンフォーラム 2017 <https://k-of.jp/>`_ [参加予定]
