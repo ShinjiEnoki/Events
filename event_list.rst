@@ -4,8 +4,8 @@
 2017年
 ^^^^^^^
 
-* 9月27日（水）
-   * `スモール・リーダーシップ読書会 #1 <https://nishinaka-agile.connpass.com/event/66852/>`_ [参加]
+* 9月28日（木）
+   * ベンチャー事業開発手法勉強会#2
 
 * 9月30日（土）
    * `オープンデータソン2017 in 宇治 vol.4  <https://opendatakyoto.connpass.com/event/65842/>`_ [参加]
@@ -24,6 +24,9 @@
 
 * 10月14日（土）
    * `オープンソースカンファレンス2017 Shimane <https://www.ospn.jp/osc2017-shimane/>`_
+
+* 10月18日（水）
+   * `第４回「エラスティックリーダーシップ」読書会 <https://shin-osaka-agile.connpass.com/event/67872/>`_
 
 * 10月18日（水）
    * `京アジャ・ビブリオバトル <https://connpass.com/event/67256/>`_

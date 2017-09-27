@@ -4,6 +4,9 @@
 2017年
 ^^^^^^
 
+* 9月27日（水）
+   * `スモール・リーダーシップ読書会 #1 <https://nishinaka-agile.connpass.com/event/66852/>`_
+
 * 9月23日（土）-24日（日）
    * `Code for Japan Summit 2017 <https://summit2017.code4japan.org/>`_
 
