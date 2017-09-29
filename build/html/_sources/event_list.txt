@@ -4,9 +4,6 @@
 2017年
 ^^^^^^^
 
-* 9月28日（木）
-   * ベンチャー事業開発手法勉強会#2
-
 * 9月30日（土）
    * `オープンデータソン2017 in 宇治 vol.4  <https://opendatakyoto.connpass.com/event/65842/>`_ [参加]
 
@@ -36,6 +33,12 @@
 
 * 10月21日（土）-22日（日）
    * LibreOffice mini conf / `openSUSE.Asia Summit 2017 Tokyo, Japan <https://events.opensuse.org/conference/summitasia17>`_ [参加予定]
+
+* 10月25日（水）
+   * LibreOfficeの日 [参加]
+
+* 10月25日（水）
+   * スモール・リーダーシップ読書会 #2 <https://nishinaka-agile.connpass.com/event/68284/>
 
 * 11月10日（金）-11日（土）
    * `関西オープンフォーラム 2017 <https://k-of.jp/>`_ [参加予定]
