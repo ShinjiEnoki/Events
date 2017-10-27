@@ -4,6 +4,27 @@
 2017年
 ^^^^^^
 
+* 10月25日（水）
+   * `LibreOfficeの日vol.45 <https://juso-coworking.doorkeeper.jp/events/66695>`_
+
+* 10月21日（土）-22日（日）
+   * LibreOffice mini conf / `openSUSE.Asia Summit 2017 Tokyo, Japan <https://events.opensuse.org/conference/summitasia17>`_  `申込ページ <https://opensuseja.connpass.com/event/66093/>`_
+
+* 10月20日（金）
+   * openSUSE asia summit 前日準備/前夜祭
+
+* 10月11日（水）-13日（金）
+   * `LibreOffice Conference 2017 in Rome <http://libocon.org/>`_
+
+* 10月10日（火）
+   * LibreOffice Conference コミュニティミーティング
+
+* 10月10日（火）
+   * Collaboraパートナーミーティング
+
+* 9月30日（土）
+   * `オープンデータソン2017 in 宇治 vol.4  <https://opendatakyoto.connpass.com/event/65842/>`_
+
 * 9月28日（木）
    * ベンチャー事業開発手法勉強会#2
 

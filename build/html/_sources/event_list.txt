@@ -4,41 +4,11 @@
 2017年
 ^^^^^^^
 
-* 9月30日（土）
-   * `オープンデータソン2017 in 宇治 vol.4  <https://opendatakyoto.connpass.com/event/65842/>`_ [参加]
+* 10月29日（日）
+   * KOF直前ミーティング
 
-* 10月1日（日）
-   * `Scrum Boot Camp OSAKA in October 2017 <https://scrumdo-kansai.connpass.com/event/64750/>`_
-
-* 10月7日（土）
-   * `オープンソースカンファレンス2017 Fukuoka <https://www.ospn.jp/osc2017-fukuoka/>`_
-
-* 10月10日（火）
-   * LibreOffice Conference コミュニティミーティング [参加予定]
-
-* 10月11日（水）-13日（金）
-   * `LibreOffice Conference 2017 in Rome <http://libocon.org/>`_ [参加]
-
-* 10月14日（土）
-   * `オープンソースカンファレンス2017 Shimane <https://www.ospn.jp/osc2017-shimane/>`_
-
-* 10月18日（水）
-   * `第４回「エラスティックリーダーシップ」読書会 <https://shin-osaka-agile.connpass.com/event/67872/>`_
-
-* 10月18日（水）
-   * `京アジャ・ビブリオバトル <https://connpass.com/event/67256/>`_
-
-* 10月20日（金）
-   * openSUSE asia summit 前日準備　
-
-* 10月21日（土）-22日（日）
-   * LibreOffice mini conf / `openSUSE.Asia Summit 2017 Tokyo, Japan <https://events.opensuse.org/conference/summitasia17>`_ [参加予定]
-
-* 10月25日（水）
-   * LibreOfficeの日 [参加]
-
-* 10月25日（水）
-   * スモール・リーダーシップ読書会 #2 <https://nishinaka-agile.connpass.com/event/68284/>
+* 10月29日（日）
+   * J2関西
 
 * 11月10日（金）-11日（土）
    * `関西オープンフォーラム 2017 <https://k-of.jp/>`_ [参加予定]
@@ -51,6 +21,9 @@
 
 * 11月18日（土）
    * `OSS Gate大阪ワークショップ2017-11-18 <https://oss-gate.doorkeeper.jp/events/65122>`_ [参加]
+
+* 11月22日（水）
+   * `LibreOfficeの日 vol.46@JUSO <https://juso-coworking.doorkeeper.jp/events/66727>`_ [参加]
 
 * 11月25日（土）
    * OSCサミット2017 [参加予定]
