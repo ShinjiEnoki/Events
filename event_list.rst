@@ -10,8 +10,11 @@
 * 10月29日（日）
    * J2関西
 
+* 11月8日（水）
+   * `進化したTOC思考プロセス（Simplified Thinking Process）ワークショップ <https://tocfe-kansai.doorkeeper.jp/events/66754>`_
+
 * 11月10日（金）-11日（土）
-   * `関西オープンフォーラム 2017 <https://k-of.jp/>`_ [参加予定]
+   * `関西オープンフォーラム 2017 <https://k-of.jp/>`_ [参加]
 
 * 11月13日（月）
    * `【大阪開催】失敗したマイグレーションから学ぶ「設計の極意」 <https://products.sint.co.jp/obdz/seminar/sn20171113>`_
@@ -34,8 +37,8 @@
 * 12月2日（土）
    * JISTA関西オープンフォーラム [参加予定]
 
-* 12月8日（金）？
-   * JaSST 東海 / テスコン予選 [参加予定]
+* 12月8日（金）
+   * `JaSST 東海 <http://jasst.jp/symposium/jasst17tokai.html>`_ / テスコン予選 [参加予定]
 
 
 2018年
@@ -44,6 +47,7 @@
 * 1月26日（金）-27日（土）
    * `オープンソースカンファレンス2018 Osaka <https://www.ospn.jp/osc2018-osaka/>`_ [参加予定]
 
-
+* 2月
+   * オープンソースカンファレンス2018 Hamanako
 
 
