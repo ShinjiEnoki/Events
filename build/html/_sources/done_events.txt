@@ -4,6 +4,12 @@
 2017年
 ^^^^^^
 
+* 10月29日（日）
+   * KOF直前ミーティング
+
+* 10月29日（日）
+   * J2関西
+
 * 10月25日（水）
    * `LibreOfficeの日vol.45 <https://juso-coworking.doorkeeper.jp/events/66695>`_
 

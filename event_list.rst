@@ -4,14 +4,8 @@
 2017年
 ^^^^^^^
 
-* 10月29日（日）
-   * KOF直前ミーティング
-
-* 10月29日（日）
-   * J2関西
-
 * 11月8日（水）
-   * `進化したTOC思考プロセス（Simplified Thinking Process）ワークショップ <https://tocfe-kansai.doorkeeper.jp/events/66754>`_
+   * `進化したTOC思考プロセス（Simplified Thinking Process）ワークショップ <https://tocfe-kansai.doorkeeper.jp/events/66754>`_ [キャンセル待ち]
 
 * 11月10日（金）-11日（土）
    * `関西オープンフォーラム 2017 <https://k-of.jp/>`_ [参加]
@@ -35,7 +29,7 @@
    * `オープンソースカンファレンス2017 Hiroshima <https://www.ospn.jp/osc2017-hiroshima/>`_ [参加予定]
 
 * 12月2日（土）
-   * JISTA関西オープンフォーラム [参加予定]
+   * `JISTA関西オープンフォーラム！「働き方改革とITストラテジスト <https://www.jista.org/modules/eguide/event.php?eid=29&sub=1>`_ [参加]
 
 * 12月8日（金）
    * `JaSST 東海 <http://jasst.jp/symposium/jasst17tokai.html>`_ / テスコン予選 [参加予定]
