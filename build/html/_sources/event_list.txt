@@ -4,9 +4,6 @@
 2017年
 ^^^^^^^
 
-* 11月18日（土）
-   * `OSS Gate大阪ワークショップ2017-11-18 <https://oss-gate.doorkeeper.jp/events/65122>`_ [参加]
-
 * 11月22日（水）
    * `LibreOfficeの日 vol.46@JUSO <https://juso-coworking.doorkeeper.jp/events/66727>`_ [参加]
 
@@ -39,7 +36,10 @@
    * 浜名湖LibreOffice勉強会 [参加予定]
 
 * 2月11日（日）
-   * オープンソースカンファレンス2018 Hamanako [参加予定]
+   * `オープンソースカンファレンス2018 Hamanako <https://www.ospn.jp/osc2018-hamanako/>`_ [参加予定]
+
+* 2月23日（金）-24日（土）
+   * `オープンソースカンファレンス 2018 Tokyo/Spring <https://www.ospn.jp/osc2018-spring/>`_ [参加予定]
 
 * 3月3日
    * オープンデータディ in 京都
