@@ -4,6 +4,21 @@
 2017年
 ^^^^^^
 
+* 11月26日（日）
+   * `オープンソースカンファレンス2017 Hiroshima <https://www.ospn.jp/osc2017-hiroshima/>`_
+
+* 11月25日（土）
+   * OSCサミット2017
+
+* 11月24日（金）
+   * JISTA関西ミーティング
+
+* 11月22日（水）
+   * `OSMもくもくマッピング #11 <https://countries-romantic.connpass.com/event/71679/>`_
+
+* 11月22日（水）
+   * `LibreOfficeの日 vol.46@JUSO <https://juso-coworking.doorkeeper.jp/events/66727>`_
+
 * 11月18日（土）
    * `OSS Gate大阪ワークショップ2017-11-18 <https://oss-gate.doorkeeper.jp/events/65122>`_
 

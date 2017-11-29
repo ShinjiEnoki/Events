@@ -4,26 +4,23 @@
 2017年
 ^^^^^^^
 
-* 11月22日（水）
-   * `LibreOfficeの日 vol.46@JUSO <https://juso-coworking.doorkeeper.jp/events/66727>`_ [参加]
-
-* 11月22日（水）
-   * OSMもくもくマッピング #11 [参加]
-
-* 11月24日（金）
-   * JISTA関西ミーティング
-
-* 11月25日（土）
-   * OSCサミット2017 [参加]
-
-* 11月26日（日）
-   * `オープンソースカンファレンス2017 Hiroshima <https://www.ospn.jp/osc2017-hiroshima/>`_ [参加]
-
 * 12月2日（土）
    * `JISTA関西オープンフォーラム！「働き方改革とITストラテジスト <https://www.jista.org/modules/eguide/event.php?eid=29&sub=1>`_ [参加]
 
+* 12月5日（火）
+   * `OSS Gateふりかえり2017-12 Osaka <https://oss-gate.doorkeeper.jp/events/68104>`_ [参加]
+
 * 12月8日（金）
-   * `JaSST 東海 <http://jasst.jp/symposium/jasst17tokai.html>`_ / テスコン予選 [参加予定]
+   * `JaSST 東海 <http://jasst.jp/symposium/jasst17tokai.html>`_ / テスコン予選 [参加]
+
+* 12月15日（金）
+   * 智美塾（関西会場探し中）
+
+* 12月16日（土）
+   * `立命館MOT×Wonder LABコラボワークショップ <https://wonderrimot171216.peatix.com/>`_ [参加]
+
+* 12月17日（日）
+   * LILO
 
 
 2018年
