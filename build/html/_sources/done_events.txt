@@ -4,6 +4,18 @@
 2017年
 ^^^^^^
 
+* 12月9日（土）
+   * `OSS Gate京都ワークショップ at Kumano-Ryo 2017-12-09 <https://oss-gate.doorkeeper.jp/events/66508>`_
+
+* 12月8日（金）
+   * `JaSST 東海 <http://jasst.jp/symposium/jasst17tokai.html>`_ / テスコン予選
+
+* 12月5日（火）
+   * `OSS Gateふりかえり2017-12 Osaka <https://oss-gate.doorkeeper.jp/events/68104>`_
+
+* 12月2日（土）
+   * `JISTA関西オープンフォーラム！「働き方改革とITストラテジスト <https://www.jista.org/modules/eguide/event.php?eid=29&sub=1>`_
+
 * 11月26日（日）
    * `オープンソースカンファレンス2017 Hiroshima <https://www.ospn.jp/osc2017-hiroshima/>`_
 
