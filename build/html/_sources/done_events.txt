@@ -4,6 +4,12 @@
 2017年
 ^^^^^^
 
+* 12月17日（日）
+   * `LILO 20周年記念ミートアップ <https://lilo.connpass.com/event/73932/>`_
+
+* 12月16日（土）
+   * てすにゃんオフライン作業日
+
 * 12月9日（土）
    * `OSS Gate京都ワークショップ at Kumano-Ryo 2017-12-09 <https://oss-gate.doorkeeper.jp/events/66508>`_
 

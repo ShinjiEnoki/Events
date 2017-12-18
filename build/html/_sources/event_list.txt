@@ -4,20 +4,18 @@
 2017年
 ^^^^^^^
 
-* 12月15日（金）
-   * 智美塾（関西会場探し中）
-
-* 12月16日（土）
-   * てすにゃんオフライン作業日
-
-* 12月17日（日）
-   * `LILO 20周年記念ミートアップ <https://lilo.connpass.com/event/73932/>`_ [参加]
 
 * 12月20日（水）
    * `LibreOfficeの日 vol.47@JUSO <https://juso-coworking.doorkeeper.jp/events/68551>`_ [参加]
 
 * 12月20日（水）
    * `[OpenStreetMap]もくもくマッピング！#12 <https://countries-romantic.connpass.com/event/74437/>`_ [参加]
+
+* 12月22日（金）
+   * `関西LibreOffice HackFest 2017-12-22 <https://connpass.com/event/74914/>`_ [参加]
+
+* 12月22日（金）
+   * `関東LibreOffice翻訳スプリント2017.12.22 <https://kantolibo.connpass.com/event/74443/>`_
 
 * 12月24日（日）
    * `第130回関西 Debian 勉強会 <https://debianjp.connpass.com/event/74459/>`_
