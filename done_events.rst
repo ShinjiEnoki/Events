@@ -4,6 +4,15 @@
 2017年
 ^^^^^^
 
+* 12月22日（金）
+   * `関西LibreOffice HackFest 2017-12-22 <https://connpass.com/event/74914/>`_
+
+* 12月20日（水）
+   * `[OpenStreetMap]もくもくマッピング！#12 <https://countries-romantic.connpass.com/event/74437/>`_
+
+* 12月20日（水）
+   * `LibreOfficeの日 vol.47@JUSO <https://juso-coworking.doorkeeper.jp/events/68551>`_
+
 * 12月17日（日）
    * `LILO 20周年記念ミートアップ <https://lilo.connpass.com/event/73932/>`_
 
