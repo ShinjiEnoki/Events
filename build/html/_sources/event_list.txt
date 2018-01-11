@@ -1,18 +1,9 @@
 参加予定or興味ある、勉強会/セミナー/イベント
 =====================================================
 
-2017年
-^^^^^^^
-
 
 2018年
 ^^^^^^^
-
-* 1月5日（金）
-   * `openSUSE 2018 新年会 ＠京都 <https://opensuseja.connpass.com/event/73942/>`_ [参加]
-
-* 1月6日（土）
-   * 中野先生お祝い会
 
 * 1月13日（土）
    * jus拡大幹事会 [参加]
@@ -21,7 +12,7 @@
    * 宇治オープンデータソン報告会
 
 * 1月17日（日）
-   * LibreOfficeの日 @ JUSO Coworking
+   * `LibreOfficeの日 vol.48 @ JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/69353>`_ [参加]
 
 * 1月20日（土）
    * `神戸カフェ・スィーツ散策マッピングパーティ #01 <https://peatix.com/event/329116/>`_ [参加]
@@ -57,13 +48,20 @@
    * Wikipediaタウン
 
 * 3月10日（土）
-   * OSS Gate 大阪
+   * `OSS Gate大阪ワークショップ2018-03-10 <https://oss-gate.doorkeeper.jp/events/69160>`_ [参加]
 
 * 3月17日（土）
    * jus関西勉強会「シェルのいろいろ(仮)」
 
 * 3月24日（土）
-   * 関西LibreOffice勉強会
+   * 第15回関西LibreOffice勉強会 [参加予定]
 
+* 5月19日（土）
+   * `オープンソースカンファレンス2018 Nagoya <https://www.ospn.jp/osc2018-nagoya/>`_
 
+* 7月29日（日）-8月5日（日）
+   * Debconf 18 [前半参加予定]
+
+* 8月3日（金）-4日（土）
+   * オープンソースカンファレンス 2018 Kyoto [参加予定]
 
