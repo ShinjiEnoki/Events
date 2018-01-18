@@ -1,27 +1,23 @@
 参加予定or興味ある、勉強会/セミナー/イベント
 =====================================================
 
-
 2018年
 ^^^^^^^
-
-* 1月13日（土）
-   * jus拡大幹事会 [参加]
-
-* 1月14日（日）
-   * 宇治オープンデータソン報告会
-
-* 1月17日（日）
-   * `LibreOfficeの日 vol.48 @ JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/69353>`_ [参加]
 
 * 1月20日（土）
    * `神戸カフェ・スィーツ散策マッピングパーティ #01 <https://peatix.com/event/329116/>`_ [参加]
 
+* 1月22日（月）
+   * `越境し、現場を前進させるための人の巻き込み方 <https://devlove-kansai.doorkeeper.jp/events/68662>`_
+
+* 1月24日（水）
+   * `スクラム道関西 第99回定例会(オープン・ジャム) <https://scrumdo-kansai.connpass.com/event/77142/>`_
+
 * 1月26日（金）-27日（土）
-   * `オープンソースカンファレンス2018 Osaka <https://www.ospn.jp/osc2018-osaka/>`_ [参加予定]
+   * `オープンソースカンファレンス2018 Osaka <https://www.ospn.jp/osc2018-osaka/>`_ [参加]
 
 * 1月28日（日）
-   * LILO&東海道らぐ&関西Debian勉強会
+   * `LILO & 東海道らぐ & openSUSE & 関西Debian勉強会 <https://debianjp.connpass.com/event/76814/>`_ [参加]
 
 * 2月3日（土）
    * `第66回 SEA関西プロセス分科会＆第18回 Redmine大阪 <https://redmine-osaka.connpass.com/event/73716/>`_
@@ -64,4 +60,10 @@
 
 * 8月3日（金）-4日（土）
    * オープンソースカンファレンス 2018 Kyoto [参加予定]
+
+* 9月or10月
+   * LibreOfficeカンファレンス
+
+* ?月
+   * COSCUP in Taiwan
 

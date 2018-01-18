@@ -4,6 +4,18 @@
 2018年
 ^^^^^^
 
+* 1月17日（日）
+   * `[OpenStreetMap]もくもくマッピング！ #13 <https://countries-romantic.connpass.com/event/76134/>`_
+
+* 1月17日（日）
+   * `LibreOfficeの日 vol.48 @ JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/69353>`_
+
+* 1月14日（日）
+   * 宇治オープンデータソン報告会
+
+* 1月13日（土）
+   * jus拡大幹事会
+
 * 1月6日（土）
    * `中野秀男先生 古希お祝いパーティ <https://nakano-party.peatix.com/>`_
 
