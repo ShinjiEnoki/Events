@@ -4,32 +4,20 @@
 2018年
 ^^^^^^^
 
-* 1月20日（土）
-   * `神戸カフェ・スィーツ散策マッピングパーティ #01 <https://peatix.com/event/329116/>`_ [参加]
-
-* 1月22日（月）
-   * `越境し、現場を前進させるための人の巻き込み方 <https://devlove-kansai.doorkeeper.jp/events/68662>`_
-
-* 1月24日（水）
-   * `スクラム道関西 第99回定例会(オープン・ジャム) <https://scrumdo-kansai.connpass.com/event/77142/>`_
-
-* 1月26日（金）-27日（土）
-   * `オープンソースカンファレンス2018 Osaka <https://www.ospn.jp/osc2018-osaka/>`_ [参加]
-
-* 1月28日（日）
-   * `LILO & 東海道らぐ & openSUSE & 関西Debian勉強会 <https://debianjp.connpass.com/event/76814/>`_ [参加]
-
 * 2月3日（土）
    * `第66回 SEA関西プロセス分科会＆第18回 Redmine大阪 <https://redmine-osaka.connpass.com/event/73716/>`_
 
 * 2月10日（土）
    * 浜名湖LibreOffice勉強会 [参加予定]
 
+* 2月10日（土）
+   * `OSC2018浜名湖前夜祭 <https://osc-hamanako.connpass.com/event/76904/>`_
+
 * 2月11日（日）
-   * `オープンソースカンファレンス2018 Hamanako <https://www.ospn.jp/osc2018-hamanako/>`_ [参加予定]
+   * `オープンソースカンファレンス2018 Hamanako <https://www.ospn.jp/osc2018-hamanako/>`_ [参加]
 
 * 2月17日
-   * オープンストリートマップ勉強会 in 高槻
+   * `OpenStreetMap Frontier #01 <https://countries-romantic.connpass.com/event/77491/>`_ [参加、懇親会不参加]
 
 * 2月23日（金）-24日（土）
    * `オープンソースカンファレンス 2018 Tokyo/Spring <https://www.ospn.jp/osc2018-spring/>`_ [参加予定]
@@ -48,6 +36,9 @@
 
 * 3月17日（土）
    * jus関西勉強会「シェルのいろいろ(仮)」
+
+* 3月18日（日）
+   * jus拡大幹事会
 
 * 3月24日（土）
    * 第15回関西LibreOffice勉強会 [参加予定]

@@ -4,6 +4,21 @@
 2018年
 ^^^^^^
 
+* 1月28日（日）
+   * `LILO & 東海道らぐ & openSUSE & 関西Debian勉強会 <https://debianjp.connpass.com/event/76814/>`_
+
+* 1月26日（金）-27日（土）
+   * `オープンソースカンファレンス2018 Osaka <https://www.ospn.jp/osc2018-osaka/>`_
+
+* 1月24日（水）
+   * `スクラム道関西 第99回定例会(オープン・ジャム) <https://scrumdo-kansai.connpass.com/event/77142/>`_
+
+* 1月22日（月）
+   * `越境し、現場を前進させるための人の巻き込み方 <https://devlove-kansai.doorkeeper.jp/events/68662>`_
+
+* 1月20日（土）
+   * `神戸カフェ・スィーツ散策マッピングパーティ #01 <https://peatix.com/event/329116/>`_
+
 * 1月17日（日）
    * `[OpenStreetMap]もくもくマッピング！ #13 <https://countries-romantic.connpass.com/event/76134/>`_
 
