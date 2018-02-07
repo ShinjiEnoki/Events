@@ -1,17 +1,14 @@
-参加予定or興味ある、勉強会/セミナー/イベント
-=====================================================
+Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
+=========================================================
 
 2018年
 ^^^^^^^
 
-* 2月3日（土）
-   * `第66回 SEA関西プロセス分科会＆第18回 Redmine大阪 <https://redmine-osaka.connpass.com/event/73716/>`_
+* 2月10日（土）
+   * `第7回浜名湖LibreOffice勉強会 <https://connpass.com/event/76908/>`_ [参加]
 
 * 2月10日（土）
-   * 浜名湖LibreOffice勉強会 [参加予定]
-
-* 2月10日（土）
-   * `OSC2018浜名湖前夜祭 <https://osc-hamanako.connpass.com/event/76904/>`_
+   * `OSC2018浜名湖前夜祭 <https://osc-hamanako.connpass.com/event/76904/>`_ [参加]
 
 * 2月11日（日）
    * `オープンソースカンファレンス2018 Hamanako <https://www.ospn.jp/osc2018-hamanako/>`_ [参加]
@@ -24,6 +21,12 @@
 
 * 2月24日（土）
    * てすこん決勝
+
+* 2月28日（水）
+   `LibreOfficeの日 vol.49 @ JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/69734>`_ [参加]
+
+* 2月28日（水）
+   * `[OpenStreetMap]もくもくマッピング！ #14 <>`_ [参加]
 
 * 3月3日
    * オープンデータディ in 京都
