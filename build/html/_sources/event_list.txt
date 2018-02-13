@@ -4,16 +4,10 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
 2018年
 ^^^^^^^
 
-* 2月10日（土）
-   * `第7回浜名湖LibreOffice勉強会 <https://connpass.com/event/76908/>`_ [参加]
+* 2月15（木）
+   * Code for Kobe 定例会 36th [参加]
 
-* 2月10日（土）
-   * `OSC2018浜名湖前夜祭 <https://osc-hamanako.connpass.com/event/76904/>`_ [参加]
-
-* 2月11日（日）
-   * `オープンソースカンファレンス2018 Hamanako <https://www.ospn.jp/osc2018-hamanako/>`_ [参加]
-
-* 2月17日
+* 2月17日（土）
    * `OpenStreetMap Frontier #01 <https://countries-romantic.connpass.com/event/77491/>`_ [参加、懇親会不参加]
 
 * 2月23日（金）-24日（土）
@@ -22,6 +16,9 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
 * 2月24日（土）
    * てすこん決勝
 
+* 2月25日（日）
+   * 関東LibreOffice hackfest
+
 * 2月28日（水）
    `LibreOfficeの日 vol.49 @ JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/69734>`_ [参加]
 
@@ -29,10 +26,7 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
    * `[OpenStreetMap]もくもくマッピング！ #14 <>`_ [参加]
 
 * 3月3日
-   * オープンデータディ in 京都
-
-* 3月4日
-   * Wikipediaタウン
+   * `インターナショナルオープンデータディ2018 in 京都 <https://opendatakyoto.connpass.com/event/79064/>`_ [参加]
 
 * 3月10日（土）
    * `OSS Gate大阪ワークショップ2018-03-10 <https://oss-gate.doorkeeper.jp/events/69160>`_ [参加]

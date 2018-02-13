@@ -4,6 +4,15 @@
 2018年
 ^^^^^^
 
+* 2月11日（日）
+   * `オープンソースカンファレンス2018 Hamanako <https://www.ospn.jp/osc2018-hamanako/>`_
+
+* 2月10日（土）
+   * `OSC2018浜名湖前夜祭 <https://osc-hamanako.connpass.com/event/76904/>`_
+
+* 2月10日（土）
+   * `第7回浜名湖LibreOffice勉強会 <https://connpass.com/event/76908/>`_
+
 * 1月28日（日）
    * `LILO & 東海道らぐ & openSUSE & 関西Debian勉強会 <https://debianjp.connpass.com/event/76814/>`_
 
