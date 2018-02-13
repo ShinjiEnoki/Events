@@ -23,7 +23,7 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
    * 関東LibreOffice hackfest
 
 * 2月28日（水）
-   `LibreOfficeの日 vol.49 @ JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/69734>`_ [参加]
+   * `LibreOfficeの日 vol.49 @ JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/69734>`_ [参加]
 
 * 2月28日（水）
    * `[OpenStreetMap]もくもくマッピング！ #14 <https://countries-romantic.connpass.com/event/78844/>`_ [参加]
