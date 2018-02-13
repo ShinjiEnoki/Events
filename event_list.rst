@@ -10,6 +10,9 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
 * 2月17日（土）
    * `OpenStreetMap Frontier #01 <https://countries-romantic.connpass.com/event/77491/>`_ [参加、懇親会不参加]
 
+* 2月22日（木）
+   * `「サービスデザインってどうよ？」座談会 <https://postudy.doorkeeper.jp/events/68615>`_
+
 * 2月23日（金）-24日（土）
    * `オープンソースカンファレンス 2018 Tokyo/Spring <https://www.ospn.jp/osc2018-spring/>`_ [参加予定]
 
@@ -23,7 +26,7 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
    `LibreOfficeの日 vol.49 @ JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/69734>`_ [参加]
 
 * 2月28日（水）
-   * `[OpenStreetMap]もくもくマッピング！ #14 <>`_ [参加]
+   * `[OpenStreetMap]もくもくマッピング！ #14 <https://countries-romantic.connpass.com/event/78844/>`_ [参加]
 
 * 3月3日
    * `インターナショナルオープンデータディ2018 in 京都 <https://opendatakyoto.connpass.com/event/79064/>`_ [参加]
