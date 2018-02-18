@@ -4,14 +4,6 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
 2018年
 ^^^^^^^
 
-* 2月14日
-   * `OSS Gate大阪ミートアップ for React <https://oss-gate.doorkeeper.jp/events/70576>`_
-
-* 2月15（木）
-   * Code for Kobe 定例会 36th [参加]
-
-* 2月17日（土）
-   * `OpenStreetMap Frontier #01 <https://countries-romantic.connpass.com/event/77491/>`_ [参加、懇親会不参加]
 
 * 2月22日（木）
    * `「サービスデザインってどうよ？」座談会 <https://postudy.doorkeeper.jp/events/68615>`_
@@ -20,7 +12,7 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
    * `オープンソースカンファレンス 2018 Tokyo/Spring <https://www.ospn.jp/osc2018-spring/>`_ [参加予定]
 
 * 2月24日（土）
-   * てすこん決勝
+   * `テスト決勝コンテスト2018決勝 <http://aster.or.jp/business/contest/schedule.html#schedule3>`_ [参加], `テスコン2018懇親会 <http://www.kokuchpro.com/event/tdc2018_final/>`_ [参加]
 
 * 2月25日（日）
    * 関東LibreOffice hackfest

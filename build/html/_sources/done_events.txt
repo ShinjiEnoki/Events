@@ -4,6 +4,15 @@
 2018年
 ^^^^^^
 
+* 2月17日（土）
+   * `OpenStreetMap Frontier #01 <https://countries-romantic.connpass.com/event/77491/>`_
+
+* 2月15（木）
+   * Code for Kobe 定例会 36th
+
+* 2月14日
+   * `OSS Gate大阪ミートアップ for React <https://oss-gate.doorkeeper.jp/events/70576>`_
+
 * 2月11日（日）
    * `オープンソースカンファレンス2018 Hamanako <https://www.ospn.jp/osc2018-hamanako/>`_
 
