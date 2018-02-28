@@ -4,14 +4,26 @@
 2018年
 ^^^^^^
 
+* 2月28日（水）
+   * `LibreOfficeの日 vol.49 @ JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/69734>`_
+
+* 2月28日（水）
+   * `[OpenStreetMap]もくもくマッピング！ #14 <https://countries-romantic.connpass.com/event/78844/>`_
+
+* 2月25日（日）
+   * 関東LibreOffice hackfest
+
+* 2月24日（土）
+   * `テスト決勝コンテスト2018決勝 <http://aster.or.jp/business/contest/schedule.html#schedule3>`_ , `テスコン2018懇親会 <http://www.kokuchpro.com/event/tdc2018_final/>`_
+
+* 2月23日（金）-24日（土）
+   * `オープンソースカンファレンス 2018 Tokyo/Spring <https://www.ospn.jp/osc2018-spring/>`_
+
 * 2月17日（土）
    * `OpenStreetMap Frontier #01 <https://countries-romantic.connpass.com/event/77491/>`_
 
 * 2月15（木）
    * Code for Kobe 定例会 36th
-
-* 2月14日
-   * `OSS Gate大阪ミートアップ for React <https://oss-gate.doorkeeper.jp/events/70576>`_
 
 * 2月11日（日）
    * `オープンソースカンファレンス2018 Hamanako <https://www.ospn.jp/osc2018-hamanako/>`_
