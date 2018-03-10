@@ -4,23 +4,41 @@
 2018年
 ^^^^^^
 
+* 3月10日（土）
+   * `OSS Gate大阪ワークショップ2018-03-10 <https://oss-gate.doorkeeper.jp/events/69160>`_
+
+* 3月7日（水）
+   * `スクラム道関西 第101回定例会(オープン・ジャム)  <https://scrumdo-kansai.connpass.com/event/81039/>`_
+
+* 3月3日（土）
+   * `インターナショナルオープンデータディ2018 in 京都 <https://opendatakyoto.connpass.com/event/79064/>`_
+
+* 3月2日（金）
+   * `モブプログラミングをやろう!! 〜アジャイルモンスターのモブプロ入門〜 <https://www.google.com/url?q=https%3A%2F%2Fkoberb.doorkeeper.jp%2Fevents%2F70770&sa=D&usd=2&usg=AFQjCNFpy1kJqMqKVLgUYFPjulcgq023vw>`_
+
 * 2月28日（水）
    * `LibreOfficeの日 vol.49 @ JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/69734>`_
 
 * 2月28日（水）
    * `[OpenStreetMap]もくもくマッピング！ #14 <https://countries-romantic.connpass.com/event/78844/>`_
 
+* 2月26日（月）
+   * IODD 2018 Code for Kobe 準備編
+
 * 2月25日（日）
-   * 関東LibreOffice hackfest
+   * `関東LibreOffice HackFest 2018.2.25 <https://juso-coworking.doorkeeper.jp/events/69353>`_
 
 * 2月24日（土）
    * `テスト決勝コンテスト2018決勝 <http://aster.or.jp/business/contest/schedule.html#schedule3>`_ , `テスコン2018懇親会 <http://www.kokuchpro.com/event/tdc2018_final/>`_
 
-* 2月23日（金）-24日（土）
+* 2月23日（金）
    * `オープンソースカンファレンス 2018 Tokyo/Spring <https://www.ospn.jp/osc2018-spring/>`_
 
 * 2月17日（土）
    * `OpenStreetMap Frontier #01 <https://countries-romantic.connpass.com/event/77491/>`_
+
+* 2月16日（金）
+   * JISTA関西2018年2月月例会
 
 * 2月15（木）
    * Code for Kobe 定例会 36th
@@ -37,14 +55,20 @@
 * 1月28日（日）
    * `LILO & 東海道らぐ & openSUSE & 関西Debian勉強会 <https://debianjp.connpass.com/event/76814/>`_
 
-* 1月26日（金）-27日（土）
+* 1月27日（土）
    * `オープンソースカンファレンス2018 Osaka <https://www.ospn.jp/osc2018-osaka/>`_
+
+* 1月25日（木）
+   * JISTA関西定例会2018/01
 
 * 1月24日（水）
    * `スクラム道関西 第99回定例会(オープン・ジャム) <https://scrumdo-kansai.connpass.com/event/77142/>`_
 
 * 1月22日（月）
    * `越境し、現場を前進させるための人の巻き込み方 <https://devlove-kansai.doorkeeper.jp/events/68662>`_
+
+* 1月21日（日）
+   * テスト設計コンテスト・てすにゃんオフラインミーティング&意見交換会
 
 * 1月20日（土）
    * `神戸カフェ・スィーツ散策マッピングパーティ #01 <https://peatix.com/event/329116/>`_
