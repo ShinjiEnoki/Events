@@ -4,6 +4,36 @@
 2018年
 ^^^^^^
 
+* 4月18日（水）
+   * `[OpenStreetMap]もくもくマッピング！ #16  <https://countries-romantic.connpass.com/event/84326/>`_
+
+* 4月18日（水）
+   * `LibreOfficeの日 vol.51 @ Juso Coworking <https://juso-coworking.doorkeeper.jp/events/73311>`_
+
+* 4月15日（日）
+   * `Linux Kernel勉強会　2018年4月分 <https://linux-kernel.connpass.com/event/83510/>`_
+
+* 4月14日（土）
+   * `加古川IT系インフラ勉強会 2018.04 <https://histudy.connpass.com/event/82014/>`_
+
+* 3月28日（水）
+   * `[OpenStreetMap]もくもくマッピング！ #15 <https://countries-romantic.connpass.com/event/81859/>`_
+
+* 3月28日（水）
+   * LibreOfficeの日
+
+* 3月24日（土）
+   * `第15回関西LibreOffice勉強会 <https://connpass.com/event/81990/>`_
+
+* 3月18日（日）
+   * jus拡大幹事会
+
+* 3月17日（土）
+   * `jus & USP友の会共催 シェル勉強会@関西（第34回いつも難しい問題ばっかり出す上田が真面目に考えた初心者用シェル芸勉強会）  <https://techplay.jp/event/662279>`_
+
+* 3月11日（日）
+   * `ウィキペディアタウンin大阪市立中央図書館 <http://www.oml.city.osaka.lg.jp/index.php?key=joe3mv35d-6714>`_
+
 * 3月10日（土）
    * `OSS Gate大阪ワークショップ2018-03-10 <https://oss-gate.doorkeeper.jp/events/69160>`_
 

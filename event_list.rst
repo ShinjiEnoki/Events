@@ -4,29 +4,23 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
 2018年
 ^^^^^^^
 
-* 3月11日（日）
-   * `ウィキペディアタウンin大阪市立中央図書館 <http://www.oml.city.osaka.lg.jp/index.php?key=joe3mv35d-6714>`_ [参加]
+* 4月28日
+   * `テスト設計コンテスト'18 OPENクラス 関西チーム参加報告会 <https://warai.connpass.com/event/84176/>`_ [参加]
 
-* 3月17日（土）
-   * `jus & USP友の会共催 シェル勉強会@関西（第34回いつも難しい問題ばっかり出す上田が真面目に考えた初心者用シェル芸勉強会）  <https://techplay.jp/event/662279>`_ [参加]
+* 5月12日（土）
+   * `LibreOffice kaigi 2018 <https://libojapan.connpass.com/event/81750/>`_ [参加]
 
-* 3月18日（日）
-   * jus拡大幹事会
+* 5月13日（日）
+   * `関西LibreOffice HackFest 2018-05-13 <https://libojapan.connpass.com/event/84340/>`_ [参加]
 
-* 3月24日（土）
-   * `第15回関西LibreOffice勉強会 <https://connpass.com/event/81990/>`_ [参加]
+* 5月18日（金）
+   * JISTA関西プチオープンフォーラム「人の心を動かす10分スピーチのつくり方」 [参加]
 
-* 3月27日（火）
-   * `京都アジャイル勉強会#79 オープン・ジャム <https://connpass.com/event/81689/>`_ [参加]
-
-* 3月28日（水）
-   * LibreOfficeの日
-
-* 3月28日（水）
-   * `[OpenStreetMap]もくもくマッピング！ #15 <https://countries-romantic.connpass.com/event/81859/>`_ [参加]
+* 5月16日（水）
+   * `LibreOfficeの日 vol.52 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/73413>`_ [参加]
 
 * 5月19日（土）
-   * `オープンソースカンファレンス2018 Nagoya <https://www.ospn.jp/osc2018-nagoya/>`_
+   * `オープンソースカンファレンス2018 Nagoya <https://www.ospn.jp/osc2018-nagoya/>`_ [参加]
 
 * 7月29日（日）-8月5日（日）
    * `Debconf 18 <https://wiki.debconf.org/wiki/DebConf18>`_ [前半参加予定]
@@ -37,9 +31,13 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
 * 8月3日（金）-4日（土）
    * `二夜限りのギークハウス in 京都 2018 <https://atnd.org/events/94723>`_ [参加]
 
-* 9月26日（水）-28日（金）？
-   * LibreOffice Conference 2018 Tirana, Albania [参加予定]
+* 8月11日（土）-12日（日）
+   * `COSCUP 2018 <https://2018.coscup.org/>`_ [不参加の予定]
 
-* ?月
-   * COSCUP in Taiwan
+* 9月25日（火）？
+   * LiboCon 前日ミーティング　
+
+* 9月26日（水）-28日（金）？
+   * `LibreOffice Conference 2018 Tirana, Albania <https://libocon.org/>`_ [参加予定]
+
 
