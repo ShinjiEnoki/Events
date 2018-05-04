@@ -4,6 +4,18 @@
 2018年
 ^^^^^^
 
+* 5月3日（木）
+   * `LILO&東海道らぐオフラインミーティング 2018/05/03 <https://lilo.connpass.com/event/85392/>`_ 
+
+* 5月2日（水）
+   * 岡町図書館ウィキペディアもくもく会
+
+* 4月28日（土）
+   * `テスト設計コンテスト'18 OPENクラス 関西チーム参加報告会 <https://warai.connpass.com/event/84176/>`_
+
+* 4月27日（金）
+   * `２人の方法論者によるデータモデリング激レア対談 <https://benkyoenkai.connpass.com/event/85678/>`_
+
 * 4月18日（水）
    * `[OpenStreetMap]もくもくマッピング！ #16  <https://countries-romantic.connpass.com/event/84326/>`_
 
@@ -15,6 +27,9 @@
 
 * 4月14日（土）
    * `加古川IT系インフラ勉強会 2018.04 <https://histudy.connpass.com/event/82014/>`_
+
+* 4月12日（木）
+   * `OSS Gate 大阪振り返り2018-04 <https://oss-gate.doorkeeper.jp/events/72012>`_
 
 * 3月28日（水）
    * `[OpenStreetMap]もくもくマッピング！ #15 <https://countries-romantic.connpass.com/event/81859/>`_

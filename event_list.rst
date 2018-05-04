@@ -4,9 +4,6 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
 2018年
 ^^^^^^^
 
-* 4月28日
-   * `テスト設計コンテスト'18 OPENクラス 関西チーム参加報告会 <https://warai.connpass.com/event/84176/>`_ [参加]
-
 * 5月12日（土）
    * `LibreOffice kaigi 2018 <https://libojapan.connpass.com/event/81750/>`_ [参加]
 
@@ -21,6 +18,9 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
 
 * 5月19日（土）
    * `オープンソースカンファレンス2018 Nagoya <https://www.ospn.jp/osc2018-nagoya/>`_ [参加]
+
+* 5月27日（日）
+   * jus拡大幹事会 2018-05
 
 * 7月29日（日）-8月5日（日）
    * `Debconf 18 <https://wiki.debconf.org/wiki/DebConf18>`_ [前半参加予定]
