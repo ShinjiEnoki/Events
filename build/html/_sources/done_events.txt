@@ -4,6 +4,9 @@
 2018年
 ^^^^^^
 
+* 5月6日（日）
+   * `まちライブラリー ブックフェスタ2018 in関西　「久米田の道、未知を探れ！」ウィキペディアタウン <http://www.wakayama-u.ac.jp/kishiwada/post_464.html>`_
+
 * 5月3日（木）
    * `LILO&東海道らぐオフラインミーティング 2018/05/03 <https://lilo.connpass.com/event/85392/>`_ 
 
