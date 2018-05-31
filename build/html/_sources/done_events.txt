@@ -4,6 +4,30 @@
 2018年
 ^^^^^^
 
+* 5月28日（月）
+   * `京都アジャイル勉強会#81 オープン・ジャム <https://connpass.com/event/86232/>`_
+
+* 5月27日（日）
+   * jus拡大幹事会 2018-05
+
+* 5月19日（土）
+   * `オープンソースカンファレンス2018 Nagoya <https://www.ospn.jp/osc2018-nagoya/>`_
+
+* 5月18日（金）
+   * JISTA関西プチオープンフォーラム「人の心を動かす10分スピーチのつくり方」
+
+* 5月16日（水）
+   * `LibreOfficeの日 vol.52 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/73413>`_
+
+* 5月13日（日）
+   * `関西LibreOffice HackFest 2018-05-13 <https://libojapan.connpass.com/event/84340/>`_
+
+* 5月12日（土）
+   * `LibreOffice kaigi 2018 <https://libojapan.connpass.com/event/81750/>`_
+
+* 5月8日（火）
+   * `関西知的財産セミナー「著作権制度の動向について」 <http://www.oit.ac.jp/ip/graduate/announce/20180508_seminar.html>`_
+
 * 5月6日（日）
    * `まちライブラリー ブックフェスタ2018 in関西　「久米田の道、未知を探れ！」ウィキペディアタウン <http://www.wakayama-u.ac.jp/kishiwada/post_464.html>`_
 
