@@ -4,7 +4,7 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
 2018年
 ^^^^^^^
 
-* 6月6日
+* 6月6日（水）
    * `スクラム道関西 第106回オープン・ジャム <https://scrumdo-kansai.connpass.com/event/89591/>`_ [参加]
 
 * 6月13日（水）
@@ -25,6 +25,9 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
 * 6月23日（土）
    * `openSUSE mini Summit 2018 <https://opensuseja.connpass.com/event/86085/>`_ [参加]
 
+* 6月24日（日）
+   * `第 136 回関西 Debian 勉強会 + Linux Kernel 勉強会 <https://debianjp.connpass.com/event/90376/>`_
+
 * 7月7日（土）
    * 岡山でのウィキペディアタウン
 
@@ -36,7 +39,7 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
    * `日本UNIXユーザ会勉強会「社会人のためのIT教育 〜エンジニアの教育をどうしているか〜」 <https://jus.connpass.com/event/89647/>`_ [参加]
 
 * 7月29日（日）-8月5日（日）
-   * `Debconf 18 <https://wiki.debconf.org/wiki/DebConf18>`_ [前半参加予定]
+   * `DebConf18 <https://debconf18.debconf.org/>`_ , `debconf wiki <https://wiki.debconf.org/wiki/DebConf18>`_ [前半参加予定]
 
 * 8月3日（金）-4日（土）
    * オープンソースカンファレンス 2018 Kyoto [参加予定]
