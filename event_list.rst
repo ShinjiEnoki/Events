@@ -4,9 +4,6 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
 2018年
 ^^^^^^^
 
-* 6月6日（水）
-   * `スクラム道関西 第106回オープン・ジャム <https://scrumdo-kansai.connpass.com/event/89591/>`_ [参加]
-
 * 6月13日（水）
    * `LibreOfficeの日 vol.53 @ JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/75376>`_ [参加]
 
@@ -14,7 +11,10 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
    * `[OpenStreetMap]もくもくマッピング！ #18 <https://countries-romantic.connpass.com/event/88936/>`_ [参加]
 
 * 6月15日（金）
-   * `JaSST'18 Kansai <http://jasst.jp/symposium/jasst18kansai.html>`_ [参加]
+   * `JaSST'18 Kansai <http://jasst.jp/symposium/jasst18kansai.html>`_ [参加] `JaSST’18 関西 情報交換会 夜の部 <https://connpass.com/event/90173/>`_ [参加]
+
+* 6月17日（日）
+   * KOF実行委員ミーティング
 
 * 6月19日（火）
    * Open Source Summit Japan 2018 前日準備
@@ -27,6 +27,12 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
 
 * 6月24日（日）
    * `第 136 回関西 Debian 勉強会 + Linux Kernel 勉強会 <https://debianjp.connpass.com/event/90376/>`_
+
+* 6月24日（日）
+   * `OSS Gate京都ワークショップ 2018-06-24 <https://manage.doorkeeper.jp/groups/oss-gate/events/73313>`_
+
+* 6月30日（土）
+   * `OSS Gate大阪ワークショップ2018-06-30 <https://oss-gate.doorkeeper.jp/events/75580>`_ [参加]
 
 * 7月7日（土）
    * 岡山でのウィキペディアタウン

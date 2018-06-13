@@ -4,6 +4,9 @@
 2018年
 ^^^^^^
 
+* 6月6日（水）
+   * `スクラム道関西 第106回オープン・ジャム <https://scrumdo-kansai.connpass.com/event/89591/>`_
+
 * 5月28日（月）
    * `京都アジャイル勉強会#81 オープン・ジャム <https://connpass.com/event/86232/>`_
 
