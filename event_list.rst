@@ -4,20 +4,14 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
 2018年
 ^^^^^^^
 
-* 6月13日（水）
-   * `LibreOfficeの日 vol.53 @ JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/75376>`_ [参加]
-
-* 6月13日（水）
-   * `[OpenStreetMap]もくもくマッピング！ #18 <https://countries-romantic.connpass.com/event/88936/>`_ [参加]
-
-* 6月15日（金）
-   * `JaSST'18 Kansai <http://jasst.jp/symposium/jasst18kansai.html>`_ [参加] `JaSST’18 関西 情報交換会 夜の部 <https://connpass.com/event/90173/>`_ [参加]
-
 * 6月17日（日）
    * KOF実行委員ミーティング
 
 * 6月19日（火）
    * Open Source Summit Japan 2018 前日準備
+
+* 6月19日（火）
+   * `Nextcloud Meetup Tokyo #01 <https://nextcloudjp.connpass.com/event/91014/>`_ [参加]
 
 * 6月20日（水）-22日（金）
    * `Open Source Summit Japan 2018 <https://events.linuxfoundation.jp/events/open-source-summit-japan-2018/>`_ [参加]
@@ -35,13 +29,13 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
    * `OSS Gate大阪ワークショップ2018-06-30 <https://oss-gate.doorkeeper.jp/events/75580>`_ [参加]
 
 * 7月7日（土）
-   * 岡山でのウィキペディアタウン
+   * 岡山でのウィキペディアタウン [参加予定]
 
 * 7月14日（土）
-   * jus拡大幹事会
+   * jus拡大幹事会 [参加]
 
 * 7月21日（土）
-   * jus総会&勉強会
+   * jus2018年度総会 [参加]
    * `日本UNIXユーザ会勉強会「社会人のためのIT教育 〜エンジニアの教育をどうしているか〜」 <https://jus.connpass.com/event/89647/>`_ [参加]
 
 * 7月29日（日）-8月5日（日）

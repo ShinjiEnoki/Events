@@ -4,6 +4,15 @@
 2018年
 ^^^^^^
 
+* 6月15日（金）
+   * `JaSST'18 Kansai <http://jasst.jp/symposium/jasst18kansai.html>`_  `JaSST’18 関西 情報交換会 夜の部 <https://connpass.com/event/90173/>`_
+
+* 6月13日（水）
+   * `LibreOfficeの日 vol.53 @ JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/75376>`_
+
+* 6月13日（水）
+   * `[OpenStreetMap]もくもくマッピング！ #18 <https://countries-romantic.connpass.com/event/88936/>`_
+
 * 6月6日（水）
    * `スクラム道関西 第106回オープン・ジャム <https://scrumdo-kansai.connpass.com/event/89591/>`_
 
