@@ -4,6 +4,42 @@
 2018年
 ^^^^^^
 
+* 7月14日（土）
+   * jus拡大幹事会
+
+* 7月14日（土）
+   * `小江戸らぐ 7月のオフな集まり(第192回)  <https://koedolug.connpass.com/event/94461/>`_
+
+* 7月13日（金）
+   * `OSC意見交換会 by OSCスポンサー <https://www.ospn.jp/modules/eguide/event.php?eid=2>`_
+
+* 6月30日（土）
+   * `OSS Gate大阪ワークショップ2018-06-30 <https://oss-gate.doorkeeper.jp/events/75580>`_
+
+* 6月26日（火）
+   * `本との地図bar #01 <https://www.facebook.com/events/200788963877592/>`_
+
+* 6月24日（日）
+   * `第 136 回関西 Debian 勉強会 + Linux Kernel 勉強会 <https://debianjp.connpass.com/event/90376/>`_
+
+* 6月23日（土）
+   * `openSUSE mini Summit 2018 <https://opensuseja.connpass.com/event/86085/>`_
+
+* 6月20日（水）-22日（金）
+   * `Open Source Summit Japan 2018 <https://events.linuxfoundation.jp/events/open-source-summit-japan-2018/>`_
+
+* 6月19日（火）
+   * `Nextcloud Meetup Tokyo #01 <https://nextcloudjp.connpass.com/event/91014/>`_
+
+* 6月19日（火）
+   * Open Source Summit Japan 2018 前日準備
+
+* 6月17日（日）
+   * KOF実行委員ミーティング
+
+* 6月16日（土）
+   * `JSTQB AdvancedLevelテスト勉強会 2018-06-16 <https://warai.connpass.com/event/90391/>`_
+
 * 6月15日（金）
    * `JaSST'18 Kansai <http://jasst.jp/symposium/jasst18kansai.html>`_  `JaSST’18 関西 情報交換会 夜の部 <https://connpass.com/event/90173/>`_
 
