@@ -4,6 +4,37 @@
 2018年
 ^^^^^^
 
+* 8月18日（土）
+   * `LILO&東海道らぐオフラインミーティング 2018/08/18 <https://lilo.connpass.com/event/95172/>`_
+
+* 8月17日（金）
+   * bitset night #4
+
+* 8月11日（土）-12日（日）
+   * `COSCUP 2018 <https://2018.coscup.org/>`_
+   * `openSUSE.Asia Summit 2018 <https://events.opensuse.org/conference/summitasia18>`_
+   * GNOME.Asia Summit 2018
+
+* 8月3日（金）-4日（土）
+   * `二夜限りのギークハウス in 京都 2018 <https://atnd.org/events/94723>`_
+
+* 8月3日（金）-4日（土）
+   * `オープンソースカンファレンス 2018 Kyoto <https://www.ospn.jp/osc2018-kyoto/>`_
+
+* 7月29日（日）-8月1日（水）
+   * `DebConf18 <https://debconf18.debconf.org/>`_ , `debconf wiki <https://wiki.debconf.org/wiki/DebConf18>`_
+
+* 7月25日（水）
+   * `MonotaRO Tech Talk #6 (梅田・赤坂オフィスオープン記念) <https://monotaro.connpass.com/event/93702/>`_
+
+* 7月21日（土）
+   * jus2018年度総会
+   * `日本UNIXユーザ会勉強会「社会人のためのIT教育 〜エンジニアの教育をどうしているか〜」 <https://jus.connpass.com/event/89647/>`_
+
+* 7月18日（水）
+   * `LibreOfficeの日 vol.54 <https://juso-coworking.doorkeeper.jp/events/76818>`_
+   * `[OpenStreetMap]もくもくマッピング！ #19  <https://countries-romantic.connpass.com/event/92890/>`_
+
 * 7月14日（土）
    * jus拡大幹事会
 
