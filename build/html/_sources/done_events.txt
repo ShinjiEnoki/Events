@@ -4,6 +4,19 @@
 2018年
 ^^^^^^
 
+* 8月26日（日）
+   * `みんなでエディタソン#01 <https://countries-romantic.connpass.com/event/94834/>`_
+
+* 8月25日（土）
+   * `TOC/TOCfE関西 提案が断られないか検証する技術 <https://tocfe-kansai.doorkeeper.jp/events/78372>`_
+
+* 8月24日（金）
+   * jus 2018/08オンライン幹事会
+
+* 8月22日（水）
+   * `LibreOfficeの日 vol.55 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/77968>`_
+   * `[OpenStreetMap]もくもくマッピング！ #20 <https://countries-romantic.connpass.com/event/96378/>`_
+
 * 8月18日（土）
    * `LILO&東海道らぐオフラインミーティング 2018/08/18 <https://lilo.connpass.com/event/95172/>`_
 
