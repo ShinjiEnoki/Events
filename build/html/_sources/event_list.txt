@@ -11,13 +11,14 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
 * 9月9日（日）
    * KOF実行委員ミーティング2018/9/9
 
+* 9月11日（火）
+   * `京都アジャイル勉強会#84 オープン・ジャム <https://connpass.com/event/99790/>`_ [参加]
+
 * 9月12日（水）
    * `スクラム道関西 第110回オープン・ジャム <https://scrumdo-kansai.connpass.com/event/100210/>`_
 
 * 9月19日（水）
    * LibreOfficeの日 vol.56 @JUSO-Coworking [参加]
-
-* 9月19日（水）
    * `[OpenStreetMap]もくもくマッピング！ #21 <https://countries-romantic.connpass.com/event/100234/>`_ [参加]
 
 * 9月22日（土）

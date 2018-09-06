@@ -7,6 +7,9 @@
 * 9月6日（木）
    * `OSS Gate大阪ふりかえり2018-09 <https://oss-gate.doorkeeper.jp/events/79516>`_
 
+* 9月2日（日）
+   * `[秋葉原] がやがやと作業をする会(テーマ自由、初心者歓迎！)  <https://weeyble-creative.connpass.com/event/98601/>`_
+
 * 9月1日（土）-2日（日）
    * `JSDG第19回全国大会(東京) <https://jsdg.org/contents/conference/19zenkoku/>`_
 
