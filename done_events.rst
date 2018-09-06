@@ -4,6 +4,12 @@
 2018年
 ^^^^^^
 
+* 9月6日（木）
+   * `OSS Gate大阪ふりかえり2018-09 <https://oss-gate.doorkeeper.jp/events/79516>`_
+
+* 9月1日（土）-2日（日）
+   * `JSDG第19回全国大会(東京) <https://jsdg.org/contents/conference/19zenkoku/>`_
+
 * 8月26日（日）
    * `みんなでエディタソン#01 <https://countries-romantic.connpass.com/event/94834/>`_
 
