@@ -4,6 +4,20 @@
 2018年
 ^^^^^^
 
+* 9月22日（土）
+   * jus拡大幹事会2018-09-22:/etc/wall作成と集中ワーク
+
+* 9月19日（水）
+   * LibreOfficeの日 vol.56 @JUSO-Coworking
+   * `[OpenStreetMap]もくもくマッピング！ #21 <https://countries-romantic.connpass.com/event/100234/>`_
+   * `OSS Gate大阪ミートアップ2018-09-19 <https://oss-gate.doorkeeper.jp/events/79892>`_
+
+* 9月9日（日）
+   * KOF実行委員ミーティング2018/9/9
+
+* 9月8日（土）
+   * `日本ITストラテジスト協会 関西支部 オープンフォーラム2018 <https://jista-kansai.connpass.com/event/91868/>`_
+
 * 9月6日（木）
    * `OSS Gate大阪ふりかえり2018-09 <https://oss-gate.doorkeeper.jp/events/79516>`_
 

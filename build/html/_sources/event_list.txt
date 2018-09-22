@@ -4,26 +4,6 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
 2018年
 ^^^^^^^
 
-
-* 9月8日（土）
-   * `日本ITストラテジスト協会 関西支部 オープンフォーラム2018 <https://jista-kansai.connpass.com/event/91868/>`_ [参加]
-
-* 9月9日（日）
-   * KOF実行委員ミーティング2018/9/9
-
-* 9月11日（火）
-   * `京都アジャイル勉強会#84 オープン・ジャム <https://connpass.com/event/99790/>`_ [参加]
-
-* 9月12日（水）
-   * `スクラム道関西 第110回オープン・ジャム <https://scrumdo-kansai.connpass.com/event/100210/>`_
-
-* 9月19日（水）
-   * LibreOfficeの日 vol.56 @JUSO-Coworking [参加]
-   * `[OpenStreetMap]もくもくマッピング！ #21 <https://countries-romantic.connpass.com/event/100234/>`_ [参加]
-
-* 9月22日（土）
-   * jus拡大幹事会2018-09-22:/etc/wall作成と集中ワーク
-
 * 9月25日（火）
    * Collaboraパートナーミーティング [参加]
    * LiboCon 前日ミーティング [参加]
@@ -53,7 +33,10 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
    * `オープンソースカンファレンス2018 .Enterprise <https://www.ospn.jp/osc2018.enterprise/>`_
 
 * 12月8日（土）
-   * `オープンソースカンファレンス2018 Fukuoka <https://ospn.jp/osc2018-fukuoka/>`_
+   * `オープンソースカンファレンス2018 Fukuoka <https://ospn.jp/osc2018-fukuoka/>`_ [参加予定、liboとして申込する]
+
+* 12月9日（日）予定
+   * 九州LibreOffice勉強会
 
 * 12月9日（日）-10日（月）
    * Wikipediaタウン in 岡山
@@ -65,5 +48,5 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
    * オープンソースカンファレンス2019 Osaka [参加予定]
 
 * 2月or3月
-   * オープンソースカンファレンス2019 Tokyo/Spring
+   * オープンソースカンファレンス2019 Tokyo/Spring [参加予定]
 
