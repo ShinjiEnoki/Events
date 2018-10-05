@@ -4,6 +4,19 @@
 2018年
 ^^^^^^
 
+* 10月5日（金）
+   * `本と地図bar #2 <https://www.facebook.com/events/796662187335057/>`_
+
+* 10月5日（金）
+   * JISTA関西2018年10月定例会
+
+* 9月26日（水）-28日（金）
+   * `LibreOffice Conference 2018 Tirana, Albania <https://libocon.org/>`_
+
+* 9月25日（火）
+   * Collaboraパートナーミーティング
+   * LiboCon 前日ミーティング
+
 * 9月22日（土）
    * jus拡大幹事会2018-09-22:/etc/wall作成と集中ワーク
 

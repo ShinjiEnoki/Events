@@ -4,18 +4,18 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
 2018年
 ^^^^^^^
 
-* 9月25日（火）
-   * Collaboraパートナーミーティング [参加]
-   * LiboCon 前日ミーティング [参加]
 
-* 9月26日（水）-28日（金）
-   * `LibreOffice Conference 2018 Tirana, Albania <https://libocon.org/>`_ [参加]
+* 10月9日（火）
+   * `京都アジャイル勉強会#85 オープン・ジャム <https://connpass.com/event/102321/>`_ [参加]
 
-* 10月5日（金）-7日（日）
-   * `g0v Summit 2018 <https://summit.g0v.tw/2018/>`_ [参加難しそう]
+* 10月13日（土）
+   * `テスト自動化勉強会 2018-10-13 <https://warai.connpass.com/event/101047/>`_ [参加]
 
-* 10月6日（土）
-   * `オープンソースカンファレンス2018 Kagawa <https://www.ospn.jp/osc2018-kagawa/>`_ [不参加]
+* 10月17日（水）
+   * LibreOfficeの日 @ JUSO Coworking [参加]
+
+* 10月17日（水）
+   * `[OpenStreetMap]もくもくマッピング！ #22 <https://countries-romantic.connpass.com/event/103336/>`_ [参加]
 
 * 10月27日（土）-28日（日）
    * `オープンソースカンファレンス2018 Tokyo/Fall <https://www.ospn.jp/osc2018-fall/>`_ [参加予定]
