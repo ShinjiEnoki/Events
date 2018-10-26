@@ -4,6 +4,22 @@
 2018年
 ^^^^^^
 
+* 10月26日（金）
+   * LibreOffice日本語チームミートアップ 2018-10-26
+
+* 10月17日（水）
+   * `LibreOfficeの日 @ JUSO Coworking vol.57 <https://juso-coworking.doorkeeper.jp/events/81405>`_
+   * `[OpenStreetMap]もくもくマッピング！ #22 <https://countries-romantic.connpass.com/event/103336/>`_ 
+
+* 10月13日（土）
+   * `テスト自動化勉強会 2018-10-13 <https://warai.connpass.com/event/101047/>`_
+
+* 10月12日（金）
+   * 日本UNIXユーザ会オンライン幹事会2018-10-12
+
+* 10月9日（火）
+   * `京都アジャイル勉強会#85 オープン・ジャム <https://connpass.com/event/102321/>`_
+
 * 10月5日（金）
    * `本と地図bar #2 <https://www.facebook.com/events/796662187335057/>`_
 
