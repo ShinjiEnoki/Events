@@ -4,6 +4,12 @@
 2018年
 ^^^^^^
 
+* 11月21日（水）
+   * `[OpenStreetMap]もくもくマッピング！ #23 <https://countries-romantic.connpass.com/event/106596/>`_
+
+* 11月21日（水）
+   * `LibreOfficeの日 vol.58 <https://juso-coworking.doorkeeper.jp/events/81698>`_
+
 * 11月18日（日）
    * `オープンデータソン in 雑賀崎 <https://wacker.doorkeeper.jp/events/80908>`_
 

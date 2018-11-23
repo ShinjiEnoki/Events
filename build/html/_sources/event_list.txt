@@ -4,12 +4,6 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
 2018年
 ^^^^^^^
 
-* 11月21日（水）
-   * `LibreOfficeの日 vol.58 <https://juso-coworking.doorkeeper.jp/events/81698>`_ [参加]
-
-* 11月23日（金）
-   * `オープンソースカンファレンス2018 Shimane <https://www.ospn.jp/osc2018-shimane/>`_ [たぶん不参加]
-
 * 11月24日（土）
    * `OSS Gate大阪ワークショップ2018-11-24 <https://oss-gate.doorkeeper.jp/events/80503>`_ [参加]
 
