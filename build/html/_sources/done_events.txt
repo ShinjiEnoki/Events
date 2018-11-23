@@ -4,6 +4,30 @@
 2018年
 ^^^^^^
 
+* 11月18日（日）
+   * `オープンデータソン in 雑賀崎 <https://wacker.doorkeeper.jp/events/80908>`_
+
+* 11月16日（金）
+   * 日本UNIXユーザ会オンライン幹事会2018-11-16
+
+* 11月16日（金）
+   * `【大阪開催】働き方改革とTOC ～新しいTOCによる働き方改革プログラム～ <https://tocfe-kansai.doorkeeper.jp/events/81540>`_
+
+* 11月15日（木）
+   * Code for kobe第45回定例会
+
+* 11月9日（金）-10日（土）
+   * `関西オープンフォーラム2018 <https://k-of.jp/2018/>`_
+
+* 11月7日（水）
+   * `OSS Gate大阪ミートアップ2018-11-07 <https://oss-gate.doorkeeper.jp/events/82597>`_
+
+* 11月3日（土）
+   * 第58回J2関西
+
+* 10月27日（土）-28日（日）
+   * `オープンソースカンファレンス2018 Tokyo/Fall <https://www.ospn.jp/osc2018-fall/>`_
+
 * 10月26日（金）
    * LibreOffice日本語チームミートアップ 2018-10-26
 
