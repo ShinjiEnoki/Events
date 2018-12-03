@@ -4,6 +4,12 @@
 2018年
 ^^^^^^
 
+* 12月1日（土）
+   * `Agile Tour Osaka 2018 <https://www.kokuchpro.com/event/422247a80fb5262e75b9a81589bbb012/>`_
+
+* 11月24日（土）
+   * `OSS Gate大阪ワークショップ2018-11-24 <https://oss-gate.doorkeeper.jp/events/80503>`_
+
 * 11月21日（水）
    * `[OpenStreetMap]もくもくマッピング！ #23 <https://countries-romantic.connpass.com/event/106596/>`_
 
