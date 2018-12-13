@@ -4,20 +4,8 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
 2018年
 ^^^^^^^
 
-* 12月5日（水）
-   * `OSS Gate大阪ミートアップ2018-12-05 <https://oss-gate.doorkeeper.jp/events/83739>`_ [参加]
-
-* 12月8日（土）
-   * `オープンソースカンファレンス2018 Fukuoka <https://ospn.jp/osc2018-fukuoka/>`_ [参加予定、liboとして]
-
-* 12月9日（日）
-   * `第8回九州LibreOffice勉強会 <http://connpass.com/event/105630/>`_ [参加]
-
-* 12月9日（日）-10日（月）
-   * Wikipediaタウン in 岡山 [不参加]
-
 * 12月13日（木）
-   * LibreOffice mini meetup in Tokyo 2018-12-13
+   * `関東LibreOfficeゆるふわオフラインミーティング 2018.12 <https://kantolibo.connpass.com/event/112795/>`_
 
 * 12月14日（金）
    * `オープンソースカンファレンス2018 .Enterprise <https://www.ospn.jp/osc2018.enterprise/>`_ [参加]
@@ -33,7 +21,10 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
    * `[OpenStreetMap]もくもくマッピング！ #24 <https://countries-romantic.connpass.com/event/111372/>`_ [参加]
 
 * 12月22日（土）
-   * 第16回関西LibreOffice勉強会
+   * `第16回関西LibreOffice勉強会 <https://connpass.com/event/112533/>`_ [参加]
+
+* 12月23日（日）
+   * `第141回関西Debian勉強会 <https://wiki.debian.org/KansaiDebianMeeting>`_
 
 * 12月26日（水）
    * `抽選　Docker Meetup Kansai #2 <https://dockerkansai.connpass.com/event/111647/>`_

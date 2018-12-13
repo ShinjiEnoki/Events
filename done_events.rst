@@ -4,6 +4,15 @@
 2018年
 ^^^^^^
 
+* 12月9日（日）
+   * `第8回九州LibreOffice勉強会 <http://connpass.com/event/105630/>`_
+
+* 12月8日（土）
+   * `オープンソースカンファレンス2018 Fukuoka <https://ospn.jp/osc2018-fukuoka/>`_
+
+* 12月5日（水）
+   * `OSS Gate大阪ミートアップ2018-12-05 <https://oss-gate.doorkeeper.jp/events/83739>`_
+
 * 12月1日（土）
    * `Agile Tour Osaka 2018 <https://www.kokuchpro.com/event/422247a80fb5262e75b9a81589bbb012/>`_
 
