@@ -4,6 +4,28 @@
 2018年
 ^^^^^^
 
+* 12月23日（日）
+   * `第141回関西Debian勉強会 <https://wiki.debian.org/KansaiDebianMeeting>`_
+
+* 12月22日（土）
+   * `第16回関西LibreOffice勉強会 <https://connpass.com/event/112533/>`_
+
+* 12月19日（水）
+   * `LibreOfficeの日 vol.59 <https://juso-coworking.doorkeeper.jp/events/83831>`_
+   * `[OpenStreetMap]もくもくマッピング！ #24 <https://countries-romantic.connpass.com/event/111372/>`_
+
+* 12月16日（日）
+   * `幕末京都オープンデータソン#08：龍馬とお龍とお稲荷と <https://countries-romantic.connpass.com/event/107517/>`_
+
+* 12月15日（土）
+   * `Wikipedia ARTS 国立国際美術館 ニュー・ウェイブ 現代美術の80年代 <https://wikipedia-arts-5th.peatix.com/>`_
+
+* 12月14日（金）
+   * `オープンソースカンファレンス2018 .Enterprise <https://www.ospn.jp/osc2018.enterprise/>`_
+
+* 12月13日（木）
+   * `関東LibreOfficeゆるふわオフラインミーティング 2018.12 <https://kantolibo.connpass.com/event/112795/>`_
+
 * 12月9日（日）
    * `第8回九州LibreOffice勉強会 <http://connpass.com/event/105630/>`_
 
