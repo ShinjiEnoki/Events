@@ -4,6 +4,9 @@
 2018年
 ^^^^^^
 
+* 12月26日（水）
+   * `Docker Meetup Kansai #2 <https://dockerkansai.connpass.com/event/111647/>`_
+
 * 12月23日（日）
    * `第141回関西Debian勉強会 <https://wiki.debian.org/KansaiDebianMeeting>`_
 
