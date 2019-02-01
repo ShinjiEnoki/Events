@@ -1,8 +1,8 @@
 Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
 =========================================================
 
-* `Googleカレンダー <https://calendar.google.com/calendar?cid=NGk0ZXY4ZmsyNTRmcXM1NG5mZ2d0bmprNmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ>`_
 
+* `Googleカレンダー(enokiのコミュニティ系予定) <https://calendar.google.com/calendar/embed?src=4i4ev8fk254fqs54nfggtnjk6c%40group.calendar.google.com&ctz=Asia%2FTokyo>`_
 
 2019年
 ^^^^^^^
