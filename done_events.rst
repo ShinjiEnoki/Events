@@ -1,6 +1,46 @@
 これまで参加した勉強会/セミナー/イベント
 =========================================
 
+2019年
+^^^^^^
+
+* 2月1日（金）
+   * `Cloud Native Kansai #01 <https://cnjp.connpass.com/event/111646/>`_
+
+* 1月29日（火）
+   * `Mix Leap Joint 特別編 - スクラム道関西 第116回オープン・ジャム <https://yahoo-osaka.connpass.com/event/114292/>`_
+
+* 1月27日（日）
+   * `OSS 系コミュニティ合同 LT 大会 in 関西 <://debianjp.connpass.com/event/114929/>`_
+
+* 1月26日（土）
+   * `オープンソースカンファレンス2019 Osaka <https://www.ospn.jp/osc2019-osaka/>`_
+
+* 1月24日（木）
+   * `『Docker/Kubernetes 実践コンテナ開発入門』読書会 Osaka #1 <https://docker-beginners.connpass.com/event/115563/>`_
+
+* 1月20日（日）
+   * `オープンデータ京都実践会　大阪市立図書館デジタルアーカイブ　オフライン編集イベント&新年会 <https://opendatakyoto.connpass.com/event/117266/>`_
+
+* 1月19日（土）
+   * `幕末京都オープンデータソン#09：大阪の山と港とお祈りと <https://countries-romantic.connpass.com/event/113878/>`_
+
+* 1月17日（木）
+   * Code for Kobe 定例会 2019-01
+
+* 1月16日（水）
+   * `LibreOfficeの日 vol.60 @JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/85015>`_
+   * `[OpenStreetMap]もくもくマッピング！ #25 <https://countries-romantic.connpass.com/event/113944/>`_
+
+* 1月15日（火）
+   * `OSS Gate大阪ふりかえり2019-01 <https://oss-gate.doorkeeper.jp/events/85533>`_
+
+* 1月9日（水）
+   * `OSS Gate大阪ミートアップ2019-01-09 <https://oss-gate.doorkeeper.jp/events/85433>`_
+
+* 1月4日（金）
+   * `openSUSE 2019 新年会＠京都 <https://opensuseja.connpass.com/event/112529/>`
+
 2018年
 ^^^^^^
 
