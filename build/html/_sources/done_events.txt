@@ -39,7 +39,7 @@
    * `OSS Gate大阪ミートアップ2019-01-09 <https://oss-gate.doorkeeper.jp/events/85433>`_
 
 * 1月4日（金）
-   * `openSUSE 2019 新年会＠京都 <https://opensuseja.connpass.com/event/112529/>`
+   * `openSUSE 2019 新年会＠京都 <https://opensuseja.connpass.com/event/112529/>`_
 
 2018年
 ^^^^^^
