@@ -7,6 +7,9 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
 2019年
 ^^^^^^^
 
+* 3月7日（木）
+   * `『Docker/Kubernetes 実践コンテナ開発入門』読書会 Osaka #6 <https://docker-beginners.connpass.com/event/122674/>`_ [参加]
+
 * 3月9日（土）
    * `OSS Gate大阪ワークショップ2019-03-09 <https://oss-gate.doorkeeper.jp/events/86154>`_ [参加]
 
