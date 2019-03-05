@@ -4,6 +4,42 @@
 2019年
 ^^^^^^
 
+* 3月3日（日）
+   * `インターナショナルオープンデータディ2019 in 京都 <https://opendatakyoto.connpass.com/event/121680/>`_
+
+* 3月2日（土）
+   * `オープンストリートマップ関西　大集結 <https://openstreetmap-kansai.connpass.com/event/118851/>`_
+
+* 2月28日（木）
+   * `『Docker/Kubernetes 実践コンテナ開発入門』読書会 Osaka #5 <https://docker-beginners.connpass.com/event/121943/>`_
+
+* 2月26日（火）
+   * `2/26 脆弱性スキャナVuls & FutureVulsプライベートセミナー@大阪 <https://futurevuls.connpass.com/event/119189/>`_
+
+* 2月24日（日）
+   * `関東LibreOfficeゆるふわオフラインミーティング 2019.02 <https://kantolibo.connpass.com/event/121644/>`_
+
+* 2月22日（金）-23日（土）
+   * `オープンソースカンファレンス2019 Tokyo/Spring <https://www.ospn.jp/osc2019-spring/>`_
+
+* 2月21日（木）
+   * `OSSライセンスMeetup Vol.2　「実録：GPL違反とその対応を振り返る」 <https://sios.connpass.com/event/112157/>`_
+
+* 2月15日（金）
+   * `DIST.25 Reloaded「管理画面から考えるUX」 <https://dist.connpass.com/event/119044/>`_
+
+* 2月13日（水）
+   * `LibreOfficeの日 @ JUSO Coworking vol.61 <https://juso-coworking.doorkeeper.jp/events/86101>`_
+   * `[OpenStreetMap]もくもくマッピング！ #26 <https://countries-romantic.connpass.com/event/118101/>`_
+* 2月10日（日）
+   * `オープンソースカンファレンス2019 Hamanako <https://www.ospn.jp/osc2019-hamanako/>`_
+
+* 2月9日（土）
+   * オープンデータソンin 西大寺公民館
+
+* 2月6日（水）
+   * LINE株式会社 テックトークイベント@京都産業大学
+
 * 2月1日（金）
    * `Cloud Native Kansai #01 <https://cnjp.connpass.com/event/111646/>`_
 

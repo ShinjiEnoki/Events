@@ -6,46 +6,21 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
 
 2019年
 ^^^^^^^
-aaaa
-* 2月6日（水）
-   * LINE株式会社 テックトークイベント@京都産業大学 [参加]
-
-* 2月9日（土）
-   * オープンデータソンin 西大寺公民館 [参加]
-
-* 2月10日（日）
-   * `オープンソースカンファレンス2019 Hamanako <https://www.ospn.jp/osc2019-hamanako/>`_ [参加]
-
-* 2月13日（水）
-   * `LibreOfficeの日 @ JUSO Coworking vol.61 <https://juso-coworking.doorkeeper.jp/events/86101>`_ [参加]
-   * `[OpenStreetMap]もくもくマッピング！ #26 <https://countries-romantic.connpass.com/event/118101/>`_ [参加]
-
-* 2月15日（金）
-   * `DIST.25 Reloaded「管理画面から考えるUX」 <https://dist.connpass.com/event/119044/>`_ [参加]
-
-* 2月21日（木）
-   * `OSSライセンスMeetup Vol.2　「実録：GPL違反とその対応を振り返る」 <https://sios.connpass.com/event/112157/>`_ [参加]
-
-* 2月22日（金）-23日（土）
-   * `オープンソースカンファレンス2019 Tokyo/Spring <https://www.ospn.jp/osc2019-spring/>`_ [参加予定]
-
-* 2月24日（日）
-   * Kanto LibreOffice Offline meeting 2019.02 [参加予定]
-
-* 2月26日（火）
-   * `2/26 脆弱性スキャナVuls & FutureVulsプライベートセミナー@大阪 <https://futurevuls.connpass.com/event/119189/>`_ [参加]
-
-* 3月3日（日）
-   * インターナショナル・オープンデータディ in 京都
 
 * 3月9日（土）
    * `OSS Gate大阪ワークショップ2019-03-09 <https://oss-gate.doorkeeper.jp/events/86154>`_ [参加]
+
+* 3月13日（水）
+   * `LibreOfficeの日 vol.62 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/88063>`_ [参加]
+   * `[OpenStreetMap]もくもくマッピング！ #27 <https://countries-romantic.connpass.com/event/121767/>`_ [参加]
 
 * 3月15日（金）
    * `Cloud Native Kansai #02 <https://cnjp.connpass.com/event/117651/>`_ [参加]
 
 * 3月16日（土）
    * `Rancher2.0 Kubernetes Workshop in Osaka #02 <https://rancherjp.connpass.com/event/119342/>`_ [参加]
+   * `Rancher Meetup #07 in Osaka <https://rancherjp.connpass.com/event/119861/>`_ [参加]
+
 
 * 3月17日（日）
    * jusシステム作業日2019-03 [参加]
