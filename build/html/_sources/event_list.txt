@@ -7,42 +7,15 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
 2019年
 ^^^^^^^
 
-* 3月7日（木）
-   * `『Docker/Kubernetes 実践コンテナ開発入門』読書会 Osaka #6 <https://docker-beginners.connpass.com/event/122674/>`_ [参加]
+* 5月8日（水）
+   * LibreOfficeの日 vol.64 @ JUSO Coworking
+   * `[OpenStreetMap]もくもくマッピング！ #29  <https://countries-romantic.connpass.com/event/129172/>`_
 
-* 3月9日（土）
-   * `OSS Gate大阪ワークショップ2019-03-09 <https://oss-gate.doorkeeper.jp/events/86154>`_ [参加]
-
-* 3月13日（水）
-   * `LibreOfficeの日 vol.62 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/88063>`_ [参加]
-   * `[OpenStreetMap]もくもくマッピング！ #27 <https://countries-romantic.connpass.com/event/121767/>`_ [参加]
-
-* 3月15日（金）
-   * `Cloud Native Kansai #02 <https://cnjp.connpass.com/event/117651/>`_ [参加]
-
-* 3月16日（土）
-   * `Rancher2.0 Kubernetes Workshop in Osaka #02 <https://rancherjp.connpass.com/event/119342/>`_ [参加]
-   * `Rancher Meetup #07 in Osaka <https://rancherjp.connpass.com/event/119861/>`_ [参加]
-
-
-* 3月17日（日）
-   * jusシステム作業日2019-03 [参加]
-
-* 3月20日（水）
-   * LibreOfficeの日 @ JUSO Coworking vol.62 [参加予定]
-   * [OpenStreetMap]もくもくマッピング！ #27 [参加予定]
-
-* 3月21日（木）
-   * jus拡大幹事会2019-03 [参加]
-
-* 3月23日（土）
-   * `ソーシャルハックデー Kobe vol.5 <https://www.facebook.com/events/2202731469986528/>`_ [参加]
-
-* 4月20日（土）
-   * `オープンソースカンファレンス2019沖縄 <https://www.ospn.jp/osc2019-okinawa/>`_ [不参加予定]
+* 5月12日（土）
+   * 第59回J2関西
 
 * 5月25日（土）-26（日）
-   * LibreOffice Asia Conference 2019 Tokyo [参加予定]
+   * `LibreOffice Asia Conference 2019 Tokyo <https://conf.libreoffice.jp/>`_ [参加]
 
 * 6月1日（土）
    * `オープンソースカンファレンス2019北海道 <https://www.ospn.jp/osc2019-do/>`_

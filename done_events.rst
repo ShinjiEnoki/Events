@@ -4,6 +4,81 @@
 2019年
 ^^^^^^
 
+
+* 5月5日（日）
+   * `LILO&東海道らぐオフラインミーティング 2019/05/05 <https://lilo.connpass.com/event/128777/>`_
+
+* 4月29日（月）
+   * ドキュメント勉強会企画MTG
+   * LibreOffice Asia Conference Meeting:グローバル電話ミーティング
+
+* 4月28日（日）
+   * KOF2019キックオフミーティング
+
+* 4月25日（木）
+   * `『Docker/Kubernetes 実践コンテナ開発入門』読書会 Osaka #11 <https://docker-beginners.connpass.com/event/128613/>`_
+
+* 4月24日（水）
+   * `Neo4j ユーザー勉強会 #24(大阪開催) <https://jp-neo4j-usersgroup.connpass.com/event/127886/>`_
+
+* 4月20日（土）
+   * `スクラム道関西 x 楽天　スクラム Meet up <https://scrumdo-kansai.connpass.com/event/125472/>`_
+
+* 4月18日（木）
+   * `『Docker/Kubernetes 実践コンテナ開発入門』読書会 Osaka #10 <https://docker-beginners.connpass.com/event/127785/>`_
+
+* 4月17日（水）
+   * `LibreOfficeの日 vol.63 @ JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/88956>`_
+   * `[OpenStreetMap]もくもくマッピング！ #28 <https://countries-romantic.connpass.com/event/125593/>`_
+
+* 4月12日（金）
+   * jusオンライン幹事会
+
+* 4月11日（木）
+   * `『Docker/Kubernetes 実践コンテナ開発入門』読書会 Osaka #9 <https://docker-beginners.connpass.com/event/127293/>`_
+   
+* 4月7日（土）
+   * `お花見！オープンデータソン in 京都 <https://countries-romantic.connpass.com/event/123258/>`_
+
+* 4月4日（木）
+   * `『Docker/Kubernetes 実践コンテナ開発入門』読書会 Osaka #8 <https://docker-beginners.connpass.com/event/125237/>`_ 
+
+* 4月2日（火）
+   * `神戸.rb Meetup #100 ～春のLT大会～ <https://koberb.doorkeeper.jp/events/86714>`_
+
+* 3月30日（土）
+   * オープンデータソンin尾道
+
+* 3月27日（水）
+   * `OSS Gate大阪ミートアップ2019-03-27 <https://oss-gate.doorkeeper.jp/events/88903>`_
+
+* 3月21日（木）
+   * jus拡大幹事会2019-03
+
+* 3月17日（日）
+   * jusシステム作業日2019-03
+
+* 3月16日（土）
+   * `Rancher2.0 Kubernetes Workshop in Osaka #02 <https://rancherjp.connpass.com/event/119342/>`_
+   * `Rancher Meetup #07 in Osaka <https://rancherjp.connpass.com/event/119861/>`_
+
+* 3月15日（金）
+   * `Cloud Native Kansai #02 <https://cnjp.connpass.com/event/117651/>`_
+
+* 3月14日（木）
+   * `『Docker/Kubernetes 実践コンテナ開発入門』読書会 Osaka #7 <https://docker-beginners.connpass.com/event/123883/>`_
+   * LibreOffice Marketing Conference Call
+
+* 3月13日（水）
+   * `LibreOfficeの日 vol.62 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/88063>`_
+   * `[OpenStreetMap]もくもくマッピング！ #27 <https://countries-romantic.connpass.com/event/121767/>`_
+
+* 3月9日（土）
+   * `OSS Gate大阪ワークショップ2019-03-09 <https://oss-gate.doorkeeper.jp/events/86154>`_
+
+* 3月7日（木）
+   * `『Docker/Kubernetes 実践コンテナ開発入門』読書会 Osaka #6 <https://docker-beginners.connpass.com/event/122674/>`_
+
 * 3月3日（日）
    * `インターナショナルオープンデータディ2019 in 京都 <https://opendatakyoto.connpass.com/event/121680/>`_
 
