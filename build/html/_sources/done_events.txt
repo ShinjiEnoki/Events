@@ -4,6 +4,9 @@
 2019年
 ^^^^^^
 
+* 5月8日（水）
+   * `LibreOfficeの日 vol.64 @ JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/90528>`_
+   * `[OpenStreetMap]もくもくマッピング！ #29  <https://countries-romantic.connpass.com/event/129172/>`_
 
 * 5月5日（日）
    * `LILO&東海道らぐオフラインミーティング 2019/05/05 <https://lilo.connpass.com/event/128777/>`_

@@ -7,18 +7,20 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
 2019年
 ^^^^^^^
 
-* 5月8日（水）
-   * LibreOfficeの日 vol.64 @ JUSO Coworking
-   * `[OpenStreetMap]もくもくマッピング！ #29  <https://countries-romantic.connpass.com/event/129172/>`_
+* 5月9日（金）
+   * `Algolia Community Party in 京都 - 2019年5月10日 <https://algolia.connpass.com/event/128524/>`_ [参加]
 
 * 5月12日（土）
-   * 第59回J2関西
+   * 第59回J2関西 [参加]
 
 * 5月25日（土）-26（日）
    * `LibreOffice Asia Conference 2019 Tokyo <https://conf.libreoffice.jp/>`_ [参加]
 
 * 6月1日（土）
    * `オープンソースカンファレンス2019北海道 <https://www.ospn.jp/osc2019-do/>`_
+
+* 6月22日（土）
+   * ドキュメントの集い
 
 * 7月13日（土）
    * `オープンソースカンファレンス2019 名古屋 <https://www.ospn.jp/osc2019-nagoya/>`_ [参加予定]
