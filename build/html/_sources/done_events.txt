@@ -4,6 +4,159 @@
 2019年
 ^^^^^^
 
+* 9月27日（金）
+   * `LibreOfficeの日 vol.68 <https://juso-coworking.doorkeeper.jp/events/97750>`
+   * `もくもくマッピング！ #33 ～Canvaで地図を使おう～ <https://countries-romantic.connpass.com/event/147450/>`_
+
+* 9月26日（木）
+   * CNDK Committee オンラインミーティング #5
+
+* 9月21日（土）-23日（月）
+   * `State of the Map 2019 <https://2019.stateofthemap.org/>`_
+
+* 9月14日（土）-15日（日）
+   * `Nextcloud conference 2019 <https://nextcloud.com/conf-2019/>`_
+
+* 9月24日（火）-28日（金）
+   * `LibreOffice Conference 2019,Almería <https://libocon.org/>`_ 発表は28
+
+* 9月4日（水）
+   * CNDK Online Meeting #4[CFP!!]
+
+* 9月1日（日）
+   * kofミーティング
+
+* 8月30日（金）
+   * jusオンライン幹事会
+
+* 8月29日（木）
+   * RancherJP関西オンライン運営MTG
+
+* 8月28日（水）
+   * `LibreOfficeの日 vol.67 <https://juso-coworking.doorkeeper.jp/events/94639>`_
+   * `もくもくマッピング！ #32 ～API活用編～ <https://countries-romantic.connpass.com/event/142095/>`_
+
+* 8月24日（土）
+   * `夏のドキュメンテーション祭り @ ODC2019東京 (日本UNIXユーザ会)  <https://doc-meeting-jp.connpass.com/event/142015/>`_
+   * `オープンデベロッパーズカンファレンス2019 <https://www.ospn.jp/odc2019/>`_
+
+* 8月23日（金）
+   * `"distro info": vol.1 <https://sios.connpass.com/event/143212/>`_
+
+* 8月21日（水）
+   * CNDK Online Meeting #2
+
+* 8月17日（土）-18日（日）
+   * `COSCUP 2019 @NTUST <https://2019.coscup.org/>`_ 発表は18
+
+* 8月10日（土）
+   * `LILO&東海道らぐオフラインミーティング 2019/08/10 <https://lilo.connpass.com/event/141391/>`_
+
+* 8月7日（水）
+   * `Rancher Workshop 大阪 8/7 第2部 15:30-17:00 <https://connpass.com/event/138469/>`_
+   * `Cloud Native Kansai #05 LT大会 <https://cnjp.connpass.com/event/139384/>`_
+
+* 8月6日（火）
+   * `Rancher Meetup #09 in Osaka <https://rancherjp.connpass.com/event/137878/>`_
+
+* 8月2日（金）-3日（土）
+   * `オープンソースカンファレンス2019京都 <https://www.ospn.jp/osc2019-kyoto/>`_
+
+* 7月30日（火）
+   * CNDKオンラインミーティング
+
+* 7月25日（金）
+   * `JANOG44 （神戸） <https://www.janog.gr.jp/meeting/janog44/>`_
+
+* 7月24日（水）
+   * 実践会オンラインミーティング
+
+* 7月20日（土）
+   * jus総会 & `日本UNIXユーザ会勉強会「ワープロソフトウェアでの正しい文章の作り方」 <https://jus.connpass.com/event/132912/>`_
+
+* 7月17日（水）-19日（金）
+   * `Open Source Summit Japan 2019 <https://events.linuxfoundation.jp/events/open-source-summit-japan-2019/>`_
+
+* 7月17日（水）
+   * `7/17 「OSC2019東京秋」セミナー＆展示企画会議 vol.2 <https://ospn.connpass.com/event/131840/>`_
+
+* 7月16日（火）
+   * OSS Summit準備
+
+* 7月15日（月）
+   * jus総会資料作成・オフライン
+
+* 7月13日（土）
+   * `オープンソースカンファレンス2019 名古屋 <https://www.ospn.jp/osc2019-nagoya/>`_
+   * `もくもくマッピング！ #31 ～uMap活用編～ <https://countries-romantic.connpass.com/event/137514/>`_
+
+* 7月11日（木）
+   * Open Source Summit 2019ミーティング（オンライン）
+
+* 7月10日（水）
+   * `LibreOfficeの日 vol.66 <https://juso-coworking.doorkeeper.jp/events/94288>`_
+
+* 7月7日（日）
+   * `Debian 10 Buster Release Party in 関西 <https://debianjp.connpass.com/event/135926/>`_
+
+* 7月6日（土）
+   * `ライブモデリングin大阪 <https://benkyoenkai.connpass.com/event/133860/>`_
+
+* 7月5日（金）
+   * `JaSST関西2019 <http://www.jasst.jp/symposium/jasst19kansai.html>`_
+   * オープンデータ京都実践会オンラインミーティング
+
+* 6月30日（日）
+   * ` 百舌鳥古墳群マッピングパーティ <https://countries-romantic.connpass.com/event/135021/>`_
+
+* 6月29日（土）
+   * `幕末京都オープンデータソン#11：京の浪士と池田屋事件 <https://countries-romantic.connpass.com/event/133247/>`_
+
+* 6月27日（木）
+   * rancherjp関西オフラインミーティング
+
+* 6月26日（水）
+   * cndkスタッフオフラインミートアップ
+
+* 6月25日（火）
+   * `OSS Gate大阪ふりかえり2019-06 <https://oss-gate.doorkeeper.jp/events/93010>`_
+
+* 6月22日（土）
+   * `ドキュメンテーションの集い@大阪 第1回 <https://doc-meeting-jp.connpass.com/event/130305/>`_
+
+* 6月21日（金）
+   * jusオンライン幹事会2019-06-21
+
+* 6月20日（木）
+   * `Dockerの仕組みを知ろう Osaka #15 <https://docker-beginners.connpass.com/event/135724/>`_
+   
+* 6月19日（水）
+   * `LibreOfficeの日 vol.65 <https://juso-coworking.doorkeeper.jp/events/91535>`_
+   * `[祝！30回目]もくもくマッピング！ #30 <https://countries-romantic.connpass.com/event/131035/>`_
+
+* 6月9日（土）
+   * KOF実行委員会ミーティング
+
+* 6月6日（木）
+   * `Rancher Meetup #08 in Osaka <https://rancherjp.connpass.com/event/130488/>`_
+
+* 5月30日（木）
+   * `『Docker/Kubernetes 実践コンテナ開発入門』読書会 Osaka #14 <https://docker-beginners.connpass.com/event/132945/>`_
+
+* 5月25日（土）-26（日）
+   * `LibreOffice Asia Conference 2019 Tokyo <https://conf.libreoffice.jp/>`_
+
+* 5月23日（木）
+   * `『Docker/Kubernetes 実践コンテナ開発入門』読書会 Osaka #13 <https://docker-beginners.connpass.com/event/131849/>`_
+
+* 5月21日（火）
+   * `Rancher k3s もくもく勉強会 大阪 #01 <https://rancherjp.connpass.com/event/125946/>`_
+* 5月12日（土）
+   * 第59回J2関西
+
+* 5月9日（金）
+   * `Algolia Community Party in 京都 - 2019年5月10日 <https://algolia.connpass.com/event/128524/>`_
+
 * 5月8日（水）
    * `LibreOfficeの日 vol.64 @ JUSO Coworking <https://juso-coworking.doorkeeper.jp/events/90528>`_
    * `[OpenStreetMap]もくもくマッピング！ #29  <https://countries-romantic.connpass.com/event/129172/>`_

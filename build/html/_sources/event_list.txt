@@ -7,40 +7,49 @@ Shinji Enoki:参加予定or興味ある、勉強会/セミナー/イベント
 2019年
 ^^^^^^^
 
-* 5月9日（金）
-   * `Algolia Community Party in 京都 - 2019年5月10日 <https://algolia.connpass.com/event/128524/>`_ [参加]
+* 10月2日（水）
+   * RancherJP関西：運営MTG
 
-* 5月12日（土）
-   * 第59回J2関西 [参加]
+* 10月5日（土）-6日（日）
+   * `openSUSE.Asia Summit 2019 Bali <https://events.opensuse.org/conferences/summitasia19>`_
 
-* 5月25日（土）-26（日）
-   * `LibreOffice Asia Conference 2019 Tokyo <https://conf.libreoffice.jp/>`_ [参加]
+* 10月11日（金）
+   * jusオンライン幹事会
 
-* 6月1日（土）
-   * `オープンソースカンファレンス2019北海道 <https://www.ospn.jp/osc2019-do/>`_
+* 10月11日（金）-13日（日）
+   * `GNOME.Asia Summit 2019 <https://2019.gnome.asia/#/>`_
 
-* 6月22日（土）
-   * ドキュメントの集い
+* 10月19日（土）
+   * `オープンソースカンファレンス 2019 Tokushima <https://www.ospn.jp/osc2019-tokushima/>`_
 
-* 7月13日（土）
-   * `オープンソースカンファレンス2019 名古屋 <https://www.ospn.jp/osc2019-nagoya/>`_ [参加予定]
+* 10月20日（日）
+   * `ドキュメンテーションの集い@大阪 第2回 <https://doc-meeting-jp.connpass.com/event/146117/>`_
 
-* 7月17日（水）-19日（金）
-   * `Open Source Summit Japan 2019 <https://events.linuxfoundation.jp/events/open-source-summit-japan-2019/>`_
+* 10月26日（土）-27日（日）
+   * `JSDG第20回全国大会(名古屋) <https://jsdg.org/contents/conference/20zenkoku/>`_
 
-* 8月2日（金）-3日（土）
-   * `オープンソースカンファレンス2019京都 <https://www.ospn.jp/osc2019-kyoto/>`_ [参加予定]
+* 10月28日（月）
+   * Rancher関西オンラインミーティング
 
-* 8月17日（土）-18日（日）
-   * `COSCUP 2019 @NTUST <https://2019.coscup.org/>`_ : 5/12 deadline for OSC tickets application, CfPは不明
+* 10月29日（火）
+   * CNDK Committee #6 オンライン
 
-* 9月24日（火）-28日（金）
-   * `LibreOffice Conference 2019,Almería <https://libocon.org/>`_ [参加予定]
+* 10月30日（水）
+   * LibreOfficeの日
 
 * 11月8日（金）-9日（土）
    * `関西オープンフォーラム2019 <https://www.k-of.jp/>`_ [参加予定]
 
+* 11月23日（土）
+   * 伏見オープンデータソン
 
+* 11月28日（木）
+   * `CloudNative Days Kansai 2019 <https://cloudnativedays.jp/cndk2019/>`_
 
+* 11月29日（金）
+   * Rancher Day Osaka?
+
+* 11月30日（土）
+   * 関西LibreOffice勉強会
 
 
