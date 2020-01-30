@@ -1,11 +1,140 @@
 これまで参加した勉強会/セミナー/イベント
 =========================================
 
+2020年
+^^^^^^
+
+* 2020/1/26（日）
+   * `関西Debian + LILO + 東海道らぐ + openSUSE 合同 LT 大会 <https://debianjp.connpass.com/event/161613/>`_
+
+* 2020/1/24（金）-25（土）
+   * `オープンソースカンファレンス2020大阪 <https://www.ospn.jp/osc2020-osaka/>`_
+
+* 2020/1/22（水）
+   * `LibreOfficeの日 vol.72 @JUSO-Coworking <https://connpass.com/event/161928/>`_
+   * `もくもくマッピング！ #37 ～ステップアップもくもく会～ <https://countries-romantic.connpass.com/event/162046/>`_
+
+* 2020/1/12（日）
+   * `JSTQB Advanced Level Test Analyst試験対策勉強会2020/01/12 <https://warai.connpass.com/event/161252/>`_
+
+* 2020/1/7（火）
+   * RancherJP関西運営MTGオンライン
+
+* 2020/1/6（月）
+   * 産業創造館抽選会：OSC大阪会場予約
+
+* 2020/1/3（金）
+   * `openSUSE 2020 新年会＆もくもく会＠京都 <https://opensuseja.connpass.com/event/159207/>`_
+   * オープンデータ京都実践会2020新年会
+
 2019年
 ^^^^^^
 
+* 12月22日（日）
+   * `JSTQB Advanced Level Test Analyst試験対策勉強会2019/12/22 <https://warai.connpass.com/event/158870/>`_
+
+* 12月20日（金）
+   * RancherJP関西の忘年会
+   * jusオンライン幹事会
+
+* 12月19日（木）
+   * `オープンデータ企画会議＆忘年会 2019 <https://countries-romantic.connpass.com/event/157628/>`_
+
+* 12月18日（水）
+   * `LibreOfficeの日 vol.71 @JUSO-Coworking <https://connpass.com/event/157411/>`_
+   * `もくもくマッピング！ #36 ～JOSMで良い地図を～ <https://countries-romantic.connpass.com/event/157327/>`_
+
+* 12月11日（水）
+   * `BlockTips (Blockchain Meetup) #9 <https://blocktips9.peatix.com/>`_
+
+* 12月8日（日）
+   * `まちの事典ｳｨｷﾍﾟﾃﾞｨｱを作ろう！＆自由な地図を描こうオープンストリートマップ～草津市版～udcイベント <https://www.facebook.com/events/457766134858667/>`_
+
+* 12月7日（土）
+   * `JSTQB Advanced Level Test Analyst試験対策勉強会 2019/12/7 <https://warai.connpass.com/event/107464/>`_
+
+* 12月3日（火）
+   * CMDKオンライン振り返りミーティング
+
+* 12月1日（日）
+   * KOF2019 振り返りミーティング
+
+* 11月30日（土）
+   * `第17回関西LibreOffice勉強会 <https://connpass.com/event/156106/>`_
+
+* 11月28日（木）
+   * `CloudNative Days Kansai 2019 <https://cloudnativedays.jp/cndk2019/>`_
+
+* 11月27日（水）
+   * `【前夜祭】CloudNative Days Kansai 2019 Meetup <https://cloudnativedays.connpass.com/event/152321/>`_
+
+* 11月24日（日）
+   * `OSS Gate大阪ワークショップ2019-11-24 <https://oss-gate.doorkeeper.jp/events/100178>`_
+
+* 11月23日（土）
+   * `幕末京都オープンデータソン#14：伏見の町と寺田屋事件 <https://countries-romantic.connpass.com/event/152278/>`_
+
+* 11月20日（水）
+   * `LibreOfficeの日 vol.70 @JUSO-Coworking <https://connpass.com/event/156607/>`_
+   * `もくもくマッピング！ #35 ～基本に立ち返る～ <https://countries-romantic.connpass.com/event/155683/>`_
+
+* 11月19日（火）
+   * CNDK2019ミーティング
+
+* 11月16日（土）
+   * オープンデータソン2019 in 津山
+
+* 11月15日（木）
+   * RancherJP関西オンラインミーティング
+
+* 11月8日（金）-9日（土）
+   * `関西オープンフォーラム2019 <https://www.k-of.jp/>`_
+
+* 10月30日（水）
+   * `LibreOfficeの日 vol.69 @JUSO-Coworking <https://juso-coworking.doorkeeper.jp/events/98882>`_
+   * `もくもくマッピング！ #34 ～旅の報告会（西日本）～ <https://countries-romantic.connpass.com/event/152125/>`_
+
+* 10月29日（火）
+   * CNDK Committee #6 オンライン
+
+* 10月28日（月）
+   * `Rancher Meetup X in Osaka <https://rancherjp.connpass.com/event/148414/>`_
+
+* 10月26日（土）-27日（日）
+   * `JSDG第20回全国大会(名古屋) <https://jsdg.org/contents/conference/20zenkoku/>`_
+
+* 10月24日（木）
+   * `『Docker/Kubernetes 実践コンテナ開発入門』読書会 Osaka #24 <https://docker-beginners.connpass.com/event/152542/>`_
+
+* 10月20日（日）
+   * `ドキュメンテーションの集い@大阪 第2回 <https://doc-meeting-jp.connpass.com/event/146117/>`_
+
+* 10月19日（土）
+   * `オープンソースカンファレンス 2019 Tokushima <https://www.ospn.jp/osc2019-tokushima/>`_
+
+* 10月17日（木）
+   * `『Docker/Kubernetes 実践コンテナ開発入門』読書会 Osaka #23 <https://docker-beginners.connpass.com/event/151518/>`_
+
+* 10月11日（金）-13日（日）
+   * `GNOME.Asia Summit 2019 <https://2019.gnome.asia/#/>`_
+
+* 10月11日（金）
+   * jusオンライン幹事会
+
+* 10月10日（木）
+   * ナロタマ大学でのLibreOfficeレクチャー
+
+* 10月5日（土）-6日（日）
+   * `openSUSE.Asia Summit 2019 Bali <https://events.opensuse.org/conferences/summitasia19>`_
+
+* 10月4日（金）
+   * openSUSE meetup in Bali
+
+* 10月2日（水）
+   * RancherJP関西：運営MTG
+
 * 9月27日（金）
-   * `LibreOfficeの日 vol.68 <https://juso-coworking.doorkeeper.jp/events/97750>`
+   * `LibreOfficeの日 vol.68 <https://juso-coworking.doorkeeper.jp/events/97750>`_
    * `もくもくマッピング！ #33 ～Canvaで地図を使おう～ <https://countries-romantic.connpass.com/event/147450/>`_
 
 * 9月26日（木）
@@ -107,7 +236,7 @@
    * オープンデータ京都実践会オンラインミーティング
 
 * 6月30日（日）
-   * ` 百舌鳥古墳群マッピングパーティ <https://countries-romantic.connpass.com/event/135021/>`_
+   * `百舌鳥古墳群マッピングパーティ <https://countries-romantic.connpass.com/event/135021/>`_
 
 * 6月29日（土）
    * `幕末京都オープンデータソン#11：京の浪士と池田屋事件 <https://countries-romantic.connpass.com/event/133247/>`_
